@@ -1,4 +1,4 @@
- {
+{
   "typography": {
     "caption-extrasmall": {
       "value": {
@@ -4782,7 +4782,7 @@
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
     "content-additional": {
-      "value": "#BAD6FC",
+      "value": "#bbd6fb",
       "type": "color",
       "description": "use for hover state for messages desktop"
     },
