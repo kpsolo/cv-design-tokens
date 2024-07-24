@@ -564,6 +564,21 @@
       "type": "typography",
       "description": "main banner mob title"
     },
+    "title-3-additional": {
+      "value": {
+        "fontFamily": "{font-family.accent}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.2}",
+        "fontSize": "{font-size.6}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "main banner mob title"
+    },
     "title-2-light": {
       "value": {
         "fontFamily": "{font-family.accent}",
@@ -2391,6 +2406,11 @@
           "value": "linear-gradient(180deg, rgba(28, 37, 65, 0.00) 0%, #1C2541 100%)",
           "type": "color",
           "description": "select provider item"
+        },
+        "3": {
+          "value": "linear-gradient(180deg, rgba(7, 23, 98, 0.00) 0%, rgba(13, 29, 69, 0.80) 21.5%, #152856 100%)",
+          "type": "color",
+          "description": "main banner bottom overlay"
         }
       },
       "border": {
