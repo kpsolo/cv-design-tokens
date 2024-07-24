@@ -862,6 +862,28 @@
       "type": "boxShadow",
       "description": "accent blur menu items desktop"
     },
+    "win-ticket": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "8",
+          "spread": "0",
+          "color": "rgba(255, 206, 33, 0.40)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "4",
+          "spread": "0",
+          "color": "rgba(255, 206, 33, 0.80)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "win gold win ticket state\n"
+    },
     "text-3": {
       "value": {
         "x": "0",
@@ -909,20 +931,6 @@
       },
       "type": "boxShadow",
       "description": "shadow for payment cards in cashbox"
-    },
-    "win-ticket": {
-      "value": [
-        {
-          "x": "0",
-          "y": "2",
-          "blur": "4",
-          "spread": "0",
-          "color": "{base.gold}",
-          "type": "dropShadow"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "Shadow for win ticket in lottery"
     },
     "header": {
       "value": {
