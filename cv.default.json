@@ -2051,7 +2051,6 @@
       "sidebar-desktop-additional": {
         "value": "linear-gradient(168deg, rgba(10, 25, 55, 0.40) 8.26%, rgba(13, 33, 72, 0.40) 36.54%, rgba(10, 25, 55, 0.40) 93.1%)",
         "type": "color",
-        "$extensions": {},
         "description": "bg for bonus card in desktop sidebar"
       },
       "hover-on-light": {
