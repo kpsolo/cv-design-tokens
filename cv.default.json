@@ -3809,12 +3809,12 @@
       "description": "use for bottom tapbar main button"
     },
     "logo-mobile": {
-      "value": "80",
+      "value": "100px",
       "type": "sizing",
       "description": "use for mobile logo width "
     },
     "logo-desktop": {
-      "value": "164",
+      "value": "140px",
       "type": "sizing",
       "description": "use for desktop logo width "
     }
@@ -3831,12 +3831,12 @@
       "description": "use for top navbar items"
     },
     "logo-mobile": {
-      "value": "28",
+      "value": "40px",
       "type": "sizing",
       "description": "use for mobile logo height "
     },
     "logo-desktop": {
-      "value": "64",
+      "value": "119px",
       "type": "sizing",
       "description": "use for desktop logo height "
     },
