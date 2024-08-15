@@ -3435,7 +3435,7 @@
         "description": "Bg on default on floating button"
       },
       "border": {
-        "value": "#transparent",
+        "value": "transparent",
         "type": "color",
         "description": "border on default on floating button"
       },
