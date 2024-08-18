@@ -2467,7 +2467,7 @@
         "description": "use under links on messeges/cards\n\n[based on additional bg]"
       },
       "7": {
-        "value": "linear-gradient(270deg, #D4E2FF 0%, rgba(212, 226, 255, 0.00) 100%)",
+        "value": "linear-gradient(270deg, #EEF4FF 0%, rgba(238, 244, 255, 0.00) 100%)",
         "type": "color",
         "description": "fade on pregame popup/search game dropdown\n"
       },
