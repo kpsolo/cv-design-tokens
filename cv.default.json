@@ -1891,7 +1891,7 @@
       "description": "bg for menu, bottom sheets,dropdown"
     },
     "social-icons": {
-      "value": "rgba(65, 109, 175, 0.10)",
+      "value": "#D5E0FF",
       "type": "color",
       "description": "use for bg under social icons in mob menu"
     },
@@ -3210,7 +3210,7 @@
       "description": "use for slider curret in welcom bonus"
     },
     "label-new-1": {
-      "value": "linear-gradient(180deg, #EEAE32 0%, #CB8909 100%)",
+      "value": "#EBAB2E",
       "type": "color",
       "description": "use for label new in menu item"
     },
@@ -5018,7 +5018,7 @@
         }
       },
       "item-active": {
-        "value": "linear-gradient(0deg, rgba(45, 216, 144, 0.10) 0%, rgba(45, 216, 144, 0.10) 100%), #FFF;",
+        "value": "#E2EAFF",
         "type": "color"
       },
       "banner": {
@@ -5027,7 +5027,7 @@
         "description": "use for banner bg for unlogged "
       },
       "notification": {
-        "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+        "value": "#2252D5",
         "type": "color",
         "description": "use for special notification in menu items"
       },
@@ -5038,7 +5038,7 @@
       }
     },
     "item-active-content": {
-      "value": "{base.accent-primary}",
+      "value": "#FFAE00",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },
