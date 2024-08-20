@@ -5022,7 +5022,7 @@
         "type": "color"
       },
       "banner": {
-        "value": "linear-gradient(180deg, #273145 0%, #364B6B 100%)",
+        "value": "{bg.other.sidebar-desktop}",
         "type": "color",
         "description": "use for banner bg for unlogged "
       },
