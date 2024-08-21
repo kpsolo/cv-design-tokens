@@ -4444,8 +4444,8 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
-        "lineHeight": "8px",
-        "fontSize": "6px",
+        "lineHeight": "16px",
+        "fontSize": "14px",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "textDecoration": "{text-decoration.none}",
@@ -4458,8 +4458,8 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
-        "lineHeight": "6px",
-        "fontSize": "4px",
+        "lineHeight": "14px",
+        "fontSize": "12px",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "textDecoration": "{text-decoration.none}",
