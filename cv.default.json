@@ -1818,6 +1818,11 @@
       "type": "borderRadius",
       "description": "use for hightlight player in gamepage/tournament "
     },
+    "item-additiohnal": {
+      "value": "100px",
+      "type": "borderRadius",
+      "description": "use for active operation in cashbox desktop\n"
+    },
     "card-additional": {
       "value": "12px",
       "type": "borderRadius",
