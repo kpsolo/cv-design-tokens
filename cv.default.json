@@ -5043,7 +5043,7 @@
       }
     },
     "item-active-content": {
-      "value": "#FFAE00",
+      "value": "#2252D5",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },
