@@ -1615,7 +1615,7 @@
     },
     "popup-additional": {
       "value": {
-        "color": "{bg.card.border.main}",
+        "color": "#ffffff0d",
         "width": "1px",
         "style": "solid"
       },
