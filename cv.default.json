@@ -4995,12 +4995,12 @@
   },
   "menu": {
     "bg": {
-      "gradient": {
-        "value": "#061535",
+      "main": {
+        "value": "#14235B",
         "type": "color"
       },
       "item-default": {
-        "value": "{bg.top-surface}",
+        "value": "#041B4A",
         "type": "color",
         "description": "bg for menu\n\n(delete?)"
       },
@@ -5038,12 +5038,12 @@
       }
     },
     "item-active-content": {
-      "value": "#2252D5",
+      "value": "#BD0F1B",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },
     "accent": {
-      "value": "{base.accent-primary}",
+      "value": "#BD0F1B",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },

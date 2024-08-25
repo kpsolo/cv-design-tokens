@@ -348,7 +348,6 @@
       "text.link-additional": "S:766687c9ddee737fd0438e633bf23662996d1e8c,",
       "text.link-dektop": "S:b8f3f83ba3c2fa923fa1452a2cb47418a15ce15c,",
       "text.link-text-dektop": "S:14737843ed7c9eb064465e90c6e21cb7a28f08d1,",
-      "menu.bg.gradient": "S:01382ee4680746716a3fbfd11fd34bd840f58d8a,",
       "menu.bg.item-default": "S:3a95b52401fc4f74ef9e4e92dbbb05475ccc2718,",
       "menu.bg.item-hover": "S:0fe1a050ddc1565125db71e5a4c64269e3993800,",
       "menu.bg.item-active": "S:68c28deadd6e3a89d14268ff0b4e1f108f61d85b,",
@@ -581,7 +580,8 @@
       "special-blocks.dropdown-custom-additional": "S:68d4bf1899be044fa2254bbef358b323662e2563,",
       "button.bg.tertiary-disabled": "S:38bef3f67bc31e926be337306a78c0ec4f136d75,",
       "text.content-additional": "S:91ead6e6947cee359d75011fb110622995734cfa,",
-      "bg.overlay-gradient.7-additional": "S:41ab673d42caaf4aad2603f0da9e232b9b688d2f,"
+      "bg.overlay-gradient.7-additional": "S:41ab673d42caaf4aad2603f0da9e232b9b688d2f,",
+      "menu.bg.main": "S:01382ee4680746716a3fbfd11fd34bd840f58d8a,"
     },
     "selectedTokenSets": {
       "cv.default": "enabled"
