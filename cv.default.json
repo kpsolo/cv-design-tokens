@@ -2427,6 +2427,11 @@
           "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
           "type": "color",
           "description": "border for all cards - sidebar/main banner"
+        },
+        "main-additional": {
+          "value": "rgba(255, 255, 255, 0.08)",
+          "type": "color",
+          "description": "border for status block in mob menu"
         }
       }
     },
@@ -3157,7 +3162,7 @@
       "description": "border for progressbar in profile/menu mobile"
     },
     "progress-bar": {
-      "value": "linear-gradient(180deg, #0C3092 0%, #1A4BB4 100%)",
+      "value": "#1E5BFF",
       "type": "color"
     },
     "progress-bg": {
