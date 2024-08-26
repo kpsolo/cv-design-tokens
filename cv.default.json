@@ -5008,23 +5008,6 @@
         "type": "color",
         "description": "use as bg in menu info zone"
       },
-      "item-active": {
-        "value": "transparent",
-        "type": "color"
-      },
-      "item-hover": {
-        "value": "{base.dark}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        }
-      },
       "notification": {
         "value": "#2252D5",
         "type": "color",
@@ -5041,6 +5024,11 @@
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },
+    "item-default": {
+      "value": "#DDDEFF",
+      "type": "color",
+      "description": "for menu items text/icon default state"
+    },
     "content": {
       "value": "{text.light}",
       "type": "color",
@@ -5055,10 +5043,10 @@
       },
       "description": "Color for status and %"
     },
-    "item": {
-      "value": "#DDDEFF",
+    "separator": {
+      "value": "rgba(255, 255, 255, 0.08)",
       "type": "color",
-      "description": "for menu items text/icon default state"
+      "description": "bg color for separator line"
     }
   },
   "max-width": {
