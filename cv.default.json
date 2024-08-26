@@ -743,14 +743,6 @@
           "spread": "0",
           "color": "rgba(25, 30, 45, 0.60)",
           "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "1",
-          "blur": "1",
-          "spread": "0",
-          "color": "rgba(255,255,255,0.08)",
-          "type": "innerShadow"
         }
       ],
       "type": "boxShadow",
@@ -1604,15 +1596,6 @@
       "type": "border",
       "description": "use for stoke for betting cards"
     },
-    "popup-additional": {
-      "value": {
-        "color": "#ffffff0d",
-        "width": "1px",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use for stroke for profile desktop popup stroke"
-    },
     "notification-additional": {
       "value": {
         "color": "transparent",
@@ -1652,6 +1635,11 @@
     "popup": {
       "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
       "type": "color"
+    },
+    "popup-additional": {
+      "value": "rgba(255, 255, 255, 0.10)",
+      "type": "color",
+      "description": "for ptofile popup desktop (without gradient!)"
     }
   },
   "base spacing": {
