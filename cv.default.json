@@ -1869,7 +1869,7 @@
       "description": "use for secret mirror popups bg gradient"
     },
     "popup": {
-      "value": "linear-gradient(181deg, #06102C 1.35%, #0E1B3F 54.03%, #0D1B38 97.33%)",
+      "value": "linear-gradient(181deg, #06102C 1.35%, #0E1B3F 54.03%, #0E1B3F 97.33%)",
       "type": "color",
       "description": "use for popups bg"
     },
@@ -2543,12 +2543,12 @@
   "nav": {
     "tab": {
       "start": {
-        "value": "#0E1B3F",
+        "value": "#06102C",
         "type": "color",
         "description": "gradient on top for popups"
       },
       "stop": {
-        "value": "#0D1B38",
+        "value": "#0E1B3F",
         "type": "color",
         "description": "gradient on bottom for popups"
       }
