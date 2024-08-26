@@ -2264,18 +2264,9 @@
         "description": "Use for game page background on right filter sidebar (under icons)"
       },
       "light-1": {
-        "value": "rgba(210, 229, 255, 0.10)",
+        "value": "rgba(210, 229, 255, 0.50)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "use for bg under status in menu top part"
+        "description": "use in desktop tooltip hover state for balances"
       },
       "light-2": {
         "value": "#0B255A",
