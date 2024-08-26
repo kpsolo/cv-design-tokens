@@ -4984,19 +4984,33 @@
   "menu": {
     "bg": {
       "main": {
-        "value": "#14235B",
+        "value": "#041A47",
         "type": "color",
         "description": "use for menu general bg "
       },
       "main-additional": {
-        "value": "#041B4A",
+        "value": "#031740",
         "type": "color",
         "description": "bg for menu items zone"
       },
+      "banner": {
+        "value": "#061840",
+        "type": "color",
+        "description": "use for banner bg for unlogged "
+      },
+      "header": {
+        "value": "linear-gradient(180deg, #061128 0%, rgba(6, 17, 40, 0.00) 100%)",
+        "type": "color",
+        "description": "use for header bg for unlogged "
+      },
       "info": {
-        "value": "rgba(210, 229, 255, 0.10)",
+        "value": "rgba(210, 229, 255, 0.06)",
         "type": "color",
         "description": "use as bg in menu info zone"
+      },
+      "item-active": {
+        "value": "transparent",
+        "type": "color"
       },
       "item-hover": {
         "value": "{base.dark}",
@@ -5011,25 +5025,16 @@
           }
         }
       },
-      "item-active": {
-        "value": "transparent",
-        "type": "color"
-      },
-      "banner": {
-        "value": "{bg.other.sidebar-desktop}",
-        "type": "color",
-        "description": "use for banner bg for unlogged "
-      },
       "notification": {
         "value": "#2252D5",
         "type": "color",
         "description": "use for special notification in menu items"
       }
     },
-    "item-active-content": {
+    "item-active": {
       "value": "#BD0F1B",
       "type": "color",
-      "description": "Color of icon and text inside active item menu"
+      "description": "for menu item icon/text active state"
     },
     "accent": {
       "value": "#EBAB2E",
@@ -5049,6 +5054,11 @@
         }
       },
       "description": "Color for status and %"
+    },
+    "item": {
+      "value": "#DDDEFF",
+      "type": "color",
+      "description": "for menu items text/icon default state"
     }
   },
   "max-width": {

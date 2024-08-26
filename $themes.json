@@ -353,7 +353,6 @@
       "menu.bg.banner": "S:c276cc49e90e6846645e80bce13e8f185affd421,",
       "menu.bg.notification": "S:7fab5227a522330efa13fbab7723a6f72deed5aa,",
       "menu.bg.info": "S:34fb0d2dc57128f79f79bd7ea985669f3a48503c,",
-      "menu.item-active-content": "S:5748a58cf62ddc54fde37a27798a30564aeb3fa8,",
       "menu.accent": "S:3d0333fdd155c970285b40b9f13ba594a5e90434,",
       "menu.content": "S:8379c3e923efee2101d6abc41609743e8c63ce62,",
       "betting.surface": "S:badcb360988c556f6da2c61cf20b20ba2e82b5b9,",
@@ -587,7 +586,8 @@
       "bg.card.border.main-additional": "S:fbd7e75891544620271ab2dc4bf6cf8e46ef92a5,",
       "typography.title-3-additional": "S:9ec45de0ee18223d2a311257ad4cb04fe74f3aa4,",
       "shadow.win-ticket": "S:3b35a3d2676c4457cf0286052c6ac61e87d0b0cb,",
-      "menu.bg.main-additional": "S:3a95b52401fc4f74ef9e4e92dbbb05475ccc2718,"
+      "menu.bg.main-additional": "S:3a95b52401fc4f74ef9e4e92dbbb05475ccc2718,",
+      "menu.item-active": "S:5748a58cf62ddc54fde37a27798a30564aeb3fa8,"
     },
     "selectedTokenSets": {
       "cv.default": "enabled"
@@ -1004,7 +1004,6 @@
       "menu.bg.item-active": "b80ea49f77e4f0a6a2b9910d68be3b8e62657e59",
       "menu.bg.notification": "8f69849da3100d9abec4e43e65ff0f0a6712c699",
       "menu.bg.info": "87d504b68136807cf3f3ba765a251003d423fa5a",
-      "menu.item-active-content": "56165ac2e3747701e5b1642950503abf0af9a3ac",
       "menu.accent": "a7976e1c2ebbb4ae3e7027c965f6c973811f5ee7",
       "menu.content": "b8453a7babf756974997a79b893b67be825807bc",
       "max-width.288": "b23de446329d0dce3e8ad3e0c8c2d7a985ec948e",
@@ -1117,7 +1116,8 @@
       "Padding.button.x-small-vertical": "568fa84a75222cc09d2e39e895fd931d1d8bcde1",
       "Padding.gamehall": "7dd347fb29eed98725ed3f8104b65ac38f3e9787",
       "test.token": "d640b171bb573b836375a1a2bc1ffab38e7029f2",
-      "menu.bg.main-additional": "96207ec09bb5fb7dc4573416ba5d1df5307bbab5"
+      "menu.bg.main-additional": "96207ec09bb5fb7dc4573416ba5d1df5307bbab5",
+      "menu.item-active": "56165ac2e3747701e5b1642950503abf0af9a3ac"
     },
     "$figmaCollectionId": "VariableCollectionId:37112:230327",
     "$figmaModeId": "37112:0"
