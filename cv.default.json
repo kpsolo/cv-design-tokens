@@ -1879,7 +1879,7 @@
       "description": "bg for menu, bottom sheets,dropdown"
     },
     "social-icons": {
-      "value": "#D5E0FF",
+      "value": "rgba(40, 65, 119, 0.40)",
       "type": "color",
       "description": "use for bg under social icons in mob menu"
     },
@@ -4990,7 +4990,7 @@
       "item-default": {
         "value": "#041B4A",
         "type": "color",
-        "description": "bg for menu\n\n(delete?)"
+        "description": "bg for menu items zone"
       },
       "item-hover": {
         "value": "{base.dark}",
@@ -5006,7 +5006,7 @@
         }
       },
       "item-active": {
-        "value": "#E2EAFF",
+        "value": "transparent",
         "type": "color"
       },
       "banner": {
@@ -5031,7 +5031,7 @@
       "description": "Color of icon and text inside active item menu"
     },
     "accent": {
-      "value": "#BD0F1B",
+      "value": "#EBAB2E",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },
