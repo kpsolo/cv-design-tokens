@@ -348,7 +348,6 @@
       "text.link-additional": "S:766687c9ddee737fd0438e633bf23662996d1e8c,",
       "text.link-dektop": "S:b8f3f83ba3c2fa923fa1452a2cb47418a15ce15c,",
       "text.link-text-dektop": "S:14737843ed7c9eb064465e90c6e21cb7a28f08d1,",
-      "menu.bg.item-default": "S:3a95b52401fc4f74ef9e4e92dbbb05475ccc2718,",
       "menu.bg.item-hover": "S:0fe1a050ddc1565125db71e5a4c64269e3993800,",
       "menu.bg.item-active": "S:68c28deadd6e3a89d14268ff0b4e1f108f61d85b,",
       "menu.bg.banner": "S:c276cc49e90e6846645e80bce13e8f185affd421,",
@@ -587,7 +586,8 @@
       "bg.card.overlay.3": "S:7b59d8b299e10342ea93a21021efc929dcee497f,",
       "bg.card.border.main-additional": "S:fbd7e75891544620271ab2dc4bf6cf8e46ef92a5,",
       "typography.title-3-additional": "S:9ec45de0ee18223d2a311257ad4cb04fe74f3aa4,",
-      "shadow.win-ticket": "S:3b35a3d2676c4457cf0286052c6ac61e87d0b0cb,"
+      "shadow.win-ticket": "S:3b35a3d2676c4457cf0286052c6ac61e87d0b0cb,",
+      "menu.bg.main-additional": "S:3a95b52401fc4f74ef9e4e92dbbb05475ccc2718,"
     },
     "selectedTokenSets": {
       "cv.default": "enabled"
@@ -1000,7 +1000,6 @@
       "text.link-dektop": "dcb88f595409cf2a4bc89a7813e2edaf9052701f",
       "text.link-text-dektop": "cf6082397b711c8872763d1b77dee37c188d4211",
       "menu.bg.main": "776f9d6a9b905776ead087ceaf2dff6647119d17",
-      "menu.bg.item-default": "96207ec09bb5fb7dc4573416ba5d1df5307bbab5",
       "menu.bg.item-hover": "32802f83e83c0a2c4a8153529cb74e10b99be70e",
       "menu.bg.item-active": "b80ea49f77e4f0a6a2b9910d68be3b8e62657e59",
       "menu.bg.notification": "8f69849da3100d9abec4e43e65ff0f0a6712c699",
@@ -1117,7 +1116,8 @@
       "Padding.button.small-vertical": "e672ada581f0fcf3b094fb621bc7bca4fb2a28a6",
       "Padding.button.x-small-vertical": "568fa84a75222cc09d2e39e895fd931d1d8bcde1",
       "Padding.gamehall": "7dd347fb29eed98725ed3f8104b65ac38f3e9787",
-      "test.token": "d640b171bb573b836375a1a2bc1ffab38e7029f2"
+      "test.token": "d640b171bb573b836375a1a2bc1ffab38e7029f2",
+      "menu.bg.main-additional": "96207ec09bb5fb7dc4573416ba5d1df5307bbab5"
     },
     "$figmaCollectionId": "VariableCollectionId:37112:230327",
     "$figmaModeId": "37112:0"
