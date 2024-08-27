@@ -3125,26 +3125,26 @@
         "description": "separator in filter provider item"
       }
     },
-    "progress-large": {
+    "progressbar-large": {
       "value": "#0C3092",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
-    "progress-large-bg": {
+    "progressbar-large-bg": {
       "value": "rgba(255, 255, 255, 0.08)",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
-    "progress-bg-additional": {
+    "progressbar-bg-additional": {
       "value": "transparent",
       "type": "color",
       "description": "border for progressbar in profile/menu mobile"
     },
-    "progress-bar": {
+    "progressbar": {
       "value": "#1E5BFF",
       "type": "color"
     },
-    "progress-bg": {
+    "progressbar-bg": {
       "value": "rgba(167, 188, 251, 0.16)",
       "type": "color",
       "description": "bg for progressbar in loyalty"
@@ -3163,20 +3163,66 @@
       "type": "color",
       "description": "Fade on winning now widget"
     },
-    "label-new-1-text": {
-      "value": "{base.light}",
-      "type": "color",
-      "description": "use for text of label new in menu item"
+    "label": {
+      "new-1-text": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "use for text of label new in menu item"
+      },
+      "new-2": {
+        "value": "linear-gradient(342deg, #5A5A5A 0%, #FFF 100%)",
+        "type": "color",
+        "description": "use for label new in menu item"
+      },
+      "new-1": {
+        "value": "#EBAB2E",
+        "type": "color",
+        "description": "use for label new in menu item"
+      },
+      "success": {
+        "value": "#1E8704",
+        "type": "color",
+        "description": "use for success label in cashbox transactions"
+      },
+      "deny": {
+        "value": "#A8030F",
+        "type": "color",
+        "description": "use for deny label in cashbox transactions"
+      },
+      "deny-text": {
+        "value": "#FFF",
+        "type": "color",
+        "description": "use for deny label text in cashbox transactions"
+      },
+      "additional": {
+        "value": "#7DA6FB",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.08",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "use for deny label in cashbox transactions"
+      }
     },
-    "label-new-2": {
-      "value": "linear-gradient(342deg, #5A5A5A 0%, #FFF 100%)",
-      "type": "color",
-      "description": "use for label new in menu item"
-    },
-    "progress-bar-deals": {
+    "progressbar-deals": {
       "value": "rgba(255, 255, 255, 0.12)",
       "type": "color",
       "description": "use in cards in deals page for bg and stroke"
+    },
+    "progressbar-bonus": {
+      "value": "rgba(255, 255, 255, 0.60)",
+      "type": "color",
+      "description": "use in bonus balances cards for bar"
+    },
+    "progressbar-bonus-bg": {
+      "value": "rgba(255, 255, 255, 0.16)",
+      "type": "color",
+      "description": "use in bonus balances cards for progress bg"
     },
     "slider-curret": {
       "value": "#fff",
@@ -3187,11 +3233,6 @@
       "value": "#fff",
       "type": "color",
       "description": "use for slider curret in welcom bonus"
-    },
-    "label-new-1": {
-      "value": "#EBAB2E",
-      "type": "color",
-      "description": "use for label new in menu item"
     },
     "slider": {
       "value": "#fff",
@@ -3328,37 +3369,6 @@
         "value": "{bg.tertiary}",
         "type": "color",
         "description": "bg for tournament counter on desktop widget"
-      }
-    },
-    "label": {
-      "success": {
-        "value": "#1E8704",
-        "type": "color",
-        "description": "use for success label in cashbox transactions"
-      },
-      "deny": {
-        "value": "#A8030F",
-        "type": "color",
-        "description": "use for deny label in cashbox transactions"
-      },
-      "deny-text": {
-        "value": "#FFF",
-        "type": "color",
-        "description": "use for deny label text in cashbox transactions"
-      },
-      "additional": {
-        "value": "#7DA6FB",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "use for deny label in cashbox transactions"
       }
     },
     "timer": {
