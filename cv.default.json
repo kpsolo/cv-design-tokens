@@ -3207,6 +3207,26 @@
           }
         },
         "description": "use for deny label in cashbox transactions"
+      },
+      "active": {
+        "value": "#29AE07",
+        "type": "color",
+        "description": "use for active label text in bonus balance cards"
+      },
+      "disable": {
+        "value": "#FFAC09",
+        "type": "color",
+        "description": "use for disable label text in bonus balance cards"
+      },
+      "disable-bg": {
+        "value": "rgba(255, 172, 9, 0.24)",
+        "type": "color",
+        "description": "use for disable label bg  in bonus balance cards"
+      },
+      "active-bg": {
+        "value": "rgba(52, 224, 9, 0.24)",
+        "type": "color",
+        "description": "use for active label bg in bonus balance cards"
       }
     },
     "progressbar-deals": {
