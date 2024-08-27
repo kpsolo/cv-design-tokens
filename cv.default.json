@@ -2266,7 +2266,7 @@
       "light-1": {
         "value": "rgba(210, 229, 255, 0.50)",
         "type": "color",
-        "description": "use in desktop tooltip hover state for balances"
+        "description": "bg in tournament/lottery under players"
       },
       "light-2": {
         "value": "#0B255A",
@@ -2363,10 +2363,20 @@
           "type": "color",
           "description": "bg for winnig now"
         },
+        "5": {
+          "value": "#061535",
+          "type": "color",
+          "description": "bg for bonus balance card"
+        },
         "3-additional": {
           "value": "rgba(43, 80, 157, 0.10)",
           "type": "color",
           "description": "bg for winnig now - mob"
+        },
+        "5-additional": {
+          "value": "#081E4E",
+          "type": "color",
+          "description": "bg for bonus balance card"
         }
       },
       "overlay": {
