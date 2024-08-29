@@ -1314,7 +1314,7 @@
       "value": {
         "color": "{button.border.tertiary}",
         "style": "solid",
-        "width": "{border-width.button}"
+        "width": "1px"
       },
       "type": "border",
       "description": "Button border default"
