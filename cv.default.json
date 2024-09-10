@@ -4991,7 +4991,7 @@
         "description": "use in shop cards"
       },
       "extra": {
-        "value": "#FFD284",
+        "value": "{text.title.accent}",
         "type": "color",
         "description": "welcome bonus popup accent color"
       },
