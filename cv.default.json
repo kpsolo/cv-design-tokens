@@ -3548,6 +3548,11 @@
       "type": "color",
       "description": "Use for active icons"
     },
+    "accent-additional": {
+      "value": "{button.text.primary}",
+      "type": "color",
+      "description": "Use for show more widget"
+    },
     "alternative": {
       "value": "{base.accent-primary}",
       "type": "color",

@@ -596,7 +596,8 @@
       "small-elements.progressbar-bonus-bg": "S:2d117dbafd880f4b151a7d1c86cd59f70c0603c4,",
       "menu.bg.header": "S:507507810ff78e037fb786117d17981f4fe194b8,",
       "menu.item-default": "S:a0d3fdf7525d8faa34efc3bc54aa43a6518de5fc,",
-      "menu.separator": "S:c6215c4723f93399bad0712702a38e6b8b46b004,"
+      "menu.separator": "S:c6215c4723f93399bad0712702a38e6b8b46b004,",
+      "icon.accent-additional": "S:a0ca58cc4d1ee7c391fe9a765f2b05830aae8148,"
     },
     "selectedTokenSets": {
       "cv.default": "enabled"
@@ -853,6 +854,7 @@
       "icon.primary": "3a210347924548a3c023e3ea89d8aa343324303e",
       "icon.tertiary": "15b08bb05086a420d375f009626290228b803649",
       "icon.accent": "c611e921a01271bea6e767fa624595d90ae4bba4",
+      "icon.accent-additional": "5fdc8a015ffd456f025a19d53d67fcff49bb92ff",
       "icon.alternative": "d4228323812723876b2f0d3709c382bbb0dba2b8",
       "icon.success": "e9bd5e5c07b9cc5a6f9069774ae281ae913c837e",
       "icon.warning": "878479abe663e48cdf1c8617338df76b27b08d7c",
