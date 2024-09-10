@@ -4607,6 +4607,11 @@
           "type": "color",
           "description": "bg for win cards"
         }
+      },
+      "main": {
+        "value": "linear-gradient(180deg, rgba(58, 71, 138, 0.20) 0%, rgba(3, 17, 45, 0.20) 100%)",
+        "type": "color",
+        "description": " main bg in 1st screen"
       }
     },
     "welcome-bonus": {

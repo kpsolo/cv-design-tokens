@@ -598,7 +598,8 @@
       "special-blocks.achievements.border.achievements-additional": "S:b1fb587027b642df3f8c66023efd48fb38ef729c,",
       "special-blocks.achievements.overlay.2": "S:255526a71f42d5dbc922c1954b6bc70813ae76ea,",
       "special-blocks.achievements.overlay.3": "S:c3c0a2abb440ed8394fe88afed157d15e14ee504,",
-      "special-blocks.achievements.overlay.4": "S:6414acaf32e7c7fc1bdac0494e758f0ecf29ab15,"
+      "special-blocks.achievements.overlay.4": "S:6414acaf32e7c7fc1bdac0494e758f0ecf29ab15,",
+      "special-blocks.achievements.main": "S:2b6085bfa3762021c58a0b33e85f177d1f33cf01,"
     },
     "selectedTokenSets": {
       "cv.default": "enabled"
