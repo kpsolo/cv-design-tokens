@@ -839,7 +839,7 @@
           "y": "0",
           "blur": "4",
           "spread": "",
-          "color": "#2A8249",
+          "color": "#D7A800",
           "type": "dropShadow"
         },
         {
@@ -847,12 +847,12 @@
           "y": "0",
           "blur": "8",
           "spread": "",
-          "color": "#2A8249",
+          "color": "#D7A800",
           "type": "dropShadow"
         }
       ],
       "type": "boxShadow",
-      "description": "accent blur menu items desktop"
+      "description": "accent blur on popup provider hover state - desktop"
     },
     "win-ticket": {
       "value": [
