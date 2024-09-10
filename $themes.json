@@ -594,7 +594,11 @@
       "menu.separator": "S:c6215c4723f93399bad0712702a38e6b8b46b004,",
       "icon.accent-additional": "S:a0ca58cc4d1ee7c391fe9a765f2b05830aae8148,",
       "border.nav": "S:c83f5e2dfeb4b631ad7347bd78df48eae34fbad9,",
-      "special-blocks.achievements.overlay.1": "S:ab76646ade2bacf163889e6172f2f05e5d887042,"
+      "special-blocks.achievements.overlay.1": "S:ab76646ade2bacf163889e6172f2f05e5d887042,",
+      "special-blocks.achievements.border.achievements-additional": "S:b1fb587027b642df3f8c66023efd48fb38ef729c,",
+      "special-blocks.achievements.overlay.2": "S:255526a71f42d5dbc922c1954b6bc70813ae76ea,",
+      "special-blocks.achievements.overlay.3": "S:c3c0a2abb440ed8394fe88afed157d15e14ee504,",
+      "special-blocks.achievements.overlay.4": "S:6414acaf32e7c7fc1bdac0494e758f0ecf29ab15,"
     },
     "selectedTokenSets": {
       "cv.default": "enabled"
@@ -958,6 +962,7 @@
       "special-blocks.referral.accent": "9ca6da4838654439d0d16f536c7cb1131f7f324c",
       "special-blocks.referral.accent-additional": "7f3b65f0f40d2a64bb2bb8043c8ccf3356240f2b",
       "special-blocks.referral.bg-additional": "8d16cdf2dfbc85213d0e289c15d78c7aeb0a473f",
+      "special-blocks.achievements.border.achievements-additional": "4e4759707eefaae915039a4be5ebe41530f56d67",
       "special-blocks.achievements.gradient.activity": "be2d53cb48d0d63ecf83123753826fd158199feb",
       "special-blocks.achievements.gradient.win": "7d17d14f4a88cdbbcbb83239bf0a605093ace0cc",
       "special-blocks.achievements.gradient.achievements": "e66c20e87c3415514e8a886254eecd5a15198dc4",
