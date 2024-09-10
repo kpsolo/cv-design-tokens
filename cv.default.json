@@ -4541,19 +4541,19 @@
       },
       "gradient": {
         "activity": {
-          "value": "radial-gradient(50% 50% at 50% 50%, rgba(110, 39, 210, 0.40) 0%, rgba(110, 42, 207, 0.40) 19.81%, rgba(88, 30, 170, 0.40) 38.75%, rgba(60, 30, 46, 0.32) 58.55%, rgba(60, 30, 46, 0.21) 71.88%, rgba(38, 45, 64, 0.00) 90.02%, rgba(38, 45, 64, 0.00) 100%)",
+          "value": "rgba(21, 78, 192, 0.30)",
           "type": "color",
-          "description": "radial card"
+          "description": "radial for activity cards zone"
         },
         "win": {
-          "value": "radial-gradient(50% 50% at 50% 50%, rgba(144, 25, 147, 0.60) 0%, rgba(136, 30, 140, 0.60) 19.81%, rgba(102, 20, 102, 0.60) 38.75%, rgba(81, 27, 56, 0.47) 58.55%, rgba(60, 30, 46, 0.31) 71.88%, rgba(38, 45, 64, 0.00) 90.02%, rgba(38, 45, 64, 0.00) 100%)",
+          "value": "rgba(235, 13, 255, 0.16)",
           "type": "color",
-          "description": "radial card - win"
+          "description": "gradient for win cards zone"
         },
         "achievements": {
-          "value": "radial-gradient(50% 50% at 50% 50%, rgba(35, 30, 91, 0.60) 0%, rgba(39, 31, 91, 0.60) 19.81%, rgba(50, 37, 94, 0.60) 38.75%, rgba(50, 37, 94, 0.41) 58.55%, rgba(50, 37, 94, 0.31) 71.88%, rgba(38, 45, 64, 0.00) 90.02%, rgba(38, 45, 64, 0.00) 100%)",
+          "value": "rgba(21, 152, 192, 0.20)",
           "type": "color",
-          "description": "radial card - achievements"
+          "description": "gradeint for achievements cards zone "
         },
         "main": {
           "value": "radial-gradient(50% 50% at 50% 50%, rgba(34, 92, 103, 0.80) 0%, rgba(34, 92, 103, 0.73) 16.5%, rgba(34, 92, 103, 0.58) 47.5%, rgba(63, 53, 105, 0.28) 77.5%, rgba(63, 53, 105, 0.20) 77.51%, rgba(37, 45, 64, 0.47) 90.02%, rgba(37, 45, 64, 0.00) 100%)",
