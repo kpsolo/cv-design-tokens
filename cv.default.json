@@ -1283,15 +1283,6 @@
       "type": "border",
       "description": "use for border in timer"
     },
-    "ghost-7": {
-      "value": {
-        "color": "linear-gradient(169deg, {small-elements.timer.border} 8.44%, rgba(4, 100, 191, 0.00) 40.65%, rgba(42, 128, 208, 0.00) 64.53%, {small-elements.timer.border}  95.27%)",
-        "width": "0.4px",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use for border in timer in 1st deposit"
-    },
     "button-hover": {
       "value": {
         "color": "{button.border.tertiary-hover}",
@@ -1327,15 +1318,6 @@
       },
       "type": "border",
       "description": "use in calendar filter for chips"
-    },
-    "chips-default-additional": {
-      "value": {
-        "color": "{bg.card.border.main}",
-        "width": "1",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use in filter providers mob"
     },
     "chips-active": {
       "value": {
@@ -1408,24 +1390,6 @@
       },
       "type": "border",
       "description": "Border for gamepage right menu"
-    },
-    "wheel-denomination": {
-      "value": {
-        "color": "{bg.card.border.main}",
-        "width": "1",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use as border for denomination widget"
-    },
-    "achivements": {
-      "value": {
-        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);",
-        "width": "1",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use as border for achivments widget in desktop profile "
     },
     "nav-active": {
       "value": {
@@ -1532,15 +1496,6 @@
       },
       "type": "border",
       "description": "border for navigation bar/active search -desktop"
-    },
-    "strip-card": {
-      "value": {
-        "color": "{bg.card.border.main}",
-        "width": "{border-width.nav}",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "border for show more wiget on main page"
     },
     "1click": {
       "value": {
