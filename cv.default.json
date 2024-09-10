@@ -2522,7 +2522,7 @@
       "description": "use for circle elements on primary bg"
     },
     "blur-achivements": {
-      "value": "18px",
+      "value": "16px",
       "type": "dimension",
       "description": "use for bottom block in profile "
     },
