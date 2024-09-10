@@ -597,7 +597,8 @@
       "menu.bg.header": "S:507507810ff78e037fb786117d17981f4fe194b8,",
       "menu.item-default": "S:a0d3fdf7525d8faa34efc3bc54aa43a6518de5fc,",
       "menu.separator": "S:c6215c4723f93399bad0712702a38e6b8b46b004,",
-      "icon.accent-additional": "S:a0ca58cc4d1ee7c391fe9a765f2b05830aae8148,"
+      "icon.accent-additional": "S:a0ca58cc4d1ee7c391fe9a765f2b05830aae8148,",
+      "border.nav": "S:c83f5e2dfeb4b631ad7347bd78df48eae34fbad9,"
     },
     "selectedTokenSets": {
       "cv.default": "enabled"
