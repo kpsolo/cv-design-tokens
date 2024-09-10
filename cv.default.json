@@ -4518,35 +4518,64 @@
         "type": "color",
         "description": "fill for line in first screen"
       },
-      "bg-main": {
-        "value": "linear-gradient(178deg, rgba(255, 228, 175, 0.16) 1.63%, rgba(239, 133, 55, 0.00) 98.37%)",
-        "type": "color",
-        "description": "for first deposit screen"
-      },
       "bg-progressbar": {
         "value": "rgba(255, 255, 255, 0.08)",
         "type": "color",
         "description": "for progrees bar bg"
       },
       "overlay": {
-        "value": "rgba(186, 107, 54, 0.60)",
-        "type": "color",
-        "description": "for bg under icons in achievement info block"
+        "1": {
+          "value": "#848CC4",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "srgb"
+              }
+            }
+          },
+          "description": "for bg under icons in achievement info block"
+        },
+        "2": {
+          "value": "#38437C",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.2",
+                "space": "srgb"
+              }
+            }
+          },
+          "description": "for bg under 1st desposit in second state"
+        }
       },
       "card": {
         "1": {
-          "value": "linear-gradient(148deg, rgba(117, 44, 194, 0.54) 15.68%, rgba(117, 44, 194, 0.20) 38.76%, rgba(117, 44, 194, 0.00) 55.25%)",
+          "value": "linear-gradient(148deg, rgba(117, 44, 194, 0.54) 20.63%, rgba(117, 44, 194, 0.20) 40.38%, rgba(117, 44, 194, 0.10) 54.49%)",
           "type": "color",
-          "description": "card in progress bg in main screen"
+          "description": "in progress cards bg in main screen"
         },
         "2": {
           "value": "linear-gradient(148deg, rgba(18, 70, 172, 0.50) 15.68%, rgba(18, 70, 172, 0.20) 38.76%, rgba(12, 46, 114, 0.10) 92.79%)",
           "type": "color",
-          "description": "card last bg in main screen"
+          "description": "last cards bg in main screen"
         },
         "3": {
-          "value": "linear-gradient(178deg, rgba(255, 213, 132, 0.16) 0%, rgba(230, 121, 41, 0.16) 100%)",
+          "value": "#3A478A",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.20",
+                "space": "srgb"
+              }
+            }
+          },
           "description": "card first deposit bg in main screen"
         },
         "4": {
@@ -4563,11 +4592,6 @@
           "value": "linear-gradient(132deg, rgba(140, 49, 144, 0.54) 11.58%, rgba(122, 42, 126, 0.16) 38.1%, rgba(138, 52, 143, 0.00) 58.12%)",
           "type": "color",
           "description": "bg for win cards"
-        },
-        "first-deposit": {
-          "value": "linear-gradient(178deg, rgba(35, 97, 118, 0.89) 3.21%, rgba(39, 85, 101, 0.00) 96.79%)",
-          "type": "color",
-          "description": "card first deposit bg in main screen"
         }
       }
     },

@@ -281,16 +281,13 @@
       "special-blocks.achievements.gradient.empty": "S:168c234a70a3256714e28c49f7ff49d740b448c2,",
       "special-blocks.achievements.gradient.empty-additional": "S:22b7340a8a0a38bcbf149fb17332855a5cb236e2,",
       "special-blocks.achievements.element": "S:abb3d5910c3db886bd88880249f524b915a6d3e4,",
-      "special-blocks.achievements.bg-main": "S:9f5caee0e6c3c592a7c79fc7afe797e352de1a55,",
       "special-blocks.achievements.bg-progressbar": "S:7dc69395b04a68ca2c7f6cc00975fd7d42c7fef8,",
-      "special-blocks.achievements.overlay": "S:ab76646ade2bacf163889e6172f2f05e5d887042,",
       "special-blocks.achievements.card.1": "S:812e1977295cd002d5e5723c9fcca6b2f276e2e9,",
       "special-blocks.achievements.card.2": "S:10f4b53c4b1dc64b648f2a18ec2699c11c477b96,",
       "special-blocks.achievements.card.3": "S:2804bdcd46ab0850a4b5db5e3adabc05b09eacaa,",
       "special-blocks.achievements.card.4": "S:637ba02dab8fc32ae4dc53736fd191a7001f8501,",
       "special-blocks.achievements.card.5": "S:dc4d9eac3a3b8ff1c076d333e421497a54f062d5,",
       "special-blocks.achievements.card.6": "S:f241c3d0a555d9c798eb63af04f4cfc2d3a3ab64,",
-      "special-blocks.achievements.card.first-deposit": "S:c7bb78a4b5712142d694d90b5011bc4c77048008,",
       "categories.bg.main": "S:768d59912c5225ac7fea9952dd95ecf884395718,",
       "categories.bg.additional": "S:6736d500ebe1fb76510c0a5a9c89dc8d4501cfca,",
       "categories.bg.extra": "S:b75d096310250dcca1dbe085746f72242e213bb5,",
@@ -598,7 +595,8 @@
       "menu.item-default": "S:a0d3fdf7525d8faa34efc3bc54aa43a6518de5fc,",
       "menu.separator": "S:c6215c4723f93399bad0712702a38e6b8b46b004,",
       "icon.accent-additional": "S:a0ca58cc4d1ee7c391fe9a765f2b05830aae8148,",
-      "border.nav": "S:c83f5e2dfeb4b631ad7347bd78df48eae34fbad9,"
+      "border.nav": "S:c83f5e2dfeb4b631ad7347bd78df48eae34fbad9,",
+      "special-blocks.achievements.overlay.1": "S:ab76646ade2bacf163889e6172f2f05e5d887042,"
     },
     "selectedTokenSets": {
       "cv.default": "enabled"
@@ -968,7 +966,9 @@
       "special-blocks.achievements.gradient.main": "8b1f668b10e109f19be31b91af298978c79f2e1a",
       "special-blocks.achievements.gradient.main-additional": "77893180c2a74815821c671980e11a3dfd661bf2",
       "special-blocks.achievements.bg-progressbar": "52a1c469cbb2bc26c5ed25ac0350e3e69de449c9",
-      "special-blocks.achievements.overlay": "5ed0a953b3e3e8cf0d96fc5fbed4b0a701bf9a1d",
+      "special-blocks.achievements.overlay.1": "5ed0a953b3e3e8cf0d96fc5fbed4b0a701bf9a1d",
+      "special-blocks.achievements.overlay.2": "6c98e77d80bbecabf145885585cb9b5eb34fb364",
+      "special-blocks.achievements.card.3": "bf3390053d1b7c7bbde35cfa4736dc5edc7b6be0",
       "filed spacing.left": "98c0e6f7f5e08e821b185222f227b9476e68a2d3",
       "filed spacing.right": "e073c88ba2ecf563cb3a5fa7101180128b66e455",
       "filed spacing.top-main": "6a58bd49509f63ada4c3c94fda147a91cfa068c2",
