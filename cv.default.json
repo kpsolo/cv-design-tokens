@@ -4455,6 +4455,20 @@
           "type": "color",
           "description": "border for win card"
         },
+        "achievements-additional": {
+          "value": "#1E619A",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.4",
+                "space": "srgb"
+              }
+            }
+          },
+          "description": "separatoe in achievements card (for progress)"
+        },
         "main": {
           "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
           "type": "color",
@@ -4491,16 +4505,6 @@
           "value": "rgba(21, 152, 192, 0.20)",
           "type": "color",
           "description": "gradeint for achievements cards zone "
-        },
-        "main": {
-          "value": "radial-gradient(50% 50% at 50% 50%, rgba(34, 92, 103, 0.80) 0%, rgba(34, 92, 103, 0.73) 16.5%, rgba(34, 92, 103, 0.58) 47.5%, rgba(63, 53, 105, 0.28) 77.5%, rgba(63, 53, 105, 0.20) 77.51%, rgba(37, 45, 64, 0.47) 90.02%, rgba(37, 45, 64, 0.00) 100%)",
-          "type": "color",
-          "description": "radial card - main screen/first deposit"
-        },
-        "main-additional": {
-          "value": "radial-gradient(50% 50% at 50% 50%, rgba(246, 110, 10, 0.80) 0%, rgba(239, 112, 14, 0.80) 19.81%, rgba(203, 99, 19, 0.77) 35.5%, rgba(94, 28, 63, 0.66) 67.81%, rgba(94, 28, 63, 0.47) 78.24%, rgba(142, 22, 84, 0.22) 90.02%, rgba(142, 22, 84, 0.00) 100%)",
-          "type": "color",
-          "description": "radial card - main screen with achievements icon"
         },
         "empty": {
           "value": "linear-gradient(90deg, #4C3180 0%, rgba(76, 49, 128, 0.00) 100%)",
