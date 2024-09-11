@@ -5854,5 +5854,123 @@
       "type": "fontFamilies",
       "description": "just for test (delete it)"
     }
+  },
+  "calendar": {
+    "bg": {
+      "main": {
+        "value": "#719EFA",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "bg for event calendar widget"
+      },
+      "primary": {
+        "value": "linear-gradient(180deg, #062F97 0%, rgba(6, 47, 151, 0.12) 97%, rgba(6, 47, 151, 0.12) 100%)",
+        "type": "color",
+        "description": "bg for default dates calendar widget"
+      },
+      "secondary": {
+        "value": "#fff",
+        "type": "color",
+        "description": "bg for selected dates calendar widget"
+      },
+      "tertiary": {
+        "value": "#fff",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.16",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "bg for hover dates calendar widget"
+      },
+      "additional": {
+        "value": "#fff",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.32",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "bg for hover badge dates calendar widget"
+      }
+    },
+    "border": {
+      "main": {
+        "value": "linear-gradient(180deg, rgba(23, 88, 254, 0.48) 0%, rgba(6, 47, 151, 0.00) 100%, rgba(6, 47, 151, 0.00) 100.00%)",
+        "type": "color",
+        "description": "border for event calendar widget"
+      },
+      "primary": {
+        "value": "#062F97",
+        "type": "color",
+        "description": "border for default calendar dates"
+      },
+      "secondary": {
+        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.30) 0%, rgba(255, 255, 255, 0.10) 100%)",
+        "type": "color",
+        "description": "border for default calendar dates"
+      },
+      "tertiaty": {
+        "value": "#fff",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.16",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "border for badge default calendar dates"
+      }
+    },
+    "text": {
+      "primary": {
+        "value": "#fff",
+        "type": "color",
+        "description": "month"
+      },
+      "secondary": {
+        "value": "#fff",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.7",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "day"
+      },
+      "tertiary": {
+        "value": "#fff",
+        "type": "color",
+        "description": "date"
+      },
+      "additional": {
+        "value": "#050F28",
+        "type": "color",
+        "description": "date selected"
+      }
+    }
   }
 }

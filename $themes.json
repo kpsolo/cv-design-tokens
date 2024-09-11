@@ -599,7 +599,20 @@
       "special-blocks.achievements.overlay.2": "S:255526a71f42d5dbc922c1954b6bc70813ae76ea,",
       "special-blocks.achievements.overlay.3": "S:c3c0a2abb440ed8394fe88afed157d15e14ee504,",
       "special-blocks.achievements.overlay.4": "S:6414acaf32e7c7fc1bdac0494e758f0ecf29ab15,",
-      "special-blocks.achievements.main": "S:2b6085bfa3762021c58a0b33e85f177d1f33cf01,"
+      "special-blocks.achievements.main": "S:2b6085bfa3762021c58a0b33e85f177d1f33cf01,",
+      "calendar.bg.main": "S:e6612ffd0fd96a83a6279f04892170ba834250df,",
+      "calendar.border.main": "S:8fe64845bd4209bcc13ac38c06cdb7ac3092133f,",
+      "calendar.border.primary": "S:60bcfe914d232670c6c1723aff7c492ae809e7a8,",
+      "calendar.border.secondary": "S:25ce2a095cb2eb00dd48a861579713f5d45042e5,",
+      "calendar.text.primary": "S:bbf9eeea7d029600b0987c2ce78b04c2ecee6450,",
+      "calendar.text.secondary": "S:c761cd2b8a01b375d72975f6f6ffccbb8df8ed0c,",
+      "calendar.text.tertiary": "S:10e4bd5eb3996182bb75d23d1a61b8c6f994f64c,",
+      "calendar.text.additional": "S:7d018bee224aad21275380a9c28c16d1db8fbe68,",
+      "calendar.bg.primary": "S:9e25ffa1e54843bf1e84ba0db2af636154298ac0,",
+      "calendar.bg.secondary": "S:47b05274de0279de126a50ed8e40ba87b7ee8600,",
+      "calendar.bg.tertiary": "S:a809747407cd0477840dc9840e05a85fc661f69f,",
+      "calendar.bg.additional": "S:b180ce53903571ae30094568f021a1452ebdab9f,",
+      "calendar.border.tertiaty": "S:7b3eff45e4565027b60bb72ef1497ce3aacc17a6,"
     },
     "selectedTokenSets": {
       "cv.default": "enabled"
@@ -1142,7 +1155,17 @@
       "Padding.button.small-vertical": "39629b522e34be5eef947f993ded228583c71b8f",
       "Padding.button.x-small-vertical": "f5f2f76f2134b59c1120609d25ff233f934f5fe3",
       "Padding.gamehall": "32af1bf96f88443f72570cf06ec001f8e4e3f7ff",
-      "test.token": "9c6140f56050518cade20ba12c25a31ebc130a2c"
+      "test.token": "9c6140f56050518cade20ba12c25a31ebc130a2c",
+      "calendar.bg.main": "33d52b5c4a9d6106f235ebaf79ea7ada862b1763",
+      "calendar.bg.secondary": "e3685d10811ba13480e996fbfb66601e2ce9294f",
+      "calendar.bg.tertiary": "c420cee22f94756160fda27f88efe3d01ab07874",
+      "calendar.bg.additional": "9cbb7e7c59427c83e2d98e5116ddd3940d6dc2be",
+      "calendar.border.primary": "f47cda76a1dedc90e794c97e831e40bf2fbce084",
+      "calendar.border.tertiaty": "23300bcbd9a73b37fbdfc05d4f524c6c3f621566",
+      "calendar.text.primary": "319f3524fe0f114b275b032bd074481d952f5b57",
+      "calendar.text.secondary": "8b66ad7fb7754d06b1916e9c7a47950bd29b21b8",
+      "calendar.text.tertiary": "8c7c332ea3934aa195310492e581fbeca0f4d02c",
+      "calendar.text.additional": "4a29373007e168acbe3b4f491398280ccb4541ae"
     },
     "$figmaCollectionId": "VariableCollectionId:37310:275655",
     "$figmaModeId": "37310:0"
