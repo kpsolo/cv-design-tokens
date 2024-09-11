@@ -2446,9 +2446,9 @@
       "description": "use for bg blur in pagination"
     },
     "blur-elements": {
-      "value": "24px",
+      "value": "48px",
       "type": "dimension",
-      "description": "use for circle elements on primary bg"
+      "description": "use as blur for calendar bg "
     },
     "blur-achivements": {
       "value": "16px",
