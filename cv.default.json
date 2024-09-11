@@ -841,14 +841,6 @@
           "spread": "",
           "color": "#D7A800",
           "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "8",
-          "spread": "",
-          "color": "#D7A800",
-          "type": "dropShadow"
         }
       ],
       "type": "boxShadow",
