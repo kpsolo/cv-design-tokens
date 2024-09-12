@@ -617,7 +617,8 @@
       "calendar.content.secondary": "S:c761cd2b8a01b375d72975f6f6ffccbb8df8ed0c,",
       "calendar.content.tertiary": "S:10e4bd5eb3996182bb75d23d1a61b8c6f994f64c,",
       "calendar.content.additional": "S:7d018bee224aad21275380a9c28c16d1db8fbe68,",
-      "calendar.content.main": "S:d35e636782c33ac699f2e8e0b26eb9f8037c5a11,"
+      "calendar.content.main": "S:d35e636782c33ac699f2e8e0b26eb9f8037c5a11,",
+      "bg.card.border.4": "S:712dfb037644037ef396ea84ebe71c5b268a9884,"
     },
     "selectedTokenSets": {
       "cv.default": "enabled"

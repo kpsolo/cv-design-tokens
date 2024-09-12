@@ -2341,6 +2341,11 @@
           "type": "color",
           "description": "winning now border"
         },
+        "4": {
+          "value": "linear-gradient(180deg, rgba(189, 15, 27, 0.70) 0%, rgba(189, 15, 27, 0.20) 100%)",
+          "type": "color",
+          "description": "popup status widget border"
+        },
         "1-additional": {
           "value": "#FFF5BF",
           "type": "color",
