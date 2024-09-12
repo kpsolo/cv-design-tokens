@@ -5970,7 +5970,7 @@
         "description": "border for chips disabled  state"
       }
     },
-    "text": {
+    "content": {
       "primary": {
         "value": "#fff",
         "type": "color",
@@ -5999,6 +5999,11 @@
         "value": "#050F28",
         "type": "color",
         "description": "date selected"
+      },
+      "main": {
+        "value": "#F3F3F3",
+        "type": "color",
+        "description": "calendar icon"
       }
     }
   }

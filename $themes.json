@@ -604,10 +604,6 @@
       "calendar.border.main": "S:8fe64845bd4209bcc13ac38c06cdb7ac3092133f,",
       "calendar.border.primary": "S:60bcfe914d232670c6c1723aff7c492ae809e7a8,",
       "calendar.border.secondary": "S:25ce2a095cb2eb00dd48a861579713f5d45042e5,",
-      "calendar.text.primary": "S:bbf9eeea7d029600b0987c2ce78b04c2ecee6450,",
-      "calendar.text.secondary": "S:c761cd2b8a01b375d72975f6f6ffccbb8df8ed0c,",
-      "calendar.text.tertiary": "S:10e4bd5eb3996182bb75d23d1a61b8c6f994f64c,",
-      "calendar.text.additional": "S:7d018bee224aad21275380a9c28c16d1db8fbe68,",
       "calendar.bg.primary": "S:9e25ffa1e54843bf1e84ba0db2af636154298ac0,",
       "calendar.bg.secondary": "S:47b05274de0279de126a50ed8e40ba87b7ee8600,",
       "calendar.bg.tertiary": "S:a809747407cd0477840dc9840e05a85fc661f69f,",
@@ -616,7 +612,12 @@
       "calendar.bg.extra": "S:96dc28ddf3c47016157068a22024f622cd9528de,",
       "calendar.border.additional": "S:ccf6186366f53f5755fd69fc6ee33383109f6270,",
       "border.nav-additional": "S:92613ddf905535628ba5a191b039bf5a58f2ef27,",
-      "calendar.bg.main-additional": "S:f95ad2ef03f60a86407a89a5b71ca63948d29d7b,"
+      "calendar.bg.main-additional": "S:f95ad2ef03f60a86407a89a5b71ca63948d29d7b,",
+      "calendar.content.primary": "S:bbf9eeea7d029600b0987c2ce78b04c2ecee6450,",
+      "calendar.content.secondary": "S:c761cd2b8a01b375d72975f6f6ffccbb8df8ed0c,",
+      "calendar.content.tertiary": "S:10e4bd5eb3996182bb75d23d1a61b8c6f994f64c,",
+      "calendar.content.additional": "S:7d018bee224aad21275380a9c28c16d1db8fbe68,",
+      "calendar.content.main": "S:d35e636782c33ac699f2e8e0b26eb9f8037c5a11,"
     },
     "selectedTokenSets": {
       "cv.default": "enabled"
@@ -1168,10 +1169,11 @@
       "calendar.bg.extra": "cb0df15888d6027dfb67e3ede6fdb3fac6c2cab3",
       "calendar.border.primary": "f47cda76a1dedc90e794c97e831e40bf2fbce084",
       "calendar.border.tertiaty": "23300bcbd9a73b37fbdfc05d4f524c6c3f621566",
-      "calendar.text.primary": "319f3524fe0f114b275b032bd074481d952f5b57",
-      "calendar.text.secondary": "8b66ad7fb7754d06b1916e9c7a47950bd29b21b8",
-      "calendar.text.tertiary": "8c7c332ea3934aa195310492e581fbeca0f4d02c",
-      "calendar.text.additional": "4a29373007e168acbe3b4f491398280ccb4541ae"
+      "calendar.content.primary": "319f3524fe0f114b275b032bd074481d952f5b57",
+      "calendar.content.secondary": "8b66ad7fb7754d06b1916e9c7a47950bd29b21b8",
+      "calendar.content.tertiary": "8c7c332ea3934aa195310492e581fbeca0f4d02c",
+      "calendar.content.additional": "4a29373007e168acbe3b4f491398280ccb4541ae",
+      "calendar.content.main": "29a52a6c9ed4785ee12d141503116ad615605922"
     },
     "$figmaCollectionId": "VariableCollectionId:37310:275655",
     "$figmaModeId": "37310:0"
