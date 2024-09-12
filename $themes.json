@@ -614,7 +614,9 @@
       "calendar.bg.additional": "S:b180ce53903571ae30094568f021a1452ebdab9f,",
       "calendar.border.tertiaty": "S:7b3eff45e4565027b60bb72ef1497ce3aacc17a6,",
       "calendar.bg.extra": "S:96dc28ddf3c47016157068a22024f622cd9528de,",
-      "calendar.border.additional": "S:ccf6186366f53f5755fd69fc6ee33383109f6270,"
+      "calendar.border.additional": "S:ccf6186366f53f5755fd69fc6ee33383109f6270,",
+      "border.nav-additional": "S:92613ddf905535628ba5a191b039bf5a58f2ef27,",
+      "calendar.bg.main-additional": "S:f95ad2ef03f60a86407a89a5b71ca63948d29d7b,"
     },
     "selectedTokenSets": {
       "cv.default": "enabled"
@@ -1159,6 +1161,7 @@
       "Padding.gamehall": "32af1bf96f88443f72570cf06ec001f8e4e3f7ff",
       "test.token": "9c6140f56050518cade20ba12c25a31ebc130a2c",
       "calendar.bg.main": "33d52b5c4a9d6106f235ebaf79ea7ada862b1763",
+      "calendar.bg.main-additional": "f5bda0a07b8b563bab024ae5e245a507ca6f0f4f",
       "calendar.bg.secondary": "e3685d10811ba13480e996fbfb66601e2ce9294f",
       "calendar.bg.tertiary": "c420cee22f94756160fda27f88efe3d01ab07874",
       "calendar.bg.additional": "9cbb7e7c59427c83e2d98e5116ddd3940d6dc2be",

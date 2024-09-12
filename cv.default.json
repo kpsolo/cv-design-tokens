@@ -2451,7 +2451,7 @@
       "description": "use for bg blur in pagination"
     },
     "blur-elements": {
-      "value": "48px",
+      "value": "12px",
       "type": "dimension",
       "description": "use as blur for calendar bg "
     },
@@ -5875,6 +5875,20 @@
           }
         },
         "description": "bg for event calendar widget"
+      },
+      "main-additional": {
+        "value": "#8DADFF",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "bg for calendar button"
       },
       "primary": {
         "value": "linear-gradient(180deg, #062F97 0%, rgba(6, 47, 151, 0.12) 97%, rgba(6, 47, 151, 0.12) 100%)",
