@@ -3245,6 +3245,11 @@
         "value": "#2A69F1",
         "type": "color",
         "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
+      },
+      "3": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "use for badges in calendar of event"
       }
     },
     "footer": {

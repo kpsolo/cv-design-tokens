@@ -618,7 +618,8 @@
       "calendar.content.tertiary": "S:10e4bd5eb3996182bb75d23d1a61b8c6f994f64c,",
       "calendar.content.additional": "S:7d018bee224aad21275380a9c28c16d1db8fbe68,",
       "calendar.content.main": "S:d35e636782c33ac699f2e8e0b26eb9f8037c5a11,",
-      "bg.card.border.4": "S:712dfb037644037ef396ea84ebe71c5b268a9884,"
+      "bg.card.border.4": "S:712dfb037644037ef396ea84ebe71c5b268a9884,",
+      "small-elements.badge.3": "S:63810a29a41c4a5b170c8fe2fac799875a8bcdea,"
     },
     "selectedTokenSets": {
       "cv.default": "enabled"
@@ -844,6 +845,7 @@
       "small-elements.sign": "d171d731e0992e66d147bfa1defe73603a02e5a6",
       "small-elements.badge.1": "6800161dec1742bd4439ee90f6ca0e67eaf1f90e",
       "small-elements.badge.2": "39bb6f9504a82dabfbdd7cc919520cac0e075ee3",
+      "small-elements.badge.3": "90f670b810f5e8e0a9ebfc23092425c987662592",
       "small-elements.footer.crypto-up": "cced2d128f6323e240d9504d2f2401bb600d8dd9",
       "small-elements.footer.crypto-down": "de242e10b94101c2bf9b37c9befebe6314301c79",
       "small-elements.footer.navdots": "5a6a04983af754fd87fe05b1fe3b4ea924e2a132",
