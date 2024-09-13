@@ -5937,7 +5937,7 @@
     },
     "border": {
       "main": {
-        "value": "linear-gradient(180deg, rgba(23, 88, 254, 0.48) 0%, rgba(6, 47, 151, 0.00) 100%, rgba(6, 47, 151, 0.00) 100.00%)",
+        "value": "rgba(23, 88, 254, 0.48)",
         "type": "color",
         "description": "border for event calendar widget"
       },
