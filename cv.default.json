@@ -5947,8 +5947,17 @@
         "description": "border for default calendar dates"
       },
       "secondary": {
-        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.30) 0%, rgba(255, 255, 255, 0.10) 100%)",
+        "value": "#fff",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.24",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "border for chips default calendar "
       },
       "tertiaty": {
@@ -5966,8 +5975,17 @@
         "description": "border for badge default calendar dates"
       },
       "additional": {
-        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.02) 100%)",
+        "value": "#fff",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "border for chips disabled  state"
       }
     },
