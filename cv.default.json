@@ -5873,17 +5873,8 @@
   "calendar": {
     "bg": {
       "main": {
-        "value": "#719EFA",
+        "value": "rgba(113, 158, 250, 0.10)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "bg for event calendar widget"
       },
       "main-additional": {
