@@ -1756,7 +1756,7 @@
       "description": "Radius for bonus cards in cashbox"
     },
     "tab": {
-      "value": "4px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "Radius for line in shop/lootbox/betting/news/strip"
     },
