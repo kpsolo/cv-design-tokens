@@ -5211,13 +5211,13 @@
         "description": "use as bg for popups and notification"
       },
       "2": {
-        "value": "#0E1B3E",
+        "value": "#1A2951",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.6",
+              "value": "0.4",
               "space": "srgb"
             }
           }
@@ -5444,12 +5444,22 @@
     },
     "border": {
       "main": {
-        "value": "linear-gradient(90deg, #47515A 0%, #868E93 26.31%, #DCF7FD 50%, #868E93 75%, #47515A 100%)",
+        "value": "linear-gradient(180deg, #B1B5BB 0%, #686E77 100%)",
         "type": "color"
       },
       "main-additional": {
-        "value": "linear-gradient(180deg, #47515A 6.83%, #868E93 29.42%, #DCF7FD 49.75%, #868E93 71.21%, #47515A 92.67%)",
-        "type": "color"
+        "value": "#000000",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "stroke (outside border) for wheel icons - menu/header/loader"
       },
       "bottom": {
         "value": "#8DFCFD",
@@ -5797,16 +5807,6 @@
         "value": "8px",
         "type": "dimension"
       }
-    },
-    "blur": {
-      "value": "0px",
-      "type": "dimension",
-      "description": "use for bg blue in categories/ strip service"
-    },
-    "info-blur": {
-      "value": "0px",
-      "type": "dimension",
-      "description": "use for bg under small information (tournament/lotteries)"
     },
     "button": {
       "large-horizontal": {
