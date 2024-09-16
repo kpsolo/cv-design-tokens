@@ -5244,7 +5244,7 @@
         "description": "use for switcher active bg"
       },
       "sector-2": {
-        "value": "#9BA1B1",
+        "value": "#fff",
         "type": "color",
         "description": "use for sectors bg (type1) - start"
       },
@@ -5326,21 +5326,6 @@
           "type": "color"
         },
         "description": "use for navigation icons"
-      },
-      "1": {
-        "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%)",
-        "type": "color",
-        "description": "use for icon respin in popup"
-      },
-      "2": {
-        "value": "#B51A1A",
-        "type": "color",
-        "description": "use for present icon in popup"
-      },
-      "2-additional": {
-        "value": "#C22222",
-        "type": "color",
-        "description": "use for present icon in popup"
       },
       "border": {
         "value": "{base.primary}",
