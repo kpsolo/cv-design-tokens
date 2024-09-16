@@ -5250,12 +5250,12 @@
         "description": "use for sectors bg (type3) - win sector - start"
       },
       "sector-1": {
-        "value": "#3A9B84",
+        "value": "#640209",
         "type": "color",
         "description": "use for sectors bg (type1) - start "
       },
       "sector-1-additional": {
-        "value": "#5CD995",
+        "value": "#BF0F1B",
         "type": "color",
         "description": "use for sectors bg (type1) - stop"
       },
