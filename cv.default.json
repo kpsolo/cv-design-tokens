@@ -1709,7 +1709,7 @@
       "description": "Radius for select (0)"
     },
     "small-tips": {
-      "value": "12px",
+      "value": "16px",
       "type": "borderRadius",
       "description": "Radius for small elements -  notification in menu item"
     },
@@ -5191,7 +5191,7 @@
         "description": "use for text in denomination default buttons"
       },
       "4": {
-        "value": "#252D40",
+        "value": "#fff",
         "type": "color",
         "description": "use for text in denomination active buttons"
       },
@@ -5211,8 +5211,17 @@
         "description": "use as bg for popups and notification"
       },
       "2": {
-        "value": "{bg.additional}",
+        "value": "#0E1B3E",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use for denomination widget bg"
       },
       "3": {
@@ -5245,7 +5254,7 @@
         "description": "use for sectors bg (type1) - stop"
       },
       "sector-3": {
-        "value": "#A80000",
+        "value": "#12254F",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - start"
       },
@@ -5259,16 +5268,6 @@
         "type": "color",
         "description": "use for sectors bg (type1) - stop"
       },
-      "dots": {
-        "value": "#5AD4CD",
-        "type": "color",
-        "description": "use for dots shine under wheel border"
-      },
-      "radial": {
-        "value": "radial-gradient(50% 50% at 50% 50%, rgba(141, 252, 253, 0.42) 0%, rgba(141, 252, 253, 0.00) 100%)",
-        "type": "color",
-        "description": "use for bg elipse on main bg under wheel"
-      },
       "main": {
         "value": "{bg.popup}",
         "type": "color",
@@ -5280,7 +5279,7 @@
         "description": "use as bg for lines under wheel"
       },
       "sector-3-additional": {
-        "value": "#8DFCFD",
+        "value": "#429DCB",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - stop"
       },
@@ -5390,8 +5389,17 @@
         "description": "use as bg for denominations bet item hover state"
       },
       "active": {
-        "value": "linear-gradient(180deg, #6EC6C7 0%, #B1FEFF 100%)",
+        "value": "#6892EE",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.08",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use as bg for denominations bet item active state"
       },
       "inactive": {
