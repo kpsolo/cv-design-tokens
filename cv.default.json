@@ -5610,9 +5610,9 @@
         "description": "bg for top bg in ingame"
       },
       "thumb": {
-        "value": "rgba(16, 32, 68, 0.60)",
+        "value": "#0B1A3B",
         "type": "color",
-        "description": "bg for show more thumb"
+        "description": "bg for show more thumb/zagluska fo game thumb"
       },
       "thumb-content": {
         "value": "{text.primary}",
