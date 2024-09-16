@@ -607,7 +607,8 @@
       "wheel.picker.border": "S:479ee92c0c55bd500687970e2c1a778be8fbf71d,",
       "wheel.button.bg": "S:a9cd4eecf1c657f9bbf436396c3f8b1b11147cc4,",
       "wheel.button.border": "S:699d877b098d36e7844ac565918882bb8fbecf7a,",
-      "wheel.button.bg-additional": "S:29c11467f63c698e31e0d39f81055780832927e7,"
+      "wheel.button.bg-additional": "S:29c11467f63c698e31e0d39f81055780832927e7,",
+      "typography.title-small-strong-additional": "S:b58ec697d21dc20862e446e506abb98827f6d906,"
     },
     "selectedTokenSets": {
       "cv.default": "enabled"

@@ -339,6 +339,16 @@
       "type": "typography",
       "description": "Small titles"
     },
+    "title-small-strong-additional": {
+      "value": {
+        "fontFamily": "{font-family.accent}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "18px",
+        "fontSize": "{font-size.5}"
+      },
+      "type": "typography",
+      "description": "for tabs - quick registration"
+    },
     "title-tab": {
       "value": {
         "fontFamily": "{font-family.main}",
