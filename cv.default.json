@@ -5394,37 +5394,41 @@
       }
     },
     "picker": {
-      "bg-main": {
-        "value": "#fff",
+      "bg": {
+        "value": "#C20C18",
         "type": "color",
         "description": "use as main bg on picker"
       },
-      "bg-shaddow": {
-        "value": "linear-gradient(174deg, rgba(255, 255, 255, 0.80) 6.36%, rgba(255, 255, 255, 0.00) 80.66%)",
+      "border": {
+        "value": "linear-gradient(174deg, #ACB0B7 10.07%, #E8E8E8 95.74%)",
         "type": "color",
         "description": "use for shaddow over picker"
       }
     },
     "button": {
-      "bg-2": {
-        "value": "linear-gradient(174deg, rgba(255, 255, 255, 0.80) 6.36%, rgba(255, 255, 255, 0.00) 80.66%)",
+      "bg": {
+        "value": "#14264F",
         "type": "color",
-        "description": "use for shaddow under play triangle"
+        "description": "main bg for play button"
       },
-      "play": {
-        "value": "#ffffffe6",
+      "border": {
+        "value": "#ffffff",
         "type": "color",
-        "description": "play triangle"
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "border over main bg"
       },
-      "bg-1": {
-        "value": "#B6C6D4",
+      "bg-additional": {
+        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.60) 0%, rgba(255, 255, 255, 0.00) 100%)",
         "type": "color",
-        "description": "use for bg on play button"
-      },
-      "bg-border-1": {
-        "value": "linear-gradient(180deg, #47515A 0%, #B6C6D4 100%)",
-        "type": "color",
-        "description": "use as border for play button"
+        "description": "use for shaddow on play button on wheel icon"
       }
     },
     "border": {
@@ -5445,11 +5449,6 @@
           }
         },
         "description": "stroke (outside border) for wheel icons - menu/header/loader"
-      },
-      "main-extra": {
-        "value": "#7E898D",
-        "type": "color",
-        "description": "use for wheel border(inside) in menu wheel icon"
       }
     }
   },
