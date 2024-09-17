@@ -343,7 +343,7 @@
       "value": {
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.1}",
-        "lineHeight": "18px",
+        "lineHeight": "16px",
         "fontSize": "{font-size.5}"
       },
       "type": "typography",
