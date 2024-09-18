@@ -5398,7 +5398,7 @@
         "description": "use as bg for denominations bet item active state"
       },
       "inactive": {
-        "value": "#transparent",
+        "value": "transparent",
         "type": "color",
         "description": "use as bg for denominations bet item disabled state"
       }
