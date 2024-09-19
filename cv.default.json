@@ -5264,9 +5264,9 @@
         "description": "use for sectors bg (type3) - win sector - start"
       },
       "sector-1": {
-        "value": "#640209",
+        "value": "radial-gradient(50% 50% at 50% 50%, #69040B 0%, #7C060E 18.5%, #8A0811 29.66%, #970A14 43.71%, #BF121E 100%)",
         "type": "color",
-        "description": "use for sectors bg (type1) - start "
+        "description": "use for sectors (not white)"
       },
       "main": {
         "value": "{bg.popup}",
