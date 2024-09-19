@@ -5258,11 +5258,6 @@
         "type": "color",
         "description": "use for sectors bg (type1) - start"
       },
-      "sector-2-additional": {
-        "value": "#ffffff",
-        "type": "color",
-        "description": "use for sectors bg (type1) - stop"
-      },
       "sector-3": {
         "value": "#12254F",
         "type": "color",
@@ -5273,30 +5268,10 @@
         "type": "color",
         "description": "use for sectors bg (type1) - start "
       },
-      "sector-1-additional": {
-        "value": "#BF0F1B",
-        "type": "color",
-        "description": "use for sectors bg (type1) - stop"
-      },
       "main": {
         "value": "{bg.popup}",
         "type": "color",
         "description": "use as bg on wheel popup"
-      },
-      "lines": {
-        "value": "linear-gradient(270deg, rgba(255, 255, 255, 0.00) -0.98%, rgba(255, 255, 255, 0.20) 23.37%, rgba(255, 255, 255, 0.20) 74.78%, rgba(255, 255, 255, 0.00) 100%)",
-        "type": "color",
-        "description": "use as bg for lines under wheel"
-      },
-      "sector-3-additional": {
-        "value": "#429DCB",
-        "type": "color",
-        "description": "use for sectors bg (type3) - win sector - stop"
-      },
-      "border-sector": {
-        "value": "#8DFCFD",
-        "type": "color",
-        "description": "use for borders in sectors"
       }
     },
     "switcher": {
