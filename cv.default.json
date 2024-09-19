@@ -5259,7 +5259,7 @@
         "description": "use for sectors bg (type1) - start"
       },
       "sector-3": {
-        "value": "#12254F",
+        "value": "radial-gradient(50% 50% at 50% 50%, #122650 0%, #18355F 13%, #214B77 32.96%, #3885B2 76%, #449ECB 100%)",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - start"
       },
