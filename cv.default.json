@@ -2229,7 +2229,7 @@
             }
           }
         },
-        "description": "Background above game image"
+        "description": "Background above game image, for recent games widget on desktop"
       },
       "sidebar-gamepage": {
         "value": "linear-gradient(180deg, rgba(22, 27, 38, 0.00) 0%, rgba(22, 27, 38, 0.95) 63.16%, #161B26 100%)",
