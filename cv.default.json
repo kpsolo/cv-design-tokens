@@ -2186,7 +2186,7 @@
             }
           }
         },
-        "description": "Use for underlay of elements on top (star, counter)\ningame back button bg"
+        "description": "overlay for desktop poppups"
       },
       "slider": {
         "value": "#00000000",
