@@ -5542,7 +5542,7 @@
     },
     "bg": {
       "additional": {
-        "value": "transparent",
+        "value": "#061535",
         "type": "color",
         "description": "use as bg in gamepage widget"
       }
