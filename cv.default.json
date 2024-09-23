@@ -4427,6 +4427,21 @@
       },
       "type": "typography"
     },
+    "verification-card-num-additional": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "20px",
+        "fontSize": "18px",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.uppercase}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+      },
+      "type": "typography",
+      "description": "for 1288 desktop"
+    },
     "verification-card-text": {
       "value": {
         "fontFamily": "{font-family.main}",
@@ -4440,6 +4455,21 @@
         "paragraphIndent": "{paragraph-indent.first-stroke-default}"
       },
       "type": "typography"
+    },
+    "verification-card-text-additional": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "18px",
+        "fontSize": "16px",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.none}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+      },
+      "type": "typography",
+      "description": "for desktop 1288"
     },
     "verification-passport-text": {
       "value": {
