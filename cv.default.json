@@ -5675,7 +5675,7 @@
         "type": "color"
       },
       "hover": {
-        "value": "#FFFFFF",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "for icon hover state"
       },
