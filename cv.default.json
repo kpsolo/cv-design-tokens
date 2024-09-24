@@ -514,6 +514,21 @@
       "type": "typography",
       "description": "Homepage small banners titles - smart banner/betting"
     },
+    "banner": {
+      "value": {
+        "fontFamily": "{font-family.accent}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.4}",
+        "fontSize": "{font-size.7}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Use for banners subtitles"
+    },
     "menu-desktop": {
       "value": {
         "fontFamily": "{font-family.main}",
