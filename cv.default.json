@@ -2526,7 +2526,7 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#EBAB2E",
+      "value": "#FFBF00",
       "type": "color",
       "description": "Background for accent elements"
     },
@@ -5014,7 +5014,7 @@
         "description": "for main headers"
       },
       "accent": {
-        "value": "#E9A41D",
+        "value": "{base.accent-primary}",
         "type": "color"
       },
       "title-winner": {

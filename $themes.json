@@ -605,7 +605,8 @@
       "wheel.button.bg-additional": "S:29c11467f63c698e31e0d39f81055780832927e7,",
       "typography.title-small-strong-additional": "S:b58ec697d21dc20862e446e506abb98827f6d906,",
       "special-blocks.verification-card-num-additional": "S:129a888eeb22d7040cc2a54cec23aed1bd61bebe,",
-      "special-blocks.verification-card-text-additional": "S:4f98ae3380dd648dfb66c668a4af6b5821b45e62,"
+      "special-blocks.verification-card-text-additional": "S:4f98ae3380dd648dfb66c668a4af6b5821b45e62,",
+      "typography.banner": "S:f91b5eb2da8d4b4e832e5bc27103f72ffc5a7746,"
     },
     "selectedTokenSets": {
       "cv.default": "enabled"
