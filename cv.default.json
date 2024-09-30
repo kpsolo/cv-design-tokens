@@ -3838,6 +3838,11 @@
       "type": "sizing",
       "description": "use for logo zone in footer "
     },
+    "1click": {
+      "value": "40px",
+      "type": "sizing",
+      "description": "use for min/max deposite state in 1click"
+    },
     "search": {
       "value": "56px",
       "type": "sizing",
@@ -4015,16 +4020,6 @@
       "type": "letterSpacing"
     }
   },
-  "paragraph-spacing": {
-    "0": {
-      "value": "0",
-      "type": "paragraphSpacing"
-    },
-    "24": {
-      "value": "24px",
-      "type": "paragraphSpacing"
-    }
-  },
   "text-case": {
     "none": {
       "value": "none",
@@ -4052,12 +4047,6 @@
     "line-through": {
       "value": "line-through",
       "type": "textDecoration"
-    }
-  },
-  "paragraph-indent": {
-    "first-stroke-default": {
-      "value": "0px",
-      "type": "dimension"
     }
   },
   "special-blocks": {
@@ -5744,12 +5733,6 @@
     }
   },
   "spacing": {
-    "gamepage": {
-      "player": {
-        "value": "6px",
-        "type": "dimension"
-      }
-    },
     "homepage-dropdown": {
       "value": "56px",
       "type": "dimension",
@@ -5800,18 +5783,6 @@
     }
   },
   "Padding": {
-    "pregame": {
-      "main": {
-        "value": "0px",
-        "type": "dimension"
-      }
-    },
-    "gamepage": {
-      "player": {
-        "value": "8px",
-        "type": "dimension"
-      }
-    },
     "button": {
       "large-horizontal": {
         "value": "16px",
@@ -5853,11 +5824,6 @@
         "type": "dimension",
         "description": "use for x-small button vertical padding"
       }
-    },
-    "gamehall": {
-      "value": "24px",
-      "type": "dimension",
-      "description": "use in homegage games hall"
     }
   },
   "test": {
