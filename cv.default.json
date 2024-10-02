@@ -3306,16 +3306,16 @@
       "dropdown": {
         "value": "rgba(255, 255, 255, 0.08)",
         "type": "color",
-        "description": "Background for payment dropdown element",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.2",
+              "value": "0.12",
               "space": "srgb"
             }
           }
-        }
+        },
+        "description": "Background for payment dropdown element"
       },
       "bg-social-additional": {
         "value": "{small-elements.footer.bg-social}",
