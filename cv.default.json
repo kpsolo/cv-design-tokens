@@ -3920,7 +3920,7 @@
         "fontWeight": "{font-weight.3}",
         "lineHeight": "50px",
         "fontSize": "48px",
-        "letterSpacing": "-3%",
+        "letterSpacing": "-0.03em",
         "textCase": "{text-case.uppercase}"
       },
       "type": "typography",
@@ -3932,7 +3932,7 @@
         "fontWeight": "{font-weight.3}",
         "lineHeight": "32px",
         "fontSize": "30px",
-        "letterSpacing": "-3%"
+        "letterSpacing": "-0.03em"
       },
       "type": "typography",
       "description": "Title for jackpot page"
@@ -3975,7 +3975,7 @@
         "fontWeight": "{font-weight.2}",
         "lineHeight": "60px",
         "fontSize": "48px",
-        "letterSpacing": "-3%"
+        "letterSpacing": "-0.03em"
       },
       "type": "typography",
       "description": "Amount of prize on jackpot card - kackpot page"
@@ -3986,7 +3986,7 @@
         "fontWeight": "{font-weight.2}",
         "lineHeight": "36px",
         "fontSize": "34px",
-        "letterSpacing": "-1%"
+        "letterSpacing": "-0.01em"
       },
       "type": "typography",
       "description": "Amount of prize on jackpot page"
