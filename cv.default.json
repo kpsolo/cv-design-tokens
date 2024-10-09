@@ -5433,7 +5433,7 @@
         "description": "use for dropdown"
       },
       "overlay-additional": {
-        "value": "linear-gradient(180deg, rgba(37, 45, 64, 0.00) 0%, rgba(22, 43, 87, 0.34) 51.5%, #162B57 100%)",
+        "value": "linear-gradient(270deg, #162B57 0%, rgba(22, 43, 87, 0.34) 48.5%, rgba(37, 45, 64, 0.00) 100%)",
         "type": "color",
         "description": "use for bg under prizes"
       },
