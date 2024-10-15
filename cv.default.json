@@ -2169,7 +2169,7 @@
         "description": "use for menu banner overlay gradient under title"
       },
       "2": {
-        "value": "linear-gradient(0deg, rgba(6, 21, 53, 0.00) 0%, rgba(6, 21, 53, 0.47) 62.72%, #061535 100%)",
+        "value": "linear-gradient(0deg, rgba(6, 21, 53, 0.00) 0%, rgba(6, 21, 53, 0.47) 32%, #061535 100%)",
         "type": "color",
         "description": "use as overlay on messages picture, news cards picture"
       },
