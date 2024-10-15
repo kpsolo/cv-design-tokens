@@ -4876,35 +4876,35 @@
       "value": "#076DEA",
       "type": "color"
     },
-    "radiusXxs": {
-      "value": "2",
-      "type": "borderRadius"
-    },
-    "radiusXs": {
-      "value": "4",
-      "type": "borderRadius"
-    },
-    "radiusS": {
-      "value": "4",
-      "type": "borderRadius"
-    },
-    "radiusM": {
-      "value": "8",
-      "type": "borderRadius"
-    },
-    "radiusL": {
-      "value": "16",
-      "type": "borderRadius"
-    },
-    "radiusXl": {
-      "value": "24",
-      "type": "borderRadius"
-    },
-    "radiusXxl": {
-      "value": "32",
-      "type": "borderRadius"
-    },
     "db": {
+      "radiusXxs": {
+        "value": "2",
+        "type": "borderRadius"
+      },
+      "radiusXs": {
+        "value": "4",
+        "type": "borderRadius"
+      },
+      "radiusS": {
+        "value": "4",
+        "type": "borderRadius"
+      },
+      "radiusM": {
+        "value": "8",
+        "type": "borderRadius"
+      },
+      "radiusL": {
+        "value": "16",
+        "type": "borderRadius"
+      },
+      "radiusXl": {
+        "value": "24",
+        "type": "borderRadius"
+      },
+      "radiusXxl": {
+        "value": "32",
+        "type": "borderRadius"
+      },
       "primaryColor": {
         "value": "{base.surface}",
         "type": "color",
