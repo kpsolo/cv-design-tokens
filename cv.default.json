@@ -4875,6 +4875,78 @@
     "select card": {
       "value": "#076DEA",
       "type": "color"
+    },
+    "radiusXxs": {
+      "value": "2",
+      "type": "borderRadius"
+    },
+    "radiusXs": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "radiusS": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "radiusM": {
+      "value": "8",
+      "type": "borderRadius"
+    },
+    "radiusL": {
+      "value": "16",
+      "type": "borderRadius"
+    },
+    "radiusXl": {
+      "value": "24",
+      "type": "borderRadius"
+    },
+    "radiusXxl": {
+      "value": "32",
+      "type": "borderRadius"
+    },
+    "db": {
+      "primaryColor": {
+        "value": "{base.surface}",
+        "type": "color",
+        "description": "Data.bet"
+      },
+      "primaryAccent": {
+        "value": "{base.warning}",
+        "type": "color",
+        "description": "Data.bet"
+      },
+      "secondaryColor": {
+        "value": "#071941",
+        "type": "color"
+      },
+      "primaryText": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "primaryAccentText": {
+        "value": "{base.surface}",
+        "type": "color"
+      },
+      "secondaryText": {
+        "value": "#C5CFE4",
+        "type": "color"
+      },
+      "infoColor": {
+        "value": "#D1DCF2",
+        "type": "color"
+      },
+      "successColor": {
+        "value": "#46C427",
+        "type": "color"
+      },
+      "errorColor": {
+        "value": "#FE4C25",
+        "type": "color"
+      },
+      "warningColor": {
+        "value": "{base.warning}",
+        "type": "color"
+      }
     }
   },
   "tab": {
@@ -5500,13 +5572,6 @@
         "type": "dimension",
         "description": "use for x-small button vertical padding"
       }
-    }
-  },
-  "test": {
-    "token": {
-      "value": "Space Grotesk",
-      "type": "fontFamilies",
-      "description": "just for test (delete it)"
     }
   },
   "calendar": {
