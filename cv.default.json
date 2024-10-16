@@ -4924,8 +4924,9 @@
         "type": "color"
       },
       "primaryAccentText": {
-        "value": "{base.surface}",
-        "type": "color"
+        "value": "{button.text.primary}",
+        "type": "color",
+        "description": "data.bet"
       },
       "secondaryText": {
         "value": "#C5CFE4",
