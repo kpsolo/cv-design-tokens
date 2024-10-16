@@ -4911,7 +4911,7 @@
         "description": "Data.bet"
       },
       "primaryAccent": {
-        "value": "{base.warning}",
+        "value": "{button.bg.secondary}",
         "type": "color",
         "description": "Data.bet"
       },
