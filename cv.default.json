@@ -457,7 +457,7 @@
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.xs}",
         "fontSize": "{font-size.1}",
-        "fontFamily": "Arial"
+        "fontFamily": "{font-family.additional}"
       },
       "type": "typography",
       "description": "Notification counter"
@@ -3663,6 +3663,10 @@
     },
     "accent": {
       "value": "Mabry Pro",
+      "type": "fontFamilies"
+    },
+    "additional": {
+      "value": "Arial",
       "type": "fontFamilies"
     }
   },
