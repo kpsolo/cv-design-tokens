@@ -454,10 +454,10 @@
     },
     "notification-bubble": {
       "value": {
-        "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.xs}",
-        "fontSize": "{font-size.1}"
+        "fontSize": "{font-size.1}",
+        "fontFamily": "Arial"
       },
       "type": "typography",
       "description": "Notification counter"
