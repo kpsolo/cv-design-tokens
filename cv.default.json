@@ -500,7 +500,7 @@
           "y": "1",
           "blur": "2",
           "spread": "0",
-          "color": "rgba(150, 20, 42, 0.40)",
+          "color": "#96142A",
           "type": "innerShadow"
         }
       ],
