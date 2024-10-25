@@ -3139,7 +3139,7 @@
         "description": "Color of counter for desktop tournament widget"
       },
       "tournament-counter-bg": {
-        "value": "{bg.tertiary}",
+        "value": "#07142E",
         "type": "color",
         "description": "bg for tournament counter on desktop widget"
       }
