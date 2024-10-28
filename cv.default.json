@@ -5515,7 +5515,7 @@
         "description": "use for bg under prizes"
       },
       "overlay-gradient": {
-        "value": "{bg.overlay-gradient.3}",
+        "value": "linear-gradient(180deg, rgba(2, 16, 44, 0.00) 0%, rgba(2, 16, 44, 0.00) 67%, #02102C 100%)",
         "type": "color",
         "description": "use as overlay under tabs"
       }
