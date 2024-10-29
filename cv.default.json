@@ -2482,17 +2482,8 @@
         "description": "Background for secondary buttons"
       },
       "secondary-hover": {
-        "value": "{button.bg.secondary}",
+        "value": "#0D3394",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for secondary buttons hover"
       },
       "secondary-pressed": {
