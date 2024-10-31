@@ -3697,6 +3697,11 @@
     "m": {
       "value": "18px",
       "type": "lineHeights"
+    },
+    "column": {
+      "value": "20px",
+      "type": "lineHeights",
+      "description": "narrow block mobile (popup)"
     }
   },
   "font-weight": {
