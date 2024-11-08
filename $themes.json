@@ -620,7 +620,7 @@
     },
     "selectedTokenSets": {
       "cv.default": "enabled",
-      "rc.default": "disabled"
+      "cv.cr": "disabled"
     },
     "$figmaVariableReferences": {
       "border.popup-additional": "2ccf9322b758746a0a74a260c69e3a59da76b6dc",
