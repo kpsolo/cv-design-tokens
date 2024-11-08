@@ -619,8 +619,7 @@
       "betting.db.warningColor": "S:af2877ebac47b13ef1b6a29d870cac3e86b7f17c,"
     },
     "selectedTokenSets": {
-      "cv.default": "enabled",
-      "cv.cr": "disabled"
+      "cv.default": "enabled"
     },
     "$figmaVariableReferences": {
       "border.popup-additional": "2ccf9322b758746a0a74a260c69e3a59da76b6dc",
