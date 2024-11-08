@@ -3649,11 +3649,11 @@
   },
   "font-family": {
     "main": {
-      "value": "Intro",
+      "value": "Montserrat",
       "type": "fontFamilies"
     },
     "accent": {
-      "value": "Intro",
+      "value": "Montserrat",
       "type": "fontFamilies"
     },
     "additional": {
