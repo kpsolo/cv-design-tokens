@@ -1,5 +1,6 @@
 {
   "tokenSetOrder": [
-    "cv.default"
+    "cv.default",
+    "rc.default"
   ]
 }
