@@ -3649,11 +3649,11 @@
   },
   "font-family": {
     "main": {
-      "value": "Mabry Pro",
+      "value": "Intro",
       "type": "fontFamilies"
     },
     "accent": {
-      "value": "Mabry Pro",
+      "value": "Intro",
       "type": "fontFamilies"
     },
     "additional": {
