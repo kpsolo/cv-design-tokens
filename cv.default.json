@@ -376,7 +376,7 @@
       "value": {
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.2}",
-        "lineHeight": "36px",
+        "lineHeight": "34px",
         "fontSize": "32px"
       },
       "type": "typography",
