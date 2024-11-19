@@ -1715,7 +1715,7 @@
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
       "cashbox-bonus": {
-        "value": "#05234C",
+        "value": "#051D40",
         "type": "color",
         "description": "for cashbox bonus popup"
       },
@@ -1725,7 +1725,7 @@
         "description": "for cashbox bonus popup content"
       },
       "cashbox-bonus-content-opacity": {
-        "value": "rgba(255, 255, 255, 0.60)",
+        "value": "rgba(255, 255, 255, 0.80)",
         "type": "color",
         "description": "for cashbox bonus popup content"
       },
