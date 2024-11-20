@@ -770,7 +770,7 @@
           "y": "1",
           "blur": "0",
           "spread": "0",
-          "color": "rgba(255, 255, 255, 0.10)",
+          "color": "rgba(185, 17, 28, 0.40)",
           "type": "dropShadow"
         },
         "type": "boxShadow",
@@ -1067,7 +1067,7 @@
     },
     "ghost-6": {
       "value": {
-        "color": "{bg.tertiary}",
+        "color": "transparent",
         "width": "1",
         "style": "solid"
       },
