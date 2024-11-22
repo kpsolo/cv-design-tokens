@@ -1802,9 +1802,7 @@
       "shadow.accent-additional": "S:05a270f9d57145b3b07d27d9a5253b95fe627986,",
       "shadow.accent-extra": "S:10beb17762492496c70d0b7746e6157059f217c8,"
     },
-    "selectedTokenSets": {
-      "cv.cr": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:47272:512253",
     "$figmaModeId": "47272:1",
     "$figmaVariableReferences": {
