@@ -1745,7 +1745,7 @@
         "description": "Use for tooltip background"
       },
       "footer": {
-        "value": "#071533",
+        "value": "#151517",
         "type": "color",
         "description": "Background color for footer"
       },
