@@ -1185,7 +1185,7 @@
   },
   {
     "id": "25ea10c21fa6286d73f4403b9637fda2440c63ed",
-    "name": "cr",
+    "name": "rc",
     "$figmaStyleReferences": {
       "typography.caption-extrasmall": "S:48afadfbf269ab2db0609ce5567d2df8bfa062ee,",
       "typography.caption-extrasmall-strong": "S:d36cdd1692cebe126462d75e042f3546617c6084,",
@@ -1802,7 +1802,9 @@
       "shadow.accent-additional": "S:05a270f9d57145b3b07d27d9a5253b95fe627986,",
       "shadow.accent-extra": "S:10beb17762492496c70d0b7746e6157059f217c8,"
     },
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "rc.default": "enabled"
+    },
     "$figmaCollectionId": "VariableCollectionId:47272:512253",
     "$figmaModeId": "47272:1",
     "$figmaVariableReferences": {
