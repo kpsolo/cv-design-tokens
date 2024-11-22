@@ -2325,7 +2325,7 @@
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#02102C",
+      "value": "#19191B",
       "type": "color",
       "description": "main color for brand bgs"
     },
@@ -2865,7 +2865,7 @@
       }
     },
     "progressbar-large": {
-      "value": "#0C3092",
+      "value": "linear-gradient(180deg, #FFC16F 0%, #C7944A 100%)",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
@@ -3649,11 +3649,11 @@
   },
   "font-family": {
     "main": {
-      "value": "Mabry Pro",
+      "value": "Mulish",
       "type": "fontFamilies"
     },
     "accent": {
-      "value": "Mabry Pro",
+      "value": "Mulish",
       "type": "fontFamilies"
     },
     "additional": {
@@ -4444,7 +4444,7 @@
         "type": "color"
       },
       "top-desktop": {
-        "value": "#03112E",
+        "value": "linear-gradient(180deg, #000 0%, #000 47.95%, #191919 100%)",
         "type": "color",
         "description": "bg header on top for desktop"
       },
