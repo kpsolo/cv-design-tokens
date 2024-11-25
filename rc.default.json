@@ -1597,7 +1597,7 @@
   },
   "bg": {
     "technical": {
-      "value": "{bg.additional}",
+      "value": "{bg.other.sidebar-desktop}",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
@@ -2179,7 +2179,7 @@
         "description": "use for menu banner overlay gradient under title"
       },
       "2": {
-        "value": "linear-gradient(0deg, rgba(6, 21, 53, 0.00) 0%, rgba(6, 21, 53, 0.60) 37.1%, #061535 100%)",
+        "value": "linear-gradient(0deg, rgba(37, 36, 39, 0.00) 0%, rgba(37, 36, 39, 0.60) 37.1%, #252427 100%)",
         "type": "color",
         "description": "use as overlay on messages picture, news cards picture"
       },
