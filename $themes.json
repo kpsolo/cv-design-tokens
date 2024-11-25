@@ -1800,7 +1800,8 @@
       "shadow.special-blocks.card": "S:d3468d25d93d5164c6606771e26bbf360654659d,",
       "shadow.special-blocks.referral": "S:40488c9609ccfa7f361318116e66fb483c59f43b,",
       "shadow.accent-additional": "S:b0eaa81d4de606e210561b291cbcebf143c6ec7e,",
-      "shadow.accent-extra": "S:0d5e6f061de4acbb571fae07dbacb6167bdb71c6,"
+      "shadow.accent-extra": "S:0d5e6f061de4acbb571fae07dbacb6167bdb71c6,",
+      "tech.bg": "S:96d3b054300febccbac212465a8e92d48f36b974,"
     },
     "selectedTokenSets": {
       "rc.default": "enabled"
@@ -1878,6 +1879,7 @@
       "bg.other.footer": "5a6e64cdcb9e90a6602b97a1a480c6aea18755ed",
       "bg.other.1click": "0adcedd26eb7e7efca2149b9858b03839b2656c1",
       "bg.other.accent-on-light": "1a4697ec4f2bf97dc6749b3cad20ed7964f905ca",
+      "bg.other.sidebar-desktop": "de30155ef51ae2fbb5291ea793ed96c9a239968f",
       "bg.other.sidebar-desktop-additional": "5a6dc3d0216995742893932f9ba48958548b069d",
       "bg.other.hover-on-light": "e923cb99f28470abc119218d99696108bf006a21",
       "bg.other.cashbox": "00f67bed18b06127890f477f64d71414c6a7ceac",
@@ -2353,7 +2355,8 @@
       "calendar.content.secondary": "5062c5a158b07d574b7b5d151afa762432342e76",
       "calendar.content.tertiary": "91792199727abcb3803f73f1dc36f66670f55fd7",
       "calendar.content.additional": "4bc90d0a36daf75e71e8aaf405230ed46882af5c",
-      "calendar.content.main": "6d90d1d859930f4b93cb8c3dbeb8162bd561b780"
+      "calendar.content.main": "6d90d1d859930f4b93cb8c3dbeb8162bd561b780",
+      "tech.bg": "24a2516f3391f2aefa2b3c1a0f76f3cbf9bf38ea"
     }
   }
 ]
