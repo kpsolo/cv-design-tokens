@@ -1862,7 +1862,7 @@
         "description": "Bg for background popup on strip desktop"
       },
       "footer-app": {
-        "value": "#040C1F",
+        "value": "#212123",
         "type": "color",
         "description": "bg for app button in footer"
       },
@@ -3081,7 +3081,7 @@
         "description": "for social icons bg"
       },
       "contact": {
-        "value": "rgba(255, 255, 255, 0.04)",
+        "value": "rgba(255, 255, 255, 0.02)",
         "type": "color",
         "description": "for under contacts"
       },
@@ -4554,7 +4554,7 @@
       "description": "use for hover state for messages desktop"
     },
     "link": {
-      "value": "#8ABAFB",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "also use for win tickets in lottery results"
     },
