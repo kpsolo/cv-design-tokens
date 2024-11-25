@@ -4457,7 +4457,7 @@
         "type": "color"
       },
       "sticky": {
-        "value": "linear-gradient(180deg, #09122E 0%, rgba(9, 18, 46, 0.80) 29%, rgba(9, 18, 46, 0.60) 66.5%, rgba(9, 18, 46, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #1A1A1C 0%, rgba(26, 26, 28, 0.80) 39.95%, rgba(26, 26, 28, 0.00) 100%)",
         "type": "color"
       },
       "top-desktop": {
