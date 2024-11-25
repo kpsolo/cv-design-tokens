@@ -1765,7 +1765,7 @@
         "description": "color for desktop sidebar"
       },
       "sidebar-desktop-additional": {
-        "value": "linear-gradient(168deg, rgba(10, 25, 55, 0.40) 8.26%, rgba(13, 33, 72, 0.40) 36.54%, rgba(10, 25, 55, 0.40) 93.1%)",
+        "value": "#1F1E22",
         "type": "color",
         "description": "bg for bonus card in desktop sidebar"
       },
@@ -1997,7 +1997,7 @@
         "description": "Use for game page background on right filter sidebar (under icons)"
       },
       "light-1": {
-        "value": "rgba(210, 229, 255, 0.10)",
+        "value": "rgba(158, 158, 158, 0.08)",
         "type": "color",
         "description": "bg in tournament/lottery under players"
       },
@@ -2151,7 +2151,7 @@
           "description": "DEV - 1st deposit card stroke, welcomeback popup border "
         },
         "main": {
-          "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
+          "value": "linear-gradient(180deg, rgba(229, 169, 117, 0.60) 0%, rgba(255, 209, 170, 0.10) 100%)",
           "type": "color",
           "description": "border for all cards - sidebar/main banner"
         },
@@ -2300,12 +2300,12 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#FFBF00",
+      "value": "#F2B664",
       "type": "color",
       "description": "Background for accent elements"
     },
     "accent-secondary": {
-      "value": "#EBAB2E",
+      "value": "#F2B664",
       "type": "color",
       "description": "Background for tertiary elements"
     },
@@ -2355,7 +2355,7 @@
       "description": "Color for winners"
     },
     "primary": {
-      "value": "#ffffff",
+      "value": "#F4F4F4",
       "type": "color",
       "description": "for text,icons"
     },
@@ -3027,12 +3027,12 @@
     },
     "badge": {
       "1": {
-        "value": "#B62D3E",
+        "value": "#F2B664",
         "type": "color",
         "description": "use for badge in main tapbar"
       },
       "2": {
-        "value": "#2A69F1",
+        "value": "#F2B664",
         "type": "color",
         "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
       },
@@ -4674,7 +4674,7 @@
     },
     "title": {
       "main": {
-        "value": "rgba(255, 255, 255)",
+        "value": "#F4F4F4",
         "type": "color",
         "description": "for main headers"
       },
