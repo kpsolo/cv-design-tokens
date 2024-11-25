@@ -2332,7 +2332,7 @@
       "description": "Background for tertiary elements"
     },
     "dark": {
-      "value": "#01032F",
+      "value": "#19191B",
       "type": "color",
       "description": "Darkest (black)"
     },
@@ -3245,7 +3245,7 @@
         "type": "color"
       },
       "icon": {
-        "value": "#0A3093",
+        "value": "#19191B",
         "type": "color"
       }
     }
