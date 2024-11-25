@@ -3200,7 +3200,7 @@
         "description": "Bg on hover on floating button"
       },
       "bg": {
-        "value": "rgba(5, 67, 227, 0.60)",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "Bg on default on floating button"
       },
