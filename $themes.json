@@ -1801,7 +1801,15 @@
       "shadow.special-blocks.referral": "S:40488c9609ccfa7f361318116e66fb483c59f43b,",
       "shadow.accent-additional": "S:b0eaa81d4de606e210561b291cbcebf143c6ec7e,",
       "shadow.accent-extra": "S:0d5e6f061de4acbb571fae07dbacb6167bdb71c6,",
-      "tech.bg": "S:96d3b054300febccbac212465a8e92d48f36b974,"
+      "tech.bg": "S:96d3b054300febccbac212465a8e92d48f36b974,",
+      "button.border.primary": "S:da3e6b2468cb88676482387249afbb4521a3a34f,",
+      "button.border.primary-hover": "S:a219cc2d99f4e465543053ed332255781d8e25a4,",
+      "button.border.primary-pressed": "S:f792517dec70d9ae884b82ff8938a8e93c74e6a2,",
+      "button.border.primary-disabled": "S:4a699f98fcb8955d09d5fc9a220680de3a585f2d,",
+      "button.border.secondary": "S:78d2361fa12c068587467bea7c41c250089642ba,",
+      "button.border.secondary-pressed": "S:4aa6b30fae06124914c57f1a4b62e1d3bcba1bcd,",
+      "button.border.secondary-hover": "S:826c1537216c61f81a17708411f678482c073bf1,",
+      "button.border.secondary-disabled": "S:d2f94d76e5820c680eb024fa20deaadf0c324bcb,"
     },
     "selectedTokenSets": {
       "rc.default": "enabled"
@@ -1949,7 +1957,6 @@
       "button.bg.primary-disabled-additional": "1beb5e16afa829082a7c1c3c524d284045aef294",
       "button.bg.primary-disabled": "b619d22c59ac9be0d4695998be4a06294d3654ae",
       "button.bg.tertiary-disabled": "464d1a66966af1febe600bcdd7be6747fc3607b3",
-      "button.bg.secondary-hover": "460d752dd17535bac48879944c2b4f845b27ed1c",
       "button.bg.secondary-disabled": "4a126a1d46f4c55236e955287999ccffb84237da",
       "button.bg.app-default": "9c256ad54daf7efaed30ce295764ec286f63dc92",
       "button.bg.app-hover": "00588bb82fe9342dc76cfb5ff94123bc379404e0",
@@ -2342,7 +2349,15 @@
       "calendar.content.tertiary": "91792199727abcb3803f73f1dc36f66670f55fd7",
       "calendar.content.additional": "4bc90d0a36daf75e71e8aaf405230ed46882af5c",
       "calendar.content.main": "6d90d1d859930f4b93cb8c3dbeb8162bd561b780",
-      "tech.bg": "24a2516f3391f2aefa2b3c1a0f76f3cbf9bf38ea"
+      "tech.bg": "24a2516f3391f2aefa2b3c1a0f76f3cbf9bf38ea",
+      "button.border.primary": "e438a57a08713cd8b88de0722aff47a245ad1ff7",
+      "button.border.primary-hover": "522f62c0ba88542fff6fadad40d7b5694166f255",
+      "button.border.primary-pressed": "b5b356eafcec52ff56461dd8a9f6a9d718e0e513",
+      "button.border.primary-disabled": "4a605ae6ca2e6b130f76e459711c8f9f92bf4254",
+      "button.border.secondary": "4f8ebc09c5490b8639fe00fd12862047ede62f73",
+      "button.border.secondary-pressed": "5c27a8beaea973e78cfbcca4b33aead8d0ab39c4",
+      "button.border.secondary-hover": "6df5a14e844f469d85d04ac31b92422e85298645",
+      "button.border.secondary-disabled": "63a17a532fb66e6b2edf5ccf87b4c1a8cd7b0e57"
     }
   }
 ]
