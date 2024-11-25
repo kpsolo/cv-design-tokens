@@ -3727,7 +3727,7 @@
       "type": "fontWeights"
     },
     "1": {
-      "value": "500",
+      "value": "600",
       "type": "fontWeights"
     },
     "2": {
@@ -4453,7 +4453,7 @@
         "description": "use for bg under balance amount"
       },
       "main": {
-        "value": "linear-gradient(180deg, #09122E 0%, rgba(9, 18, 46, 0.80) 39.95%, rgba(9, 18, 46, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #1A1A1C 0%, rgba(26, 26, 28, 0.80) 39.95%, rgba(26, 26, 28, 0.00) 100%)",
         "type": "color"
       },
       "sticky": {
