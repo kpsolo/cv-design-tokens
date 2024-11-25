@@ -2291,7 +2291,7 @@
   },
   "tech": {
     "bg": {
-      "value": "#1F1F20",
+      "value": "#1F1F1F",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     }
