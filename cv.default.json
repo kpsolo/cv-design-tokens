@@ -2659,6 +2659,46 @@
         "value": "{button.text.tertiary-light-disabled}",
         "type": "color",
         "description": "border color for buttons disabled"
+      },
+      "primary": {
+        "value": "#transparent",
+        "type": "color",
+        "description": "border color for primary buttons  default"
+      },
+      "primary-hover": {
+        "value": "#transparent",
+        "type": "color",
+        "description": "border color for primary buttons  default"
+      },
+      "primary-pressed": {
+        "value": "#transparent",
+        "type": "color",
+        "description": "border color for primary buttons  pressed state"
+      },
+      "primary-disabled": {
+        "value": "#transparent",
+        "type": "color",
+        "description": "border color for primary buttons disabled state"
+      },
+      "secondary": {
+        "value": "#transparent",
+        "type": "color",
+        "description": "border color for secondary buttons default state"
+      },
+      "secondary-pressed": {
+        "value": "#transparent",
+        "type": "color",
+        "description": "border color for secondary buttons pressed state"
+      },
+      "secondary-hover": {
+        "value": "#transparent",
+        "type": "color",
+        "description": "border color for secondary buttons hover"
+      },
+      "secondary-disabled": {
+        "value": "#transparent",
+        "type": "color",
+        "description": "border color for secondary buttons disabled state"
       }
     },
     "text": {

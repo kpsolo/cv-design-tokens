@@ -1602,7 +1602,7 @@
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
     "additional": {
-      "value": "#061535",
+      "value": "linear-gradient(180deg, #111 0%, #1C1C1C 100%)",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
@@ -1704,7 +1704,7 @@
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
     "gradient": {
-      "value": "transparent",
+      "value": "linear-gradient(180deg, #2A2A2A 0%, #19191B 67.27%)",
       "type": "color",
       "description": "Gradient for bg"
     },
@@ -2499,8 +2499,17 @@
         "description": "Background for secondary buttons"
       },
       "secondary-hover": {
-        "value": "#0D3394",
+        "value": "{button.bg.secondary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for secondary buttons hover"
       },
       "secondary-pressed": {
@@ -2590,6 +2599,46 @@
         "value": "{base.light}",
         "type": "color",
         "description": "border color for buttons default"
+      },
+      "primary": {
+        "value": "#transparent",
+        "type": "color",
+        "description": "border color for primary buttons  default"
+      },
+      "secondary": {
+        "value": "#transparent",
+        "type": "color",
+        "description": "border color for secondary buttons default state"
+      },
+      "primary-pressed": {
+        "value": "#transparent",
+        "type": "color",
+        "description": "border color for primary buttons  pressed state"
+      },
+      "secondary-pressed": {
+        "value": "#transparent",
+        "type": "color",
+        "description": "border color for secondary buttons pressed state"
+      },
+      "primary-hover": {
+        "value": "#transparent",
+        "type": "color",
+        "description": "border color for primary buttons  default"
+      },
+      "secondary-hover": {
+        "value": "#transparent",
+        "type": "color",
+        "description": "border color for secondary buttons hover"
+      },
+      "primary-disabled": {
+        "value": "#transparent",
+        "type": "color",
+        "description": "border color for primary buttons disabled state"
+      },
+      "secondary-disabled": {
+        "value": "#transparent",
+        "type": "color",
+        "description": "border color for secondary buttons disabled state"
       },
       "tertiary-hover": {
         "value": "#e9e9e9",
@@ -2852,7 +2901,7 @@
         "description": "for line separator in light bg - dropdown/menu item/tooltips"
       },
       "tertiary": {
-        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(245, 245, 245, 0.10) 9.97%, rgba(161, 161, 161, 0.10) 91.97%, rgba(153, 153, 153, 0.00) 100%)",
+        "value": "#000000",
         "type": "color",
         "description": "separator for dark bg (mob dropdown providers)"
       },
@@ -4544,12 +4593,12 @@
       "description": "(delete?)"
     },
     "content": {
-      "value": "#C5CFE4",
+      "value": "#F7F7F6",
       "type": "color",
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
     "content-additional": {
-      "value": "#bbd6fb",
+      "value": "#ffffff",
       "type": "color",
       "description": "use for hover state for messages desktop"
     },
