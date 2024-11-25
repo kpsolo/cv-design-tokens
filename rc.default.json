@@ -1370,12 +1370,12 @@
       "description": "for ptofile popup desktop (without gradient!)"
     },
     "nav": {
-      "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.00) 100%)",
+      "value": "linear-gradient(180deg, #000 0%, rgba(84, 84, 84, 0.00) 100%)",
       "type": "color",
       "description": "for mob navigation"
     },
     "nav-additional": {
-      "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0.07) 100%)",
+      "value": "linear-gradient(180deg, rgba(229, 169, 117, 0.60) 0%, rgba(255, 209, 170, 0.10) 100%)",
       "type": "color",
       "description": "for desktop categories border"
     }
@@ -1842,7 +1842,7 @@
         "description": "bg.other.lootboxes-cof-selected"
       },
       "categories-nav": {
-        "value": "rgba(104, 146, 238, 0.08)",
+        "value": "rgba(58, 57, 57, 0.08)",
         "type": "color",
         "description": "Background foe categories on desktop"
       },
@@ -2429,7 +2429,7 @@
   "button": {
     "bg": {
       "primary": {
-        "value": "#BD0F1B",
+        "value": "linear-gradient(180deg, #FFC16F 0%, #C7944A 100%)",
         "type": "color",
         "description": "Background for primary buttons"
       },
@@ -2663,7 +2663,7 @@
     },
     "text": {
       "primary": {
-        "value": "#ffffff",
+        "value": "#121212",
         "type": "color",
         "description": "Text color on primary button"
       },
@@ -2816,7 +2816,7 @@
         "description": "border color for separating groups in registration under tabs"
       },
       "main": {
-        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(245, 245, 245, 0.10) 9.97%, rgba(161, 161, 161, 0.10) 91.97%, rgba(153, 153, 153, 0.00) 100%)",
+        "value": "linear-gradient(90deg, rgba(0, 0, 0, 0.30) 0%, rgba(0, 0, 0, 0.60) 9.97%, rgba(0, 0, 0, 0.60) 91.97%, rgba(0, 0, 0, 0.30) 100%)",
         "type": "color",
         "description": "separator in main page categories "
       },
