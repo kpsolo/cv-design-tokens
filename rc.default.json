@@ -2494,7 +2494,7 @@
         "description": "Background for tertiary buttons disabled"
       },
       "secondary": {
-        "value": "#0A3093",
+        "value": "linear-gradient(180deg, #FFFBF5 0%, #DCDCDC 100%)",
         "type": "color",
         "description": "Background for secondary buttons"
       },
@@ -2685,7 +2685,7 @@
         "description": "Text color on primary button"
       },
       "secondary": {
-        "value": "#fff",
+        "value": "#121212",
         "type": "color",
         "description": "Text color on secondary button"
       },
