@@ -154,7 +154,7 @@
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.sm}",
         "fontSize": "{font-size.3}",
-        "textDecoration": "{text-decoration.none}"
+        "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography",
       "description": "Link text"
