@@ -2289,6 +2289,13 @@
       "description": "use for bg under social icons in mob menu - hover state"
     }
   },
+  "tech": {
+    "bg": {
+      "value": "#1F1F20",
+      "type": "color",
+      "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
+    }
+  },
   "nav": {
     "tab": {
       "start": {
