@@ -2476,7 +2476,7 @@
       }
     },
     "menu-item-active": {
-      "value": "#BD0F1B",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "color of active item (icon+text)"
     }
@@ -4160,7 +4160,7 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "{bg.other.categories-nav}",
+      "value": "#19191B",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
