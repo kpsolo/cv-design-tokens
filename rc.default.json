@@ -1409,7 +1409,7 @@
       "description": "use for border in 1st deposit card"
     },
     "popup": {
-      "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
+      "value": "{bg.card.border.main}",
       "type": "color"
     },
     "popup-additional": {
@@ -1650,7 +1650,7 @@
       "description": "use for secret mirror popups bg gradient"
     },
     "popup": {
-      "value": "linear-gradient(181deg, #06102C 1.35%, #0E1B3F 54.03%, #0E1B3F 97.33%)",
+      "value": "linear-gradient(180deg, #111 0%, #1C1C1C 100%)",
       "type": "color",
       "description": "use for popups bg"
     },
@@ -1680,7 +1680,7 @@
       "description": "Gradient for bg in bonus card in cashbox"
     },
     "popup-2": {
-      "value": "#0A1533",
+      "value": "linear-gradient(180deg, #111 0%, #1C1C1C 100%)",
       "type": "color",
       "description": "use for popups bg"
     },
@@ -2242,7 +2242,7 @@
         "description": "use under links on messeges/cards\n\n[based on additional bg]"
       },
       "7": {
-        "value": "linear-gradient(270deg, #EEF4FF 0%, rgba(238, 244, 255, 0.00) 100%)",
+        "value": "linear-gradient(270deg, rgba(255, 245, 233, 0.00) 0%, #FFF5E9 100%)",
         "type": "color",
         "description": "fade on pregame popup/search game dropdown\n"
       },
@@ -2257,7 +2257,7 @@
         "description": "use on message page under bottom link "
       },
       "7-additional": {
-        "value": "linear-gradient(270deg, #1C2C50 0%, rgba(28, 44, 80, 0.00) 100%)",
+        "value": "linear-gradient(270deg, rgba(35, 35, 37, 0.00) 0%, #232325 100%)",
         "type": "color",
         "description": "fade on search game dropdown\n"
       },
@@ -2385,7 +2385,7 @@
       "description": "main color for brand bgs"
     },
     "error": {
-      "value": "#BD0F1B",
+      "value": "#B80612",
       "type": "color",
       "description": "Indication of unsuccess transactions"
     },
@@ -2415,7 +2415,7 @@
       "description": "for text,icons"
     },
     "accent-light": {
-      "value": "#EEF4FF",
+      "value": "#FFF5E9",
       "type": "color",
       "description": "Color for app button and bg under games in bottom sheet"
     }
@@ -2517,7 +2517,7 @@
         "description": "Background for primary pressed"
       },
       "primary-disabled-additional": {
-        "value": "{button.bg.primary-disabled}",
+        "value": "rgba(227, 171, 93, 0.50)",
         "type": "color",
         "description": "Background for primary disabled button for lighgt bg"
       },
@@ -2795,7 +2795,7 @@
         "description": "Text color on secondary button"
       },
       "light-bg": {
-        "value": "{button.text.ghost}",
+        "value": "#F8B660",
         "type": "color",
         "description": "Text color for buttons on light bg (notification)"
       },
@@ -2810,7 +2810,7 @@
         "description": "color on ghost buttons"
       },
       "primary-disabled": {
-        "value": "#ffffff80",
+        "value": "rgba(18, 18, 18, 0.40)",
         "type": "color",
         "description": "Text color on primary disabled button"
       },
@@ -3546,7 +3546,7 @@
         "description": "Backgrounds for confirmed inputs"
       },
       "accent": {
-        "value": "rgba(0, 61, 187, 0.20)",
+        "value": "#FFE3BE",
         "type": "color",
         "description": "bg for selected item in dropdown (currency registration)"
       },
@@ -4160,13 +4160,22 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "#0C1B3D",
+      "value": "{bg.other.categories-nav}",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
     "dropdown-custom-additional": {
-      "value": "#1C2C50",
+      "value": "{bg.other.categories-nav}",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.3",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "For bg on filter dropdown and language dropdown for desktop hover state"
     },
     "jackpot-sum": {
@@ -4655,17 +4664,8 @@
       "description": "also use for win tickets in lottery results"
     },
     "link-alternative": {
-      "value": "#5087D7",
+      "value": "{base.dark}",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.1",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "use for links on lighter bg (notifications/tooltips), game page"
     },
     "accent": {
