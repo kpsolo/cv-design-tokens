@@ -536,7 +536,7 @@
           "y": "4",
           "blur": "8",
           "spread": "0",
-          "color": "rgba(1, 9, 31, 0.40)",
+          "color": "rgba(0, 0, 0, 0.40)",
           "type": "dropShadow"
         }
       ],
@@ -1640,7 +1640,7 @@
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
     "additional": {
-      "value": "linear-gradient(180deg, #111 0%, #1C1C1C 100%)",
+      "value": "#151515",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
@@ -1753,7 +1753,7 @@
     },
     "other": {
       "404": {
-        "value": "linear-gradient(181deg, #06102C 2.17%, #0E1B3F 53.96%, #0D1B38 96.53%)",
+        "value": "linear-gradient(108deg, #151515 2.91%, #27272A 50.33%, #19191B 96.57%)",
         "type": "color",
         "description": "Bg for empty error pages"
       },
@@ -1922,7 +1922,7 @@
     },
     "overlay": {
       "1": {
-        "value": "{text.content}",
+        "value": "#858484",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -2962,12 +2962,12 @@
         "description": "separator for dark bg (mob dropdown providers)"
       },
       "secondary": {
-        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(245, 245, 245, 0.10) 9.97%, rgba(161, 161, 161, 0.10) 91.97%, rgba(153, 153, 153, 0.00) 100%)",
+        "value": "rgba(0, 0, 0, 0.80)",
         "type": "color",
         "description": "use in mob registation tabs"
       },
       "additional": {
-        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(245, 245, 245, 0.10) 9.97%, rgba(161, 161, 161, 0.10) 91.97%, rgba(153, 153, 153, 0.00) 100%)",
+        "value": "rgba(0, 0, 0, 0.80)",
         "type": "color",
         "description": "border color for info inside transaction/ separator for items in tables in static page"
       },
