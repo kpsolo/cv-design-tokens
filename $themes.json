@@ -1810,7 +1810,8 @@
       "button.border.secondary-pressed": "S:4aa6b30fae06124914c57f1a4b62e1d3bcba1bcd,",
       "button.border.secondary-hover": "S:826c1537216c61f81a17708411f678482c073bf1,",
       "button.border.secondary-disabled": "S:d2f94d76e5820c680eb024fa20deaadf0c324bcb,",
-      "shadow.button-secondary": "S:c804dda20d78ccf833a5c385ba94c72b70db6fd3,"
+      "shadow.button-secondary": "S:c804dda20d78ccf833a5c385ba94c72b70db6fd3,",
+      "shadow.button-tertiary": "S:243e3da1876973b996586c50af527e409a9cd237,"
     },
     "selectedTokenSets": {
       "rc.default": "enabled"

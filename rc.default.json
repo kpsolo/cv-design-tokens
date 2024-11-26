@@ -619,6 +619,20 @@
       "type": "boxShadow",
       "description": "Shadow for secondary button"
     },
+    "button-tertiary": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "transparent",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Shadow for tertiary button"
+    },
     "text-1": {
       "value": {
         "x": "0",
@@ -2513,7 +2527,7 @@
         "description": "Background for primary buttons disabled"
       },
       "tertiary-disabled": {
-        "value": "{button.bg.primary-disabled}",
+        "value": "{button.bg.secondary-disabled}",
         "type": "color",
         "description": "Background for tertiary buttons disabled"
       },
@@ -2551,7 +2565,7 @@
         "description": "Background for secondary buttons pressed"
       },
       "secondary-disabled": {
-        "value": "{button.bg.primary-disabled}",
+        "value": "rgba(65, 65, 65, 0.90)",
         "type": "color",
         "description": "Background for secondary buttons disabled"
       },

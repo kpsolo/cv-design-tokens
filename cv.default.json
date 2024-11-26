@@ -1031,6 +1031,20 @@
       ],
       "type": "boxShadow",
       "description": "Shadow for secondary button"
+    },
+    "button-tertiary": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "transparent",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Shadow for tertiary button"
     }
   },
   "border": {
