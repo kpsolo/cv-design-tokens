@@ -1747,7 +1747,7 @@
       "description": "Gradient for bg"
     },
     "tertiary": {
-      "value": "#0A1B3B",
+      "value": "#1F1F21",
       "type": "color",
       "description": "bg for element above primary/secondary bg (game empty thumb, player status)"
     },
@@ -3002,7 +3002,7 @@
       "description": "border for progressbar in profile/menu mobile"
     },
     "progressbar": {
-      "value": "#1E5BFF",
+      "value": "{base.accent-primary}",
       "type": "color"
     },
     "progressbar-bg": {
@@ -4382,17 +4382,8 @@
       },
       "overlay": {
         "1": {
-          "value": "#848CC4",
+          "value": "rgba(111, 111, 111, 0.10)",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.1",
-                "space": "srgb"
-              }
-            }
-          },
           "description": "for bg under icons in achievement info block"
         },
         "2": {
