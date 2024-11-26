@@ -2390,7 +2390,7 @@
       "description": "Indication of unsuccess transactions"
     },
     "warning": {
-      "value": "#FDBB2C",
+      "value": "#FAB454",
       "type": "color",
       "description": "Indication of warning"
     },
