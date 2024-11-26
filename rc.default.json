@@ -1742,7 +1742,7 @@
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
     "gradient": {
-      "value": "linear-gradient(180deg, #2A2A2A 0%, #19191B 67.27%)",
+      "value": "transparent",
       "type": "color",
       "description": "Gradient for bg"
     },
