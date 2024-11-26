@@ -1541,7 +1541,7 @@
       "description": "No radius"
     },
     "input-base": {
-      "value": "12px",
+      "value": "10px",
       "type": "borderRadius",
       "description": "Use for inputs, dropdowns bg"
     },
@@ -2232,7 +2232,7 @@
         "description": "use for coin in lootboxes"
       },
       "5": {
-        "value": "linear-gradient(180deg, rgba({bg.primary}, 0.00) 0%, {bg.primary} 100%)",
+        "value": "linear-gradient(180deg, rgba(25, 25, 27, 0.00) 0%, #2A2A2A 100%)",
         "type": "color",
         "description": "use under title in news card on inner page\n\n[based on secondary bg]"
       },
@@ -4649,7 +4649,7 @@
       "description": "(delete?)"
     },
     "content": {
-      "value": "#F7F7F6",
+      "value": "#D8D8D8",
       "type": "color",
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
