@@ -1813,7 +1813,7 @@
         "description": "color for desktop sidebar"
       },
       "sidebar-desktop-additional": {
-        "value": "#1F1E22",
+        "value": "rgba(31, 30, 34, 0.10)",
         "type": "color",
         "description": "bg for bonus card in desktop sidebar"
       },
@@ -3943,11 +3943,11 @@
       "description": "for 404 numbers"
     },
     "title-jackpot": {
-      "value": "linear-gradient(11deg, #63D086 27.69%, #B2FFAD 67.32%)",
+      "value": "#FFFFFF",
       "type": "color"
     },
     "amount-jackpot": {
-      "value": "linear-gradient(180deg, #BCDAF6 0%, #FFF 100%)",
+      "value": "#FFFFFF",
       "type": "color"
     },
     "secret-mirror-title": {
@@ -3966,17 +3966,17 @@
       "description": "Color of text and icons for custom dropdown"
     },
     "jackpot-border": {
-      "value": "#D2E5FF",
+      "value": "linear-gradient(180deg, rgba(229, 169, 117, 0.60) 0%, rgba(255, 209, 170, 0.10) 100%)",
       "type": "color",
       "description": "Border-color for jackpot widgets"
     },
     "jackpot-border-2": {
-      "value": "rgba(14, 100, 64, 0.30)",
+      "value": "transparent",
       "type": "color",
       "description": "Border-color for jaclpot amount"
     },
     "jackpot-widget-bg": {
-      "value": "linear-gradient(180deg, rgba(60, 86, 125, 0.20) 0%, rgba(28, 33, 46, 0.20) 100%)",
+      "value": "rgba(31, 30, 34, 0.10)",
       "type": "color",
       "description": "Background for jackpot widget"
     },
@@ -4105,7 +4105,7 @@
       "description": "Amount of prize on jackpot page"
     },
     "jackpot-line": {
-      "value": "radial-gradient(50% 50% at 50% 50%, #27FFA4 0%, rgba(45, 216, 144, 0.39) 100%)",
+      "value": "transparent",
       "type": "color",
       "description": "Color for jackpot widget separate line"
     },
