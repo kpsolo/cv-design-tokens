@@ -1635,7 +1635,7 @@
   },
   "bg": {
     "technical": {
-      "value": "#272727",
+      "value": "#1C1C1C",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
@@ -2366,7 +2366,7 @@
       "description": "Darkest (black)"
     },
     "success": {
-      "value": "#32BD0F",
+      "value": "#1E7810",
       "type": "color",
       "description": "Indication of success transactions"
     },
@@ -2386,7 +2386,7 @@
       "description": "Indication of warning"
     },
     "gold": {
-      "value": "linear-gradient(99deg, #FFCE64 0%, #916206 100%)",
+      "value": "linear-gradient(180deg, #FFC16F 0%, #C7944A 100%)",
       "type": "color",
       "description": "Color for winners lottery tickets"
     },
@@ -2396,7 +2396,7 @@
       "description": "Color for winners"
     },
     "bronze": {
-      "value": "#FFB053",
+      "value": "#FD9820",
       "type": "color",
       "description": "Color for winners"
     },
@@ -2844,7 +2844,7 @@
   "small-elements": {
     "game": {
       "provider-logo-bg": {
-        "value": "linear-gradient(0deg, rgba(10, 10, 10, 0.90) 0%, rgba(10, 10, 10, 0.60) 40.5%, rgba(10, 10, 10, 0.00) 100%)",
+        "value": "linear-gradient(0deg, #292929 0%, rgba(41, 41, 41, 0.60) 40.5%, rgba(10, 10, 10, 0.00) 100%)",
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
@@ -3433,7 +3433,7 @@
     },
     "prize": {
       "1": {
-        "value": "#D2C25A",
+        "value": "{text.prize.1}",
         "type": "color",
         "description": "[delete?]"
       },
@@ -4668,7 +4668,7 @@
     },
     "prize": {
       "1": {
-        "value": "#D2C25A",
+        "value": "#F3B464",
         "type": "color",
         "description": "use for 1 prize in tournament/lottery winners list\n[delete?]"
       },
