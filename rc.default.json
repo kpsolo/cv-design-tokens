@@ -1936,17 +1936,8 @@
         "description": "for static table headet"
       },
       "2": {
-        "value": "{base.primary}",
+        "value": "rgba(220, 205, 186, 0.08)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.10",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "social icons bg in desktop header/ mob registration/gamepage left sidebar"
       },
       "3": {
@@ -2810,7 +2801,7 @@
         "description": "color on ghost buttons"
       },
       "primary-disabled": {
-        "value": "rgba(18, 18, 18, 0.40)",
+        "value": "rgba(255, 255, 255, 0.50)",
         "type": "color",
         "description": "Text color on primary disabled button"
       },
