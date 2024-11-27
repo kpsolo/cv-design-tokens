@@ -1998,7 +1998,7 @@
         "description": "bg under prize places in tournament/lottery"
       },
       "ghost-1": {
-        "value": "rgba(107, 128, 170, 0.10)",
+        "value": "rgba(91, 91, 91, 0.10)",
         "type": "color",
         "description": "use for results inner tournament card"
       },
@@ -2263,7 +2263,7 @@
         "description": "use as overlay on footer"
       },
       "strip": {
-        "value": "linear-gradient(180deg, rgba(2, 16, 44, 0.00) 0%, #02102C 100%)",
+        "value": "linear-gradient(180deg, rgba(26, 26, 28, 0.00) 0%, #1A1A1C 100%)",
         "type": "color",
         "description": "strip bg card\n\n[based on primary bg]"
       }
@@ -5323,7 +5323,7 @@
   },
   "strip": {
     "overlay-additional": {
-      "value": "{bg.overlay.5}",
+      "value": "#202020",
       "type": "color",
       "description": "overlay on locked cards"
     },
@@ -5333,22 +5333,13 @@
       "description": "bg in brogress bar ingamepage widget"
     },
     "icon-border": {
-      "value": "#96C2FF",
+      "value": "{border.nav}",
       "type": "color",
       "description": "use for icons border on gamepage widget"
     },
     "bg-progress": {
-      "value": "{bg.secondary}",
+      "value": "rgba(46, 46, 46, 0.80)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.8",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "bg in brogress bar "
     },
     "overlay": {
@@ -5390,7 +5381,7 @@
     },
     "bg": {
       "additional": {
-        "value": "#061535",
+        "value": "{bg.additional}",
         "type": "color",
         "description": "use as bg in gamepage widget"
       }
@@ -5542,7 +5533,7 @@
         "description": "use for inactive items in right sidebar"
       },
       "icon": {
-        "value": "#5476B6",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for close icon in right sidebar"
       },
