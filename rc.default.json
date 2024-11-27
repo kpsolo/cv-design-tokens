@@ -2328,12 +2328,12 @@
   "nav": {
     "tab": {
       "start": {
-        "value": "#06102C",
+        "value": "#121212",
         "type": "color",
         "description": "gradient on top for popups"
       },
       "stop": {
-        "value": "#0E1B3F",
+        "value": "#1A1A1A",
         "type": "color",
         "description": "gradient on bottom for popups"
       }
