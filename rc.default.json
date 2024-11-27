@@ -1718,7 +1718,7 @@
       "description": "use as bg for welcome bonus success item"
     },
     "widget-bonus": {
-      "value": "{bg.additional}",
+      "value": "{bg.other.sidebar-desktop}",
       "type": "color",
       "description": "use as bg for welcome bonus"
     },
