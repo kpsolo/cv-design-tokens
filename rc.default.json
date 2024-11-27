@@ -1635,7 +1635,7 @@
   },
   "bg": {
     "technical": {
-      "value": "{bg.other.sidebar-desktop}",
+      "value": "#272727",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
@@ -1965,7 +1965,7 @@
         "description": "use for active bonus bg in registration popup"
       },
       "6": {
-        "value": "linear-gradient(180deg, rgba(6, 21, 53, 0.00) 0%, rgba(6, 21, 53, 0.60) 44.84%, #061535 100%)",
+        "value": "linear-gradient(180deg, rgba(39, 39, 39, 0.00) 0%, rgba(39, 39, 39, 0.60) 44.84%, #272727 100%)",
         "type": "color",
         "description": "use for bg under tournament/lottery tabs"
       },
@@ -2844,12 +2844,12 @@
   "small-elements": {
     "game": {
       "provider-logo-bg": {
-        "value": "linear-gradient(0deg, rgba(31, 36, 80, 0.90) 0%, rgba(17, 20, 45, 0.60) 66.67%, rgba(17, 20, 46, 0.00) 100%)",
+        "value": "linear-gradient(0deg, rgba(10, 10, 10, 0.90) 0%, rgba(10, 10, 10, 0.60) 40.5%, rgba(10, 10, 10, 0.00) 100%)",
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
       "label-thumb-new": {
-        "value": "linear-gradient(180deg, #4B9DE8 0%, #416FB4 100%)",
+        "value": "linear-gradient(180deg, #F0BF7D 0%, #B27046 100%)",
         "type": "color",
         "description": "Color for label thumb"
       },
@@ -3134,7 +3134,7 @@
       "description": "use for slider in welcom bonus"
     },
     "sign": {
-      "value": "#EBAB2E",
+      "value": "#E2A95C",
       "type": "color",
       "description": "star on game thumb"
     },
