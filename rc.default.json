@@ -1088,7 +1088,7 @@
     },
     "ghost-3": {
       "value": {
-        "color": "rgba({base.light}, 0.12)",
+        "color": "{bg.card.border.main}",
         "width": "1",
         "style": "solid"
       },
@@ -1758,7 +1758,7 @@
         "description": "Bg for empty error pages"
       },
       "status-bg": {
-        "value": "#0D2048",
+        "value": "#202022",
         "type": "color",
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
@@ -2009,7 +2009,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.6",
+              "value": "0.7",
               "space": "srgb"
             }
           }
@@ -5596,17 +5596,17 @@
         "description": "use for bullets bg"
       },
       "additioinal": {
-        "value": "{lootboxes.bg.primary}",
+        "value": "#222222",
         "type": "color",
         "description": "use for dropdown"
       },
       "overlay-additional": {
-        "value": "linear-gradient(270deg, #162B57 0%, rgba(22, 43, 87, 0.34) 48.5%, rgba(37, 45, 64, 0.00) 100%)",
+        "value": "linear-gradient(270deg, #1E1E1E 0%, rgba(30, 30, 30, 0.34) 48.5%, rgba(30, 30, 30, 0.00) 100%)",
         "type": "color",
         "description": "use for bg under prizes"
       },
       "overlay-gradient": {
-        "value": "linear-gradient(180deg, rgba(2, 16, 44, 0.00) 0%, rgba(2, 16, 44, 0.00) 67%, #02102C 100%)",
+        "value": "linear-gradient(180deg, rgba(29, 29, 30, 0.00) 0%, rgba(29, 29, 30, 0.00) 67%, #1D1D1E 100%)",
         "type": "color",
         "description": "use as overlay under tabs"
       }
@@ -5620,7 +5620,7 @@
     },
     "border": {
       "item": {
-        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.00) 100%)",
+        "value": "{bg.card.border.main}",
         "type": "color",
         "description": "use as stroke for dropdown"
       }
