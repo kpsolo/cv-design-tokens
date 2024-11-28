@@ -2446,12 +2446,12 @@
         "description": "Use for bottom navbar on mainpage mob"
       },
       "button": {
-        "value": "#ffffff",
+        "value": "{button.bg.primary}",
         "type": "color",
         "description": "use for deposit buttton color on mob/desktopp navbar "
       },
       "button-icon": {
-        "value": "#02102C",
+        "value": "{button.icon.primary}",
         "type": "color",
         "description": "Color of icon on big button in tapbar"
       }
@@ -3130,7 +3130,7 @@
     },
     "badge": {
       "1": {
-        "value": "#F2B664",
+        "value": "linear-gradient(180deg, #F8BC6C 0%, #EC9D2C 100%)",
         "type": "color",
         "description": "use for badge in main tapbar"
       },
@@ -3267,7 +3267,7 @@
     },
     "up-button": {
       "accent": {
-        "value": "#FFFFFF",
+        "value": "#fff",
         "type": "color",
         "description": "Accent icon and border on floating button"
       },
@@ -3286,7 +3286,7 @@
         "description": "Bg on hover on floating button"
       },
       "bg": {
-        "value": "{base.accent-primary}",
+        "value": "rgba(252, 221, 179, 0.10)",
         "type": "color",
         "description": "Bg on default on floating button"
       },
