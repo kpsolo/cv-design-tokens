@@ -2169,7 +2169,7 @@
           "description": "winning now border"
         },
         "4": {
-          "value": "#8F0B14",
+          "value": "linear-gradient(180deg, #BD0F1B 0%, #000 100%)",
           "type": "color",
           "description": "popup status widget border"
         },
