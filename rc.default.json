@@ -1413,7 +1413,7 @@
       "type": "color"
     },
     "popup-additional": {
-      "value": "rgba(255, 255, 255, 0.10)",
+      "value": "rgba(242, 182, 100, 0.40)",
       "type": "color",
       "description": "for ptofile popup desktop (without gradient!)"
     },
@@ -2328,12 +2328,12 @@
   "nav": {
     "tab": {
       "start": {
-        "value": "#121212",
+        "value": "#111111",
         "type": "color",
         "description": "gradient on top for popups"
       },
       "stop": {
-        "value": "#1A1A1A",
+        "value": "#1C1C1C",
         "type": "color",
         "description": "gradient on bottom for popups"
       }
@@ -3087,7 +3087,7 @@
       "description": "use in cards in deals page for bg and stroke"
     },
     "progressbar-bonus": {
-      "value": "rgba(255, 255, 255, 0.60)",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "use in bonus balances cards for bar"
     },
@@ -5057,7 +5057,7 @@
       "description": "bg all tabs"
     },
     "bg all": {
-      "value": "#0F1B3B",
+      "value": "#1F1F21",
       "type": "color"
     }
   },
