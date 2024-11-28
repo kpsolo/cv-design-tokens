@@ -4828,7 +4828,7 @@
         "description": "use as bg in menu info zone"
       },
       "notification": {
-        "value": "{base.accent-primary}",
+        "value": "linear-gradient(149deg, #FFB859 0.66%, #F2C17D 46.34%, #E3AB5D 57.09%, #E2A95C 82.74%)",
         "type": "color",
         "description": "use for special notification in menu items"
       }
