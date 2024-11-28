@@ -2854,7 +2854,7 @@
         "description": "Color for label thumb"
       },
       "label-thumb-top": {
-        "value": "linear-gradient(180deg, #DBDBDB 0%, #A6A6A6 100%)",
+        "value": "linear-gradient(180deg, #FFF 0%, #C8C8C8 100%)",
         "type": "color",
         "description": "Color for label thumb - tournmament"
       },
