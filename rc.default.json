@@ -1668,7 +1668,7 @@
       "description": "bg for menu, bottom sheets,dropdown"
     },
     "social-icons": {
-      "value": "rgba(40, 65, 119, 0.40)",
+      "value": "{small-elements.footer.bg-social}",
       "type": "color",
       "description": "use for bg under social icons in mob menu"
     },
@@ -2185,7 +2185,7 @@
           "description": "border for all cards - sidebar/main banner"
         },
         "main-additional": {
-          "value": "rgba(255, 255, 255, 0.08)",
+          "value": "{bg.card.border.main}",
           "type": "color",
           "description": "border for status block in mob menu"
         }
@@ -2726,7 +2726,7 @@
         "description": "border color for ghost buttons pressed state (use in menu)"
       },
       "tertiary-light": {
-        "value": "{button.text.primary}",
+        "value": "{button.border.tertiary}",
         "type": "color",
         "description": "border color for buttons default in cards"
       },
@@ -2811,7 +2811,7 @@
         "description": "Text color on ghost disabled button"
       },
       "tertiary-light": {
-        "value": "{button.text.primary}",
+        "value": "{button.text.tertiary}",
         "type": "color",
         "description": "color on tertiary buttons on cards"
       },
@@ -4803,22 +4803,22 @@
   "menu": {
     "bg": {
       "main": {
-        "value": "#041A47",
+        "value": "#171717",
         "type": "color",
         "description": "use for menu general bg "
       },
       "main-additional": {
-        "value": "#031740",
+        "value": "#161616",
         "type": "color",
         "description": "bg for menu items zone"
       },
       "banner": {
-        "value": "#061840",
+        "value": "{bg.technical}",
         "type": "color",
         "description": "use for banner bg for unlogged "
       },
       "header": {
-        "value": "linear-gradient(180deg, #061128 0%, rgba(6, 17, 40, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #121212 0%, rgba(23, 23, 23, 0.00) 100%)",
         "type": "color",
         "description": "use for header bg for unlogged "
       },
@@ -4828,18 +4828,18 @@
         "description": "use as bg in menu info zone"
       },
       "notification": {
-        "value": "#2252D5",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for special notification in menu items"
       }
     },
     "item-active": {
-      "value": "#BD0F1B",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "for menu item icon/text active state"
     },
     "accent": {
-      "value": "#EBAB2E",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },
