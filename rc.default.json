@@ -2180,9 +2180,9 @@
           "description": "winning now border"
         },
         "4": {
-          "value": "#8F0B14",
+          "value": "linear-gradient(180deg, #FFC16F 0%, rgba(199, 148, 74, 0.00) 100%)",
           "type": "color",
-          "description": "popup status widget border"
+          "description": "popup loyalty status widget border"
         },
         "1-additional": {
           "value": "#FFF5BF",
