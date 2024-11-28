@@ -1771,7 +1771,7 @@
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
       "cashbox-bonus": {
-        "value": "#05234C",
+        "value": "{bg.technical}",
         "type": "color",
         "description": "for cashbox bonus popup"
       },
@@ -1831,31 +1831,13 @@
         "description": "use for hover state in calendar, cashbox filter"
       },
       "cashbox": {
-        "value": "#528AFF",
+        "value": "#2D2D2D",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for transaction with bg"
       },
       "cashbox-additional": {
-        "value": "#528AFF",
+        "value": "#232323",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.12",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for transaction with bg (detailed)"
       },
       "strip": {
@@ -3040,7 +3022,7 @@
         "description": "use for label new in menu item"
       },
       "success": {
-        "value": "#1E8704",
+        "value": "{base.success}",
         "type": "color",
         "description": "use for success label in cashbox transactions"
       },
@@ -3055,7 +3037,7 @@
         "description": "use for deny label text in cashbox transactions"
       },
       "additional": {
-        "value": "#7DA6FB",
+        "value": "rgba(225, 225, 225, 0.08)",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -3069,7 +3051,7 @@
         "description": "use for deny label in cashbox transactions"
       },
       "active": {
-        "value": "#29AE07",
+        "value": "{base.success}",
         "type": "color",
         "description": "use for active label text in bonus balance cards"
       },
@@ -3955,7 +3937,7 @@
       "description": "for secret mirror popup title"
     },
     "bg": {
-      "value": "#030E2A",
+      "value": "{bg.gradient-additional}",
       "type": "color",
       "description": "use for bg search widget for providers popup"
     },
