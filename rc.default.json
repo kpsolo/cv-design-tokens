@@ -2026,7 +2026,7 @@
         "description": "Use for game page background on right filter sidebar (under icons)"
       },
       "light-1": {
-        "value": "#202022",
+        "value": "#272729",
         "type": "color",
         "description": "bg in tournament/lottery under players"
       },
@@ -2153,7 +2153,7 @@
           "description": "select provider item"
         },
         "3": {
-          "value": "linear-gradient(180deg, rgba(7, 23, 98, 0.00) 0%, rgba(13, 29, 69, 0.80) 21.5%, #152856 100%)",
+          "value": "linear-gradient(180deg, rgba(23, 23, 25, 0.00) 0%, rgba(23, 23, 25, 0.80) 21.5%, #171719 100%)",
           "type": "color",
           "description": "main banner bottom overlay"
         }
@@ -2834,7 +2834,7 @@
   "small-elements": {
     "game": {
       "provider-logo-bg": {
-        "value": "linear-gradient(0deg, #292929 0%, rgba(41, 41, 41, 0.60) 40.5%, rgba(10, 10, 10, 0.00) 100%)",
+        "value": "linear-gradient(0deg, #101011 0%, rgba(16, 16, 17, 0.60) 40.5%, rgba(16, 16, 17, 0.00) 100%)",
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
@@ -3233,7 +3233,7 @@
         "description": "Color of counter for desktop tournament widget"
       },
       "tournament-counter-bg": {
-        "value": "#07142E",
+        "value": "#111112",
         "type": "color",
         "description": "bg for tournament counter on desktop widget"
       }
