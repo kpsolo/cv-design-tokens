@@ -2036,12 +2036,12 @@
         "description": "Use for game page background on right filter sidebar (under icons)"
       },
       "light-1": {
-        "value": "rgba(158, 158, 158, 0.08)",
+        "value": "#202022",
         "type": "color",
         "description": "bg in tournament/lottery under players"
       },
       "light-2": {
-        "value": "#0B255A",
+        "value": "#313134",
         "type": "color",
         "description": "use for progress bar bg "
       },
@@ -2136,7 +2136,7 @@
           "description": "bg for winnig now"
         },
         "5": {
-          "value": "#0B2969",
+          "value": "linear-gradient(180deg, #0D0D0D 0%, #1E1D1F 100%)",
           "type": "color",
           "description": "bg for bonus balance card"
         },
@@ -2146,7 +2146,7 @@
           "description": "bg for winnig now - mob"
         },
         "5-additional": {
-          "value": "#081E4E",
+          "value": "#262528",
           "type": "color",
           "description": "bg for bonus balance card"
         }
@@ -2854,7 +2854,7 @@
         "description": "Color for label thumb"
       },
       "label-thumb-top": {
-        "value": "#EBAB2E",
+        "value": "linear-gradient(180deg, #7225B1 0%, #9E4DE0 100%)",
         "type": "color",
         "description": "Color for label thumb - tournmament"
       },
@@ -2873,7 +2873,7 @@
         "description": "Color of counter on header of game block"
       },
       "label-thumb-text": {
-        "value": "{base.light}",
+        "value": "{base.dark}",
         "type": "color",
         "description": "Color for label thumb"
       }
