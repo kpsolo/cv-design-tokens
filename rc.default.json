@@ -498,9 +498,9 @@
         {
           "x": "0",
           "y": "1",
-          "blur": "2",
+          "blur": "4",
           "spread": "0",
-          "color": "#96142A",
+          "color": "rgba(135, 98, 46, 0.60)",
           "type": "innerShadow"
         }
       ],
@@ -2441,7 +2441,7 @@
   "navbar": {
     "bg": {
       "main": {
-        "value": "rgba(6, 18, 44, 0.60)",
+        "value": "rgba(21, 21, 21, 0.16)",
         "type": "color",
         "description": "Use for bottom navbar on mainpage mob"
       },
@@ -4689,17 +4689,8 @@
         "description": "footer seo header text, "
       },
       "2": {
-        "value": "{text.primary}",
+        "value": "rgba(255, 255, 255, 0.70)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.7",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "footer seo text, prize in tournament/lottery list"
       },
       "3": {
@@ -5654,7 +5645,7 @@
   "calendar": {
     "bg": {
       "main": {
-        "value": "rgba(113, 158, 250, 0.10)",
+        "value": "rgba(10, 10, 10, 0.30)",
         "type": "color",
         "description": "bg for event calendar widget"
       },
@@ -5673,7 +5664,7 @@
         "description": "bg for calendar button"
       },
       "primary": {
-        "value": "linear-gradient(180deg, #062F97 0%, rgba(6, 47, 151, 0.12) 97%, rgba(6, 47, 151, 0.12) 100%)",
+        "value": "linear-gradient(180deg, #121212 0%, rgba(18, 18, 18, 0.12) 45.53%, rgba(18, 18, 18, 0.12) 100%)",
         "type": "color",
         "description": "bg for default dates calendar widget"
       },
@@ -5711,34 +5702,25 @@
         "description": "bg for hover badge dates calendar widget"
       },
       "extra": {
-        "value": "#fff",
+        "value": "#000",
         "type": "color",
         "description": "bg for chips active state"
       }
     },
     "border": {
       "main": {
-        "value": "rgba(23, 88, 254, 0.48)",
+        "value": "linear-gradient(180deg, rgba(251, 244, 238, 0.60) 0%, rgba(255, 209, 170, 0.10) 100%)",
         "type": "color",
         "description": "border for event calendar widget"
       },
       "primary": {
-        "value": "#062F97",
+        "value": "linear-gradient(180deg, #000 0%, rgba(0, 0, 0, 0.20) 100%)",
         "type": "color",
         "description": "border for default calendar dates"
       },
       "secondary": {
-        "value": "#fff",
+        "value": "linear-gradient(180deg, #4B4B4B 0%, #000 100%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.24",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "border for chips default calendar "
       },
       "tertiaty": {
@@ -5796,7 +5778,7 @@
         "description": "date/chips default"
       },
       "additional": {
-        "value": "#050F28",
+        "value": "#fff",
         "type": "color",
         "description": "date selected"
       },
