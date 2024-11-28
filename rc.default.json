@@ -2854,7 +2854,7 @@
         "description": "Color for label thumb"
       },
       "label-thumb-top": {
-        "value": "linear-gradient(180deg, #7225B1 0%, #9E4DE0 100%)",
+        "value": "linear-gradient(180deg, #DBDBDB 0%, #A6A6A6 100%)",
         "type": "color",
         "description": "Color for label thumb - tournmament"
       },
@@ -3387,7 +3387,7 @@
       "description": "Use for active icons"
     },
     "accent-additional": {
-      "value": "{button.text.primary}",
+      "value": "{base.primary}",
       "type": "color",
       "description": "Use for show more widget"
     },
