@@ -4823,6 +4823,11 @@
         "value": "#2252D5",
         "type": "color",
         "description": "use for special notification in menu items"
+      },
+      "notification-border": {
+        "value": "transparent",
+        "type": "color",
+        "description": "use for special notification in menu items"
       }
     },
     "item-active": {

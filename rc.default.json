@@ -3135,7 +3135,7 @@
         "description": "use for badge in main tapbar"
       },
       "2": {
-        "value": "#F2B664",
+        "value": "#D89437",
         "type": "color",
         "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
       },
@@ -4828,7 +4828,12 @@
         "description": "use as bg in menu info zone"
       },
       "notification": {
-        "value": "linear-gradient(149deg, #FFB859 0.66%, #F2C17D 46.34%, #E3AB5D 57.09%, #E2A95C 82.74%)",
+        "value": "linear-gradient(180deg, #FFCF8E -4.27%, #D69031 61%, #B5741B 105%)",
+        "type": "color",
+        "description": "use for special notification in menu items"
+      },
+      "notification-border": {
+        "value": "linear-gradient(180deg, #C27D1F 0%, #F3BE79 100%)",
         "type": "color",
         "description": "use for special notification in menu items"
       }
