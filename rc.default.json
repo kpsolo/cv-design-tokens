@@ -2131,7 +2131,7 @@
           "description": "bg for bonus balance card"
         },
         "3-additional": {
-          "value": "rgba(43, 80, 157, 0.10)",
+          "value": "{bg.card.bg.3}",
           "type": "color",
           "description": "bg for winnig now - mob"
         },
