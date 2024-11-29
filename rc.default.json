@@ -5436,7 +5436,7 @@
         "description": "bg for top bg in ingame"
       },
       "thumb": {
-        "value": "#0B1A3B",
+        "value": "#202020",
         "type": "color",
         "description": "bg for show more thumb/zagluska fo game thumb"
       },
