@@ -750,10 +750,10 @@
     "tips": {
       "value": {
         "x": "0",
-        "y": "1",
-        "blur": "2",
+        "y": "2",
+        "blur": "4",
         "spread": "0",
-        "color": "rgba(7,7,33,0.4)",
+        "color": "rgba(26, 26, 28, 0.60)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -1883,6 +1883,11 @@
         "value": "rgba(58, 57, 57, 0.08)",
         "type": "color",
         "description": "Background foe categories on desktop"
+      },
+      "categories-nav-additional": {
+        "value": "#19191B",
+        "type": "color",
+        "description": "Background for categories on desktop"
       },
       "strip-popup": {
         "value": "{bg.popup}",

@@ -1898,6 +1898,11 @@
         "value": "{bg.overlay.2}",
         "type": "color",
         "description": "use in registration bonus cards"
+      },
+      "categories-nav-additional": {
+        "value": "transparent",
+        "type": "color",
+        "description": "Background for categories on desktop"
       }
     },
     "overlay": {
