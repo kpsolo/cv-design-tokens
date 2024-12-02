@@ -2708,42 +2708,42 @@
         "description": "border color for buttons disabled"
       },
       "primary": {
-        "value": "#transparent",
+        "value": "transparent",
         "type": "color",
         "description": "border color for primary buttons  default"
       },
       "primary-hover": {
-        "value": "#transparent",
+        "value": "transparent",
         "type": "color",
         "description": "border color for primary buttons  default"
       },
       "primary-pressed": {
-        "value": "#transparent",
+        "value": "transparent",
         "type": "color",
         "description": "border color for primary buttons  pressed state"
       },
       "primary-disabled": {
-        "value": "#transparent",
+        "value": "transparent",
         "type": "color",
         "description": "border color for primary buttons disabled state"
       },
       "secondary": {
-        "value": "#transparent",
+        "value": "transparent",
         "type": "color",
         "description": "border color for secondary buttons default state"
       },
       "secondary-pressed": {
-        "value": "#transparent",
+        "value": "transparent",
         "type": "color",
         "description": "border color for secondary buttons pressed state"
       },
       "secondary-hover": {
-        "value": "#transparent",
+        "value": "transparent",
         "type": "color",
         "description": "border color for secondary buttons hover"
       },
       "secondary-disabled": {
-        "value": "#transparent",
+        "value": "transparent",
         "type": "color",
         "description": "border color for secondary buttons disabled state"
       }
