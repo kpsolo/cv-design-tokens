@@ -1045,6 +1045,28 @@
       ],
       "type": "boxShadow",
       "description": "Shadow for tertiary button"
+    },
+    "nav-desktop": {
+      "value": [
+        {
+          "x": "0",
+          "y": "4",
+          "blur": "8",
+          "spread": "0",
+          "color": "rgba(0, 0, 0, 0.40)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "4",
+          "blur": "4",
+          "spread": "0",
+          "color": "rgba(0, 0, 0, 0.25)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "General shadow for cards, 1click"
     }
   },
   "border": {
