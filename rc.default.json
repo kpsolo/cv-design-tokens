@@ -5110,7 +5110,7 @@
         "type": "color"
       },
       "sector-2": {
-        "value": "#171819",
+        "value": "#fff",
         "type": "color"
       }
     },
@@ -5121,17 +5121,8 @@
         "description": "use as bg for popups and notification"
       },
       "2": {
-        "value": "#1A2951",
+        "value": "rgba(50, 50, 50, 0.20)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for denomination widget bg"
       },
       "3": {
@@ -5154,17 +5145,17 @@
         "description": "use for switcher active bg"
       },
       "sector-2": {
-        "value": "radial-gradient(50% 50% at 50% 50%, #E9E8E8 0%, #FBFBFB 100%)",
+        "value": "radial-gradient(50% 50% at 50% 50%, #202020 0%, #202020 10.17%, #0D0D0D 100%)",
         "type": "color",
         "description": "use for sectors bg (type1) - start"
       },
       "sector-3": {
-        "value": "radial-gradient(50% 50% at 50% 50%, #122650 0%, #18355F 13%, #214B77 32.96%, #3885B2 76%, #449ECB 100%)",
+        "value": "radial-gradient(50% 50% at 50% 50%, #F5A63B 0%, #F7AC46 13%, #F8AF4C 32.96%, #FCBF6B 76%, #FFC97F 100%)",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - start"
       },
       "sector-1": {
-        "value": "radial-gradient(50% 50% at 50% 50%, #69040B 0%, #7C060E 18.5%, #8A0811 29.66%, #970A14 43.71%, #BF121E 100%)",
+        "value": "radial-gradient(50% 50% at 50% 50%, #242424 0%, #252424 18.5%, #292929 29.66%, #2B2A2A 43.71%, #343434 100%)",
         "type": "color",
         "description": "use for sectors (not white)"
       },
@@ -5251,7 +5242,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.2",
+              "value": "0.08",
               "space": "srgb"
             }
           }
@@ -5259,18 +5250,14 @@
         "description": "use as bg for denominations bet item hover state"
       },
       "active": {
-        "value": "#6892EE",
+        "value": "#282828",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use as bg for denominations bet item active state"
+      },
+      "border": {
+        "value": "linear-gradient(180deg, rgba(76, 76, 76, 0.30) 0%, #000 100%)",
+        "type": "color",
+        "description": "use as bborder for denominations bet item active state"
       },
       "inactive": {
         "value": "transparent",
@@ -5318,21 +5305,12 @@
     },
     "border": {
       "main": {
-        "value": "linear-gradient(180deg, #B1B5BB 0%, #686E77 100%)",
+        "value": "linear-gradient(92deg, #CE994F 1.93%, #F0B565 25.93%, #EDB464 47.54%, #F0B565 70.35%, #CE994F 93.15%)",
         "type": "color"
       },
       "main-additional": {
-        "value": "#000000",
+        "value": "#FFCE8A",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "stroke (outside border) for wheel icons - menu/header/loader"
       }
     }

@@ -5251,6 +5251,11 @@
         "value": "transparent",
         "type": "color",
         "description": "use as bg for denominations bet item disabled state"
+      },
+      "border": {
+        "value": "transparent",
+        "type": "color",
+        "description": "use as bg for denominations bet item active state"
       }
     },
     "picker": {
