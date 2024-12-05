@@ -3044,7 +3044,7 @@
         "description": "use for label new in menu item"
       },
       "new-1": {
-        "value": "#BD0F1B",
+        "value": "linear-gradient(0deg, #FFCF8E 0.66%, #E19D41 48.16%, #C27C1E 100%)",
         "type": "color",
         "description": "use for label new in menu item"
       },
@@ -5267,19 +5267,19 @@
     },
     "picker": {
       "bg": {
-        "value": "#C20C18",
+        "value": "linear-gradient(0deg, #0F0F0F 0%, #282828 100%)",
         "type": "color",
         "description": "use as main bg on picker"
       },
       "border": {
-        "value": "linear-gradient(174deg, #ACB0B7 10.07%, #E8E8E8 95.74%)",
+        "value": "#D4A15A",
         "type": "color",
         "description": "use for shaddow over picker"
       }
     },
     "button": {
       "bg": {
-        "value": "#14264F",
+        "value": "#282828",
         "type": "color",
         "description": "main bg for play button"
       },
