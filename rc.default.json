@@ -1377,8 +1377,8 @@
     },
     "dropdown-additional": {
       "value": {
-        "color": "transparent",
-        "width": "0px",
+        "color": "rgba(229, 169, 117, 0.60)",
+        "width": "1px",
         "style": "solid"
       },
       "type": "border",
