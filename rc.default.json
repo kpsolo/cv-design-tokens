@@ -4485,6 +4485,23 @@
       },
       "type": "typography",
       "description": "welcome bonus timer title"
+    },
+    "small-card": {
+      "border": {
+        "value": "#102B6C",
+        "type": "color",
+        "description": "use for stroke for bonus widget in desktop header"
+      },
+      "bg-additional": {
+        "value": "linear-gradient(90deg, #275CCB 1.64%, #081B4D 54.22%, #061232 97.54%)",
+        "type": "color",
+        "description": "use for bg hover state for bonus widget in desktop header"
+      },
+      "bg": {
+        "value": "linear-gradient(90deg, #275CCB 1.64%, #081B4D 54.22%, #061232 97.54%)",
+        "type": "color",
+        "description": "use for bg for bonus widget in desktop header"
+      }
     }
   },
   "filed spacing": {
