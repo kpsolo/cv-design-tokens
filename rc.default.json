@@ -4488,17 +4488,17 @@
     },
     "small-card": {
       "border": {
-        "value": "#102B6C",
+        "value": "linear-gradient(90deg, rgba(222, 167, 90, 0.40) 1.54%, rgba(250, 189, 108, 0.04) 96.55%)",
         "type": "color",
         "description": "use for stroke for bonus widget in desktop header"
       },
       "bg-additional": {
-        "value": "linear-gradient(90deg, #275CCB 1.64%, #081B4D 54.22%, #061232 97.54%)",
+        "value": "linear-gradient(90deg, rgba(255, 193, 111, 0.30) 3.28%, rgba(199, 148, 74, 0.30) 91.21%)",
         "type": "color",
         "description": "use for bg hover state for bonus widget in desktop header"
       },
       "bg": {
-        "value": "linear-gradient(90deg, #275CCB 1.64%, #081B4D 54.22%, #061232 97.54%)",
+        "value": "linear-gradient(90deg, rgba(255, 193, 111, 0.30) 3.28%, rgba(199, 148, 74, 0.20) 91.21%)",
         "type": "color",
         "description": "use for bg for bonus widget in desktop header"
       }
