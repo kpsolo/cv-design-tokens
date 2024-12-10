@@ -3048,6 +3048,11 @@
         "type": "color",
         "description": "use for label new in menu item"
       },
+      "new-1-border": {
+        "value": "{menu.bg.notification-border}",
+        "type": "color",
+        "description": "use for label new border in menu item"
+      },
       "success": {
         "value": "{base.success}",
         "type": "color",
@@ -4886,7 +4891,7 @@
         "description": "use for special notification in menu items"
       },
       "notification-border": {
-        "value": "linear-gradient(180deg, #C27D1F 0%, #F3BE79 100%)",
+        "value": "linear-gradient(180deg, #F3BE79 0%, #C27D1F 100%)",
         "type": "color",
         "description": "use for special notification in menu items"
       }

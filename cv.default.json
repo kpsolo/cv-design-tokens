@@ -3053,6 +3053,11 @@
         "value": "rgba(52, 224, 9, 0.24)",
         "type": "color",
         "description": "use for active label bg in bonus balance cards"
+      },
+      "new-1-border": {
+        "value": "transparent",
+        "type": "color",
+        "description": "use for label new in menu item"
       }
     },
     "progressbar-deals": {
