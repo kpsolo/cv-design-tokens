@@ -772,10 +772,10 @@
     "tips": {
       "value": {
         "x": "0",
-        "y": "2",
+        "y": "0",
         "blur": "4",
         "spread": "0",
-        "color": "rgba(11, 11, 11, 0.60)",
+        "color": "rgba(52, 136, 192, 0.40)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -796,10 +796,10 @@
     "header": {
       "value": {
         "x": "0",
-        "y": "4",
+        "y": "0",
         "blur": "4",
         "spread": "0",
-        "color": "rgba(0, 0, 0, 0.25)",
+        "color": "rgba(52, 136, 192, 0.40)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -1680,7 +1680,7 @@
       "description": "use for secret mirror popups bg gradient"
     },
     "popup": {
-      "value": "linear-gradient(180deg, #111 0%, #1C1C1C 100%)",
+      "value": "linear-gradient(180deg, #0B4668 0%, #08274A 100%)",
       "type": "color",
       "description": "use for popups bg"
     },
@@ -1823,7 +1823,7 @@
         "description": "Use for tooltip background"
       },
       "footer": {
-        "value": "#151517",
+        "value": "#08203B",
         "type": "color",
         "description": "Background color for footer"
       },
@@ -1944,7 +1944,7 @@
         "description": "for static table headet"
       },
       "2": {
-        "value": "rgba(220, 205, 186, 0.08)",
+        "value": "{bg.social-icons}",
         "type": "color",
         "description": "social icons bg in desktop header/ mob registration/gamepage left sidebar"
       },
@@ -2216,12 +2216,12 @@
         "description": "use for menu banner overlay gradient under title"
       },
       "2": {
-        "value": "linear-gradient(0deg, rgba(37, 36, 39, 0.00) 0%, rgba(37, 36, 39, 0.60) 37.1%, #252427 100%)",
+        "value": "linear-gradient(0deg, rgba(10, 40, 73, 0.00) 0%, rgba(10, 40, 73, 0.60) 37.1%, #0A2849 100%)",
         "type": "color",
         "description": "use as overlay on messages picture, news cards picture"
       },
       "3": {
-        "value": "linear-gradient(180deg, rgba(25, 25, 27, 0.00) 0%, rgba(25, 25, 27, 0.50) 24.24%, rgba(25, 25, 27, 0.90) 54.36%, #19191B 100%)",
+        "value": "linear-gradient(180deg, rgba(10, 40, 73, 0.00) 0%, rgba(10, 40, 73, 0.50) 24.24%, rgba(10, 40, 73, 0.90) 54.36%, #0A2849 100%)",
         "type": "color",
         "description": "use under link in messages/in reg banner under check link\n\n[based on primary bg]"
       },
@@ -2328,9 +2328,9 @@
   },
   "tech": {
     "bg": {
-      "value": "#1F1F1F",
+      "value": "#021B2C",
       "type": "color",
-      "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
+      "description": "for sections bg"
     }
   },
   "nav": {
@@ -2852,7 +2852,7 @@
   "small-elements": {
     "game": {
       "provider-logo-bg": {
-        "value": "linear-gradient(0deg, #043B6C 0%, rgba(4, 59, 108, 0.60) 66.67%, rgba(4, 59, 108, 0.00) 100%)",
+        "value": "linear-gradient(0deg, #011A31 0%, rgba(1, 26, 49, 0.60) 66.67%, rgba(1, 26, 49, 0.00) 100%)",
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
@@ -2956,7 +2956,7 @@
         "description": "for line separator in light bg - dropdown/menu item/tooltips"
       },
       "tertiary": {
-        "value": "#000000",
+        "value": "{small-elements.separator.main}",
         "type": "color",
         "description": "separator for dark bg (mob dropdown providers)"
       },
@@ -3185,7 +3185,7 @@
         "description": "navigation for crypto slider"
       },
       "bg-social": {
-        "value": "rgba(255, 255, 255, 0.06)",
+        "value": "#0E3969",
         "type": "color",
         "description": "for social icons bg"
       },
@@ -4587,7 +4587,7 @@
         "type": "color"
       },
       "top-desktop": {
-        "value": "#0E538F",
+        "value": "#0B2A51",
         "type": "color",
         "description": "bg header on top for desktop"
       },
@@ -4867,12 +4867,12 @@
         "description": "use for banner bg for unlogged "
       },
       "header": {
-        "value": "linear-gradient(180deg, #121212 0%, rgba(23, 23, 23, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #092747 0%, rgba(9, 39, 71, 0.00) 100%)",
         "type": "color",
         "description": "use for header bg for unlogged "
       },
       "info": {
-        "value": "rgba(210, 229, 255, 0.06)",
+        "value": "#0A3354",
         "type": "color",
         "description": "use as bg in menu info zone"
       },
