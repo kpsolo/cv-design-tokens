@@ -1917,7 +1917,7 @@
         "description": "Bg for background popup on strip desktop"
       },
       "footer-app": {
-        "value": "#212123",
+        "value": "#0E3969",
         "type": "color",
         "description": "bg for app button in footer"
       },
@@ -2044,12 +2044,12 @@
         "description": "Use for game page background on right filter sidebar (under icons)"
       },
       "light-1": {
-        "value": "#272729",
+        "value": "rgba(79, 193, 255, 0.10)",
         "type": "color",
         "description": "bg in tournament/lottery under players"
       },
       "light-2": {
-        "value": "#313134",
+        "value": "#0C213F",
         "type": "color",
         "description": "use for progress bar bg "
       },
@@ -2379,7 +2379,7 @@
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#033163",
+      "value": "#0A2849",
       "type": "color",
       "description": "main color for brand bgs"
     },
@@ -2651,7 +2651,7 @@
     },
     "border": {
       "tertiary": {
-        "value": "{base.light}",
+        "value": "#1A85C5",
         "type": "color",
         "description": "border color for buttons default"
       },
@@ -2799,7 +2799,7 @@
         "description": "Text color for buttons on light bg (notification)"
       },
       "tertiary": {
-        "value": "{base.light}",
+        "value": "#1A85C5",
         "type": "color",
         "description": "color on tertiary buttons"
       },
@@ -2852,7 +2852,7 @@
   "small-elements": {
     "game": {
       "provider-logo-bg": {
-        "value": "linear-gradient(0deg, rgba(31, 36, 80, 0.90) 0%, rgba(17, 20, 45, 0.60) 66.67%, rgba(17, 20, 46, 0.00) 100%)",
+        "value": "linear-gradient(0deg, #043B6C 0%, rgba(4, 59, 108, 0.60) 66.67%, rgba(4, 59, 108, 0.00) 100%)",
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
@@ -3256,7 +3256,7 @@
         "description": "Color of counter for desktop tournament widget"
       },
       "tournament-counter-bg": {
-        "value": "#111112",
+        "value": "#042542",
         "type": "color",
         "description": "bg for tournament counter on desktop widget"
       }
