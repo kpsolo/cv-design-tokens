@@ -2098,17 +2098,17 @@
     },
     "gradients": {
       "main": {
-        "value": "linear-gradient(124deg, #373737 54.18%, rgba(58, 59, 60, 0.00) 77.05%)",
+        "value": "linear-gradient(124deg, #0084FF 48.12%, rgba(255, 255, 255, 0.00) 77.05%)",
         "type": "color",
         "description": "use as additional ui overlay gradient"
       },
       "extra": {
-        "value": "linear-gradient(124deg, #373737 54.18%, rgba(58, 59, 60, 0.00) 77.05%)",
+        "value": "linear-gradient(124deg, #0DF 48.12%, rgba(255, 255, 255, 0.00) 77.05%)",
         "type": "color",
         "description": "use as additional ui overlay gradient"
       },
       "additional": {
-        "value": "linear-gradient(124deg, #373737 54.18%, rgba(58, 59, 60, 0.00) 77.05%)",
+        "value": "linear-gradient(124deg, #0DF 48.12%, rgba(255, 255, 255, 0.00) 77.05%)",
         "type": "color",
         "description": "use as additional ui overlay gradient"
       },
@@ -2946,7 +2946,7 @@
         "description": "border color for separating groups in registration under tabs"
       },
       "main": {
-        "value": "linear-gradient(90deg, rgba(0, 0, 0, 0.30) 0%, rgba(0, 0, 0, 0.60) 9.97%, rgba(0, 0, 0, 0.60) 91.97%, rgba(0, 0, 0, 0.30) 100%)",
+        "value": "#0E538F",
         "type": "color",
         "description": "separator in main page categories "
       },
@@ -2995,7 +2995,7 @@
       }
     },
     "progressbar-large": {
-      "value": "linear-gradient(180deg, #FFC16F 0%, #C7944A 100%)",
+      "value": "#0C6794",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
@@ -3162,17 +3162,17 @@
     },
     "badge": {
       "1": {
-        "value": "linear-gradient(180deg, #F8BC6C 0%, #EC9D2C 100%)",
+        "value": "#B62D3E",
         "type": "color",
         "description": "use for badge in main tapbar"
       },
       "2": {
-        "value": "#D89437",
+        "value": "#B62D3E",
         "type": "color",
         "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
       },
       "3": {
-        "value": "{base.accent-primary}",
+        "value": "#0C6794",
         "type": "color",
         "description": "use for badges in calendar of event"
       }
@@ -4596,7 +4596,7 @@
         "type": "color"
       },
       "top-desktop": {
-        "value": "linear-gradient(180deg, #000 0%, #000 47.95%, #191919 100%)",
+        "value": "#0E538F",
         "type": "color",
         "description": "bg header on top for desktop"
       },
