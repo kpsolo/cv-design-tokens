@@ -1377,7 +1377,7 @@
     },
     "dropdown-additional": {
       "value": {
-        "color": "rgba(229, 169, 117, 0.60)",
+        "color": "rgba(24, 169, 255, 0.38)",
         "width": "1px",
         "style": "solid"
       },
@@ -1517,7 +1517,7 @@
       "description": "Radius for thumbs"
     },
     "navbar": {
-      "value": "16px",
+      "value": "12px",
       "type": "borderRadius",
       "description": "use for navbar on main page"
     },
@@ -2256,7 +2256,7 @@
         "description": "use on message page under bottom link "
       },
       "7-additional": {
-        "value": "linear-gradient(270deg, rgba(35, 35, 37, 0.00) 0%, #232325 100%)",
+        "value": "linear-gradient(270deg, rgba(16, 44, 79, 0.00) 0%, #102C4F 100%)",
         "type": "color",
         "description": "fade on search game dropdown\n"
       },
@@ -2384,12 +2384,12 @@
       "description": "main color for brand bgs"
     },
     "error": {
-      "value": "#B80612",
+      "value": "#A1000B",
       "type": "color",
       "description": "Indication of unsuccess transactions"
     },
     "warning": {
-      "value": "#FAB454",
+      "value": "#FFC16D",
       "type": "color",
       "description": "Indication of warning"
     },
@@ -2414,7 +2414,7 @@
       "description": "for text,icons"
     },
     "accent-light": {
-      "value": "#FFF5E9",
+      "value": "#D4F1FC",
       "type": "color",
       "description": "Color for app button and bg under games in bottom sheet"
     }
@@ -2956,7 +2956,7 @@
         "description": "for line separator in light bg - dropdown/menu item/tooltips"
       },
       "tertiary": {
-        "value": "{small-elements.separator.main}",
+        "value": "#021D37",
         "type": "color",
         "description": "separator for dark bg (mob dropdown providers)"
       },
@@ -3503,23 +3503,14 @@
         "description": "Border color for default inputs"
       },
       "focus": {
-        "value": "{base.accent-primary}",
+        "value": "#074473",
         "type": "color",
         "description": "Color border for focused input"
       },
       "disabled": {
-        "value": "rgba(255, 255, 255, 0.10)",
+        "value": "rgba(86, 121, 150, 0.60)",
         "type": "color",
-        "description": "Color border for disabled input",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        }
+        "description": "Color border for disabled input"
       },
       "error": {
         "value": "{base.error}",
@@ -4173,7 +4164,7 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "#19191B",
+      "value": "#082341",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
