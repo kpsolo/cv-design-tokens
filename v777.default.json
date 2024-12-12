@@ -1571,7 +1571,7 @@
       "description": "No radius"
     },
     "input-base": {
-      "value": "10px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "Use for inputs, dropdowns bg"
     },
@@ -1665,12 +1665,12 @@
   },
   "bg": {
     "technical": {
-      "value": "#1C1C1C",
+      "value": "#14436C",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
     "additional": {
-      "value": "#151515",
+      "value": "#124A73",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
@@ -1939,17 +1939,8 @@
     },
     "overlay": {
       "1": {
-        "value": "#858484",
+        "value": "rgba(14, 83, 143, 0.40)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for static table headet"
       },
       "2": {
@@ -2388,7 +2379,7 @@
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#131F4F",
+      "value": "#033163",
       "type": "color",
       "description": "main color for brand bgs"
     },
@@ -2970,7 +2961,7 @@
         "description": "separator for dark bg (mob dropdown providers)"
       },
       "secondary": {
-        "value": "rgba(0, 0, 0, 0.80)",
+        "value": "#0E538F",
         "type": "color",
         "description": "use in mob registation tabs"
       },
@@ -4588,7 +4579,7 @@
         "description": "use for bg under balance amount"
       },
       "main": {
-        "value": "linear-gradient(180deg, #1A1A1C 0%, rgba(26, 26, 28, 0.80) 39.95%, rgba(26, 26, 28, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #043467 0%, rgba(4, 52, 103, 0.80) 39.95%, rgba(4, 52, 103, 0.00) 100%)",
         "type": "color"
       },
       "sticky": {
@@ -4861,12 +4852,12 @@
   "menu": {
     "bg": {
       "main": {
-        "value": "#131F4F",
+        "value": "{base.surface}",
         "type": "color",
         "description": "use for menu general bg "
       },
       "main-additional": {
-        "value": "#161616",
+        "value": "#123862",
         "type": "color",
         "description": "bg for menu items zone"
       },
