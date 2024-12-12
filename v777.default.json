@@ -1502,7 +1502,7 @@
   },
   "radius": {
     "card": {
-      "value": "12px",
+      "value": "10px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
     },
@@ -1512,7 +1512,7 @@
       "description": "Radius for cards amd widgets border bg ( 1st deposit card)"
     },
     "game-item": {
-      "value": "12px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "Radius for thumbs"
     },
@@ -1838,12 +1838,12 @@
         "description": "use as accent on light bg - filter in cashdesk"
       },
       "sidebar-desktop": {
-        "value": "#1F1E22",
+        "value": "linear-gradient(168deg, rgba(11, 56, 88, 0.20) 8.26%, rgba(11, 56, 88, 0.20) 36.54%, rgba(23, 80, 121, 0.20) 93.1%)",
         "type": "color",
         "description": "color for desktop sidebar"
       },
       "sidebar-desktop-additional": {
-        "value": "rgba(31, 30, 34, 0.10)",
+        "value": "linear-gradient(168deg, rgba(11, 56, 88, 0.40) 8.26%, rgba(11, 56, 88, 0.40) 36.54%, rgba(23, 80, 121, 0.40) 93.1%)",
         "type": "color",
         "description": "bg for bonus card in desktop sidebar"
       },
@@ -2143,7 +2143,7 @@
           "description": "bg for provider card"
         },
         "3": {
-          "value": "linear-gradient(97deg, #282828 3.03%, #191919 96.44%)",
+          "value": "#122853",
           "type": "color",
           "description": "bg for winnig now"
         },
@@ -2192,7 +2192,7 @@
           "description": "1st deopsit card stroke bg"
         },
         "3": {
-          "value": "{border.nav}",
+          "value": "rgba(0, 160, 255, 0.40)",
           "type": "color",
           "description": "winning now border"
         },
@@ -2207,7 +2207,7 @@
           "description": "DEV - 1st deposit card stroke, welcomeback popup border "
         },
         "main": {
-          "value": "linear-gradient(180deg, rgba(229, 169, 117, 0.60) 0%, rgba(255, 209, 170, 0.10) 100%)",
+          "value": "linear-gradient(180deg, rgba(0, 160, 255, 0.30) 0%, rgba(24, 169, 255, 0.18) 100%)",
           "type": "color",
           "description": "border for all cards - sidebar/main banner"
         },
@@ -2363,17 +2363,17 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#F2B664",
+      "value": "#FBC782",
       "type": "color",
       "description": "Background for accent elements"
     },
     "accent-secondary": {
-      "value": "#F2B664",
+      "value": "#FBC782",
       "type": "color",
       "description": "Background for tertiary elements"
     },
     "accent-tertiary": {
-      "value": "#EBAB2E",
+      "value": "#FBC782",
       "type": "color",
       "description": "Background for tertiary elements"
     },
@@ -2418,7 +2418,7 @@
       "description": "Color for winners"
     },
     "primary": {
-      "value": "#F4F4F4",
+      "value": "#F6F6F6",
       "type": "color",
       "description": "for text,icons"
     },
@@ -2861,12 +2861,12 @@
   "small-elements": {
     "game": {
       "provider-logo-bg": {
-        "value": "linear-gradient(0deg, #101011 0%, rgba(16, 16, 17, 0.60) 40.5%, rgba(16, 16, 17, 0.00) 100%)",
+        "value": "linear-gradient(0deg, rgba(31, 36, 80, 0.90) 0%, rgba(17, 20, 45, 0.60) 66.67%, rgba(17, 20, 46, 0.00) 100%)",
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
       "label-thumb-new": {
-        "value": "linear-gradient(180deg, #F0BF7D 0%, #B27046 100%)",
+        "value": "linear-gradient(180deg, #4BC9E8 0%, #18A4C7 100%)",
         "type": "color",
         "description": "Color for label thumb"
       },
@@ -2890,7 +2890,7 @@
         "description": "Color of counter on header of game block"
       },
       "label-thumb-text": {
-        "value": "{base.dark}",
+        "value": "{base.light}",
         "type": "color",
         "description": "Color for label thumb"
       }
@@ -4861,7 +4861,7 @@
   "menu": {
     "bg": {
       "main": {
-        "value": "#171717",
+        "value": "#131F4F",
         "type": "color",
         "description": "use for menu general bg "
       },
