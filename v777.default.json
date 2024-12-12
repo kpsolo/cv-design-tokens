@@ -1453,7 +1453,7 @@
       "description": "for mob navigation"
     },
     "nav-additional": {
-      "value": "linear-gradient(180deg, rgba(229, 169, 117, 0.60) 0%, rgba(255, 209, 170, 0.10) 100%)",
+      "value": "rgba(0, 160, 255, 0.40)",
       "type": "color",
       "description": "for desktop categories border"
     }
@@ -1907,7 +1907,7 @@
         "description": "Background foe categories on desktop"
       },
       "categories-nav-additional": {
-        "value": "#19191B",
+        "value": "{bg.primary}",
         "type": "color",
         "description": "Background for categories on desktop"
       },
@@ -2388,7 +2388,7 @@
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#19191B",
+      "value": "#131F4F",
       "type": "color",
       "description": "main color for brand bgs"
     },
