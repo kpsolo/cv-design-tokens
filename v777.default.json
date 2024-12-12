@@ -2966,7 +2966,7 @@
         "description": "use in mob registation tabs"
       },
       "additional": {
-        "value": "rgba(0, 0, 0, 0.80)",
+        "value": "{small-elements.separator.main}",
         "type": "color",
         "description": "border color for info inside transaction/ separator for items in tables in static page"
       },
@@ -4574,7 +4574,7 @@
   "header": {
     "bg": {
       "balance": {
-        "value": "linear-gradient(270deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.05) 40.7%, rgba(255, 255, 255, 0.05) 82.26%)",
+        "value": "#1472A4",
         "type": "color",
         "description": "use for bg under balance amount"
       },
