@@ -2651,7 +2651,7 @@
     },
     "border": {
       "tertiary": {
-        "value": "#1A85C5",
+        "value": "#1D96DE",
         "type": "color",
         "description": "border color for buttons default"
       },
@@ -2799,7 +2799,7 @@
         "description": "Text color for buttons on light bg (notification)"
       },
       "tertiary": {
-        "value": "#1A85C5",
+        "value": "#1D96DE",
         "type": "color",
         "description": "color on tertiary buttons"
       },
@@ -3960,7 +3960,7 @@
       "description": "for secret mirror popup title"
     },
     "bg": {
-      "value": "#1F1F1F",
+      "value": "#08304E",
       "type": "color",
       "description": "use for bg search widget for providers popup"
     },
