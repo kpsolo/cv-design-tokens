@@ -619,7 +619,8 @@
       "betting.db.warningColor": "S:af2877ebac47b13ef1b6a29d870cac3e86b7f17c,"
     },
     "selectedTokenSets": {
-      "cv.default": "enabled"
+      "cv.default": "enabled",
+      "cv.rc": "disabled"
     },
     "$figmaVariableReferences": {
       "border.popup-additional": "2ccf9322b758746a0a74a260c69e3a59da76b6dc",
@@ -1815,7 +1816,8 @@
       "menu.bg.notification-border": "S:bc9f7f88dfebcfd3f315d9dd493349f1e1a2dd78,"
     },
     "selectedTokenSets": {
-      "cv.rc - trash": "enabled"
+      "cv.rc - trash": "enabled",
+      "cv.rc": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:48246:202805",
     "$figmaModeId": "48246:1",
@@ -3002,7 +3004,8 @@
       "shadow.nav-desktop": "S:5f22826d773bdc6f31355f235c0cca6af4c75bdf,"
     },
     "selectedTokenSets": {
-      "cv.v777": "enabled"
+      "cv.v777": "enabled",
+      "cv.rc": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:50250:169714",
     "$figmaModeId": "50250:0",
