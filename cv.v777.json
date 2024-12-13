@@ -2616,7 +2616,7 @@
         "description": "Icon color on a tertiary button"
       },
       "ghost": {
-        "value": "{button.bg.primary}",
+        "value": "#E52224",
         "type": "color",
         "description": "Icon color on a ghost button"
       },
@@ -2688,13 +2688,31 @@
         "description": "border color for secondary buttons disabled state"
       },
       "tertiary-hover": {
-        "value": "#e9e9e9",
+        "value": "{button.border.tertiary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.20",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "border color for buttons hover"
       },
       "tertiary-pressed": {
-        "value": "#d3d3d3",
+        "value": "{button.border.tertiary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.12",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "border color for buttons pressed"
       },
       "tertiary-disabled": {
@@ -2786,7 +2804,7 @@
         "description": "Text color on secondary button"
       },
       "light-bg": {
-        "value": "#F8B660",
+        "value": "#E52224",
         "type": "color",
         "description": "Text color for buttons on light bg (notification)"
       },
@@ -2796,7 +2814,7 @@
         "description": "color on tertiary buttons"
       },
       "ghost": {
-        "value": "#AA0E0E",
+        "value": "#E52224",
         "type": "color",
         "description": "color on ghost buttons"
       },
@@ -3629,7 +3647,7 @@
       "description": "Border width for provider and category navigation"
     },
     "button": {
-      "value": "2px",
+      "value": "1px",
       "type": "borderWidth",
       "description": "Border width for buttons"
     },
