@@ -2475,7 +2475,7 @@
   "button": {
     "bg": {
       "primary": {
-        "value": "linear-gradient(180deg, #FFC16F 0%, #C7944A 100%)",
+        "value": "linear-gradient(180deg, #AA0E0E 0%, #F82424 100%)",
         "type": "color",
         "description": "Background for primary buttons"
       },
@@ -2523,7 +2523,7 @@
         "description": "Background for tertiary buttons disabled"
       },
       "secondary": {
-        "value": "linear-gradient(180deg, #FFFBF5 0%, #DCDCDC 100%)",
+        "value": "linear-gradient(180deg, #236288 0%, #2281BA 100%)",
         "type": "color",
         "description": "Background for secondary buttons"
       },
@@ -2776,12 +2776,12 @@
     },
     "text": {
       "primary": {
-        "value": "#121212",
+        "value": "#FFF",
         "type": "color",
         "description": "Text color on primary button"
       },
       "secondary": {
-        "value": "#121212",
+        "value": "#FFF",
         "type": "color",
         "description": "Text color on secondary button"
       },
