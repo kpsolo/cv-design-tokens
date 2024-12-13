@@ -631,10 +631,10 @@
       "value": [
         {
           "x": "0",
-          "y": "0",
-          "blur": "3",
+          "y": "1",
+          "blur": "1",
           "spread": "0",
-          "color": "#BFB7A9",
+          "color": "rgba(43, 43, 43, 0.25)",
           "type": "dropShadow"
         }
       ],
@@ -1524,7 +1524,7 @@
       "description": "use for prize item in tournament/lotery page "
     },
     "button": {
-      "value": "100px",
+      "value": "18px",
       "type": "borderRadius",
       "description": "Radius for buttons"
     },
@@ -2371,7 +2371,7 @@
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#033163",
+      "value": "#0A2849",
       "type": "color",
       "description": "main color for brand bgs"
     },
@@ -2648,12 +2648,12 @@
         "description": "border color for buttons default"
       },
       "primary": {
-        "value": "linear-gradient(180deg, #D19C51 0%, #FABD6C 100%)",
+        "value": "linear-gradient(180deg, #F12222 0%, #B01010 100%)",
         "type": "color",
         "description": "border color for primary buttons  default"
       },
       "secondary": {
-        "value": "linear-gradient(180deg, #E0E0DF 0%, #FCF8F3 100%)",
+        "value": "linear-gradient(180deg, #237CB1 0%, #0F4C70 100%)",
         "type": "color",
         "description": "border color for secondary buttons default state"
       },
@@ -2796,7 +2796,7 @@
         "description": "color on tertiary buttons"
       },
       "ghost": {
-        "value": "{button.bg.primary}",
+        "value": "#AA0E0E",
         "type": "color",
         "description": "color on ghost buttons"
       },
@@ -2993,7 +2993,7 @@
       "description": "border for progressbar in profile/menu mobile"
     },
     "progressbar": {
-      "value": "{base.accent-primary}",
+      "value": "#1281B8",
       "type": "color"
     },
     "progressbar-bg": {
@@ -4855,7 +4855,7 @@
         "description": "use for header bg for unlogged "
       },
       "info": {
-        "value": "#0A3354",
+        "value": "#0B3B63",
         "type": "color",
         "description": "use as bg in menu info zone"
       },
