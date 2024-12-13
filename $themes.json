@@ -619,8 +619,7 @@
       "betting.db.warningColor": "S:af2877ebac47b13ef1b6a29d870cac3e86b7f17c,"
     },
     "selectedTokenSets": {
-      "cv.default": "enabled",
-      "cv.rc - trash": "disabled"
+      "cv.default": "enabled"
     },
     "$figmaVariableReferences": {
       "border.popup-additional": "2ccf9322b758746a0a74a260c69e3a59da76b6dc",
@@ -3003,8 +3002,7 @@
       "shadow.nav-desktop": "S:5f22826d773bdc6f31355f235c0cca6af4c75bdf,"
     },
     "selectedTokenSets": {
-      "cv.v777": "enabled",
-      "cv.rc - trash": "disabled"
+      "cv.v777": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:50250:169714",
     "$figmaModeId": "50250:0",
