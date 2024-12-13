@@ -3694,7 +3694,7 @@
     "nav": {
       "value": "48",
       "type": "sizing",
-      "description": "use for top navbar items"
+      "description": "use for top navbar items/"
     },
     "tap-button": {
       "value": "48",
