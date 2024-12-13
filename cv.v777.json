@@ -617,18 +617,10 @@
       "value": [
         {
           "x": "0",
-          "y": "0",
-          "blur": "4",
+          "y": "1",
+          "blur": "1",
           "spread": "0",
-          "color": "rgba(194, 141, 55, 0.60)",
-          "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "3",
-          "spread": "0",
-          "color": "rgba(194, 141, 55, 0.80)",
+          "color": "rgba(43, 43, 43, 0.25)",
           "type": "dropShadow"
         }
       ],
