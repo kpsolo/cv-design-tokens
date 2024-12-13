@@ -620,8 +620,7 @@
     },
     "selectedTokenSets": {
       "cv.default": "enabled",
-      "cv.v777": "disabled",
-      "cv.rc": "disabled"
+      "cv.rc - trash": "disabled"
     },
     "$figmaVariableReferences": {
       "border.popup-additional": "2ccf9322b758746a0a74a260c69e3a59da76b6dc",
@@ -1817,8 +1816,7 @@
       "menu.bg.notification-border": "S:bc9f7f88dfebcfd3f315d9dd493349f1e1a2dd78,"
     },
     "selectedTokenSets": {
-      "cv.v777": "disabled",
-      "cv.rc": "enabled"
+      "cv.rc - trash": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:48246:202805",
     "$figmaModeId": "48246:1",
@@ -3006,7 +3004,7 @@
     },
     "selectedTokenSets": {
       "cv.v777": "enabled",
-      "cv.rc": "disabled"
+      "cv.rc - trash": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:50250:169714",
     "$figmaModeId": "50250:0",

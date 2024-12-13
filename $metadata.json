@@ -1,8 +1,10 @@
 {
   "tokenSetOrder": [
     "cv.default",
-    "cv.rc",
+    "cv.rc - trash",
     "cv.v777",
-    "cv.cr"
+    "cv.cr",
+    "rc.default",
+    "v777.default"
   ]
 }
