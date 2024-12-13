@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
     "cv.default",
-    "rc.default",
-    "v777.default",
+    "cv.rc",
+    "cv.v777",
     "cv.cr"
   ]
 }
