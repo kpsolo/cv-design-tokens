@@ -2346,17 +2346,17 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#FBC782",
+      "value": "#70DDFE",
       "type": "color",
       "description": "Background for accent elements"
     },
     "accent-secondary": {
-      "value": "#FBC782",
+      "value": "#70DDFE",
       "type": "color",
       "description": "Background for tertiary elements"
     },
     "accent-tertiary": {
-      "value": "#FBC782",
+      "value": "#70DDFE",
       "type": "color",
       "description": "Background for tertiary elements"
     },
@@ -2872,7 +2872,7 @@
         "description": "Color for label thumb"
       },
       "label-thumb-top": {
-        "value": "linear-gradient(180deg, #FFF 0%, #C8C8C8 100%)",
+        "value": "linear-gradient(180deg, #BD1616 0%, #E92323 100%)",
         "type": "color",
         "description": "Color for label thumb - tournmament"
       },
