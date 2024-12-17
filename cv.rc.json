@@ -5626,7 +5626,7 @@
     },
     "content": {
       "accent": {
-        "value": "#F5AC4A",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for accent text on card"
       }
