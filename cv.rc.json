@@ -5599,7 +5599,7 @@
   "lootboxes": {
     "bg": {
       "primary": {
-        "value": "{bg.additional}",
+        "value": "{bg.other.sidebar-desktop}",
         "type": "color",
         "description": "use for cards bg"
       },
