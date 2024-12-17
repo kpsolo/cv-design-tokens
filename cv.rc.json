@@ -3162,7 +3162,7 @@
     },
     "badge": {
       "1": {
-        "value": "linear-gradient(180deg, #F8BC6C 0%, #EC9D2C 100%)",
+        "value": "linear-gradient(180deg, #D88B1E 0%, #EC9D2C 100%)",
         "type": "color",
         "description": "use for badge in main tapbar"
       },
@@ -3172,7 +3172,7 @@
         "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
       },
       "3": {
-        "value": "{base.accent-primary}",
+        "value": "linear-gradient(180deg, #D88B1E 0%, #EC9D2C 100%)",
         "type": "color",
         "description": "use for badges in calendar of event"
       }
