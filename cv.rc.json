@@ -5327,11 +5327,12 @@
     },
     "border": {
       "main": {
-        "value": "linear-gradient(92deg, #CE994F 1.93%, #F0B565 25.93%, #EDB464 47.54%, #F0B565 70.35%, #CE994F 93.15%)",
-        "type": "color"
+        "value": "transparent",
+        "type": "color",
+        "description": "transparent"
       },
       "main-additional": {
-        "value": "#FFCE8A",
+        "value": "#4E3B21",
         "type": "color",
         "description": "stroke (outside border) for wheel icons - menu/header/loader"
       }
