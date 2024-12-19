@@ -1524,7 +1524,7 @@
       "description": "for secret mirror,welcome back popup bg radius "
     },
     "tooltips-notifications": {
-      "value": "10px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "Border radius for tooltips ans notifications"
     },
@@ -3509,7 +3509,7 @@
         "description": "Backgrounds for confirmed inputs"
       },
       "accent": {
-        "value": "#FFE3BE",
+        "value": "{base.accent-light}",
         "type": "color",
         "description": "bg for selected item in dropdown (currency registration)"
       },
@@ -3559,7 +3559,7 @@
         "description": "Input value text color"
       },
       "accent": {
-        "value": "{base.accent-primary}",
+        "value": "#31C2EE",
         "type": "color",
         "description": "Use for active select text"
       },
