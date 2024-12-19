@@ -2882,7 +2882,7 @@
     },
     "separator": {
       "primary": {
-        "value": "transparent",
+        "value": "#0D6490",
         "type": "color",
         "description": "border color for separating groups in registration under tabs"
       },
