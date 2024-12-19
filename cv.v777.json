@@ -2480,31 +2480,13 @@
         "description": "Background for primary buttons"
       },
       "primary-hover": {
-        "value": "{button.bg.primary}",
+        "value": "linear-gradient(180deg, #AA0E0E 0%, #F82424 100%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.16",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for primary buttons hover"
       },
       "primary-pressed": {
-        "value": "{button.bg.primary}",
+        "value": "linear-gradient(180deg, #AA0E0E 0%, #F82424 100%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.20",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for primary pressed"
       },
       "primary-disabled-additional": {
@@ -2528,31 +2510,13 @@
         "description": "Background for secondary buttons"
       },
       "secondary-hover": {
-        "value": "{button.bg.secondary}",
+        "value": "linear-gradient(180deg, #236288 0%, #2281BA 100%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for secondary buttons hover"
       },
       "secondary-pressed": {
-        "value": "{button.bg.secondary}",
+        "value": "linear-gradient(180deg, #236288 0%, #2281BA 100%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for secondary buttons pressed"
       },
       "secondary-disabled": {
@@ -2678,12 +2642,12 @@
         "description": "border color for secondary buttons hover"
       },
       "primary-disabled": {
-        "value": "#transparent",
+        "value": "transparent",
         "type": "color",
         "description": "border color for primary buttons disabled state"
       },
       "secondary-disabled": {
-        "value": "#transparent",
+        "value": "transparent",
         "type": "color",
         "description": "border color for secondary buttons disabled state"
       },
