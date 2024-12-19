@@ -5286,7 +5286,7 @@
   },
   "strip": {
     "overlay-additional": {
-      "value": "#202020",
+      "value": "#072D49",
       "type": "color",
       "description": "overlay on locked cards"
     },
