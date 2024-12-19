@@ -2994,12 +2994,12 @@
         "description": "use for label new in menu item"
       },
       "new-1": {
-        "value": "linear-gradient(0deg, #FFCF8E 0.66%, #E19D41 48.16%, #C27C1E 100%)",
+        "value": "linear-gradient(180deg, #AA0E0E 0%, #F82424 100%)",
         "type": "color",
         "description": "use for label new in menu item"
       },
       "new-1-border": {
-        "value": "{menu.bg.notification-border}",
+        "value": "linear-gradient(180deg, #F12222 0%, #B01010 100%)",
         "type": "color",
         "description": "use for label new border in menu item"
       },
@@ -4827,12 +4827,12 @@
         "description": "use as bg in menu info zone"
       },
       "notification": {
-        "value": "linear-gradient(180deg, #FFCF8E -4.27%, #D69031 61%, #B5741B 105%)",
+        "value": "linear-gradient(180deg, #236288 0%, #2281BA 100%)",
         "type": "color",
         "description": "use for special notification in menu items"
       },
       "notification-border": {
-        "value": "linear-gradient(180deg, #F3BE79 0%, #C27D1F 100%)",
+        "value": "linear-gradient(180deg, #237CB1 0%, #0F4C70 100%)",
         "type": "color",
         "description": "use for special notification in menu items"
       }
