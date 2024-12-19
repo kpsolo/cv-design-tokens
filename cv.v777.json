@@ -3103,12 +3103,12 @@
     },
     "badge": {
       "1": {
-        "value": "#B62D3E",
+        "value": "#AF1315",
         "type": "color",
         "description": "use for badge in main tapbar"
       },
       "2": {
-        "value": "#B62D3E",
+        "value": "#AF1315",
         "type": "color",
         "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
       },
