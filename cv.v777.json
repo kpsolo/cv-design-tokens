@@ -740,10 +740,10 @@
     "tips": {
       "value": {
         "x": "0",
-        "y": "0",
-        "blur": "4",
+        "y": "2",
+        "blur": "2",
         "spread": "0",
-        "color": "rgba(52, 136, 192, 0.40)",
+        "color": "rgba(10, 42, 63, 0.40)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
