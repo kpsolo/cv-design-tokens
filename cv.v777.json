@@ -2406,7 +2406,7 @@
       "description": "for text,icons"
     },
     "accent-light": {
-      "value": "#D4F1FC",
+      "value": "#EFFBFF",
       "type": "color",
       "description": "Color for app button and bg under games in bottom sheet"
     }
