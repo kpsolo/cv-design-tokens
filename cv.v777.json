@@ -2908,6 +2908,15 @@
       "tertiary": {
         "value": "{small-elements.separator.primary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "separator for dark bg (mob dropdown providers)"
       },
       "secondary": {
