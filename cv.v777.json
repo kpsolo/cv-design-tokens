@@ -511,18 +511,10 @@
       "value": [
         {
           "x": "0",
-          "y": "0",
-          "blur": "4",
+          "y": "2",
+          "blur": "2",
           "spread": "0",
-          "color": "rgba(52, 136, 192, 0.30)",
-          "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "6",
-          "spread": "0",
-          "color": "rgba(52, 136, 192, 0.40)",
+          "color": "rgba(7, 29, 54, 0.40)",
           "type": "dropShadow"
         }
       ],
@@ -555,18 +547,10 @@
       "value": [
         {
           "x": "0",
-          "y": "4",
-          "blur": "8",
+          "y": "2",
+          "blur": "2",
           "spread": "0",
-          "color": "rgba(0, 0, 0, 0.40)",
-          "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "4",
-          "blur": "4",
-          "spread": "0",
-          "color": "rgba(0, 0, 0, 0.25)",
+          "color": "rgba(7, 29, 54, 0.40)",
           "type": "dropShadow"
         }
       ],
@@ -788,11 +772,11 @@
     "header": {
       "value": {
         "x": "0",
-        "y": "0",
-        "blur": "4",
+        "y": "-1",
+        "blur": "0",
         "spread": "0",
-        "color": "rgba(52, 136, 192, 0.40)",
-        "type": "dropShadow"
+        "color": "#0E538F",
+        "type": "innerShadow"
       },
       "type": "boxShadow",
       "description": "Shadow for header"
@@ -4548,7 +4532,7 @@
         "type": "color"
       },
       "sticky": {
-        "value": "linear-gradient(180deg, #1A1A1C 0%, rgba(26, 26, 28, 0.80) 39.95%, rgba(26, 26, 28, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #043467 0%, rgba(4, 52, 103, 0.80) 39.95%, rgba(4, 52, 103, 0.00) 100%)",
         "type": "color"
       },
       "top-desktop": {
