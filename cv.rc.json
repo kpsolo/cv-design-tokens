@@ -1803,7 +1803,7 @@
         "description": "for cashbox bonus popup content"
       },
       "cashbox-bonus-content-opacity": {
-        "value": "rgba(255, 255, 255, 0.60)",
+        "value": "rgba(255, 255, 255, 0.80)",
         "type": "color",
         "description": "for cashbox bonus popup content"
       },
