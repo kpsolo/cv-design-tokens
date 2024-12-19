@@ -3658,12 +3658,12 @@
       "description": "use for bottom tapbar main button"
     },
     "logo-mobile": {
-      "value": "100px",
+      "value": "107px",
       "type": "sizing",
       "description": "use for mobile logo width "
     },
     "logo-desktop": {
-      "value": "140px",
+      "value": "174px",
       "type": "sizing",
       "description": "use for desktop logo width "
     }
