@@ -500,7 +500,7 @@
           "y": "1",
           "blur": "4",
           "spread": "0",
-          "color": "rgba(135, 98, 46, 0.60)",
+          "color": "rgba(183, 49, 49, 0.60)",
           "type": "innerShadow"
         }
       ],
@@ -1510,7 +1510,7 @@
       "description": "Radius for extrasmall buttons in gamepage"
     },
     "tap-bar": {
-      "value": "16px",
+      "value": "12px",
       "type": "borderRadius",
       "description": "Radius for tapbar"
     },
@@ -3249,7 +3249,7 @@
     },
     "up-button": {
       "accent": {
-        "value": "#fff",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "Accent icon and border on floating button"
       },
