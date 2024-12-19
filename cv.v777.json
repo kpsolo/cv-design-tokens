@@ -1745,7 +1745,7 @@
       "description": "Gradient for bg"
     },
     "tertiary": {
-      "value": "#1F1F21",
+      "value": "#0D3158",
       "type": "color",
       "description": "bg for element above primary/secondary bg (game empty thumb, player status)"
     },
@@ -2576,7 +2576,7 @@
         "description": "Icon color on a tertiary disabled button"
       },
       "ghost-disabled": {
-        "value": "#7F3A3B",
+        "value": "#797979",
         "type": "color",
         "description": "Icon color on a ghost disabled button"
       }
@@ -2774,7 +2774,7 @@
         "description": "Text color on tertiary disabled button"
       },
       "ghost-disabled": {
-        "value": "#7F3A3B",
+        "value": "#797979",
         "type": "color",
         "description": "Text color on ghost disabled button"
       },
