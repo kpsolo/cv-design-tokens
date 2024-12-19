@@ -2062,12 +2062,12 @@
         "description": "use as additional ui overlay gradient"
       },
       "extra": {
-        "value": "linear-gradient(124deg, #0DF 48.12%, rgba(255, 255, 255, 0.00) 77.05%)",
+        "value": "linear-gradient(124deg, rgba(0, 221, 255, 0.70) 47.58%, rgba(255, 255, 255, 0.00) 84.85%)",
         "type": "color",
         "description": "use as additional ui overlay gradient"
       },
       "additional": {
-        "value": "linear-gradient(124deg, #0DF 48.12%, rgba(255, 255, 255, 0.00) 77.05%)",
+        "value": "linear-gradient(124deg, rgba(0, 221, 255, 0.70) 47.58%, rgba(255, 255, 255, 0.00) 84.85%)",
         "type": "color",
         "description": "use as additional ui overlay gradient"
       },
@@ -2906,7 +2906,7 @@
         "description": "for line separator in light bg - dropdown/menu item/tooltips"
       },
       "tertiary": {
-        "value": "#021D37",
+        "value": "{small-elements.separator.primary}",
         "type": "color",
         "description": "separator for dark bg (mob dropdown providers)"
       },
