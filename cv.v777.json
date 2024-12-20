@@ -1756,7 +1756,7 @@
         "description": "Bg for empty error pages"
       },
       "status-bg": {
-        "value": "#202022",
+        "value": "#071E37",
         "type": "color",
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
@@ -2304,12 +2304,12 @@
   "nav": {
     "tab": {
       "start": {
-        "value": "#111111",
+        "value": "#0B4668",
         "type": "color",
         "description": "gradient on top for popups"
       },
       "stop": {
-        "value": "#1C1C1C",
+        "value": "#08274A",
         "type": "color",
         "description": "gradient on bottom for popups"
       }
