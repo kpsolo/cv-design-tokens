@@ -2184,7 +2184,7 @@
         "description": "use for menu banner overlay gradient under title"
       },
       "2": {
-        "value": "linear-gradient(0deg, rgba(10, 40, 73, 0.00) 0%, rgba(10, 40, 73, 0.60) 37.1%, #0A2849 100%)",
+        "value": "linear-gradient(0deg, rgba(17, 66, 120, 0.00) 0%, rgba(17, 66, 120, 0.60) 48.06%, #114278 100%)",
         "type": "color",
         "description": "use as overlay on messages picture, news cards picture"
       },
@@ -2199,7 +2199,7 @@
         "description": "use for coin in lootboxes"
       },
       "5": {
-        "value": "linear-gradient(180deg, rgba(25, 25, 27, 0.00) 0%, #19191B 100%)",
+        "value": "linear-gradient(180deg, rgba(10, 40, 73, 0.00) 0%, #0A2849 100%)",
         "type": "color",
         "description": "use under title in news card on inner page\n\n[based on secondary bg]"
       },
