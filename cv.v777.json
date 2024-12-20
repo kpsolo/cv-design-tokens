@@ -1515,7 +1515,7 @@
       "description": "Radius for tapbar"
     },
     "popup": {
-      "value": "16px",
+      "value": "12px",
       "type": "borderRadius"
     },
     "popup-additional": {
@@ -1678,7 +1678,7 @@
       "description": "Gradient for bg in bonus card in cashbox"
     },
     "popup-2": {
-      "value": "linear-gradient(180deg, #111 0%, #1C1C1C 100%)",
+      "value": "#072540",
       "type": "color",
       "description": "use for popups bg"
     },
