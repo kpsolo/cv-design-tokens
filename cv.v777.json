@@ -1831,7 +1831,7 @@
         "description": "use for transaction with bg (detailed)"
       },
       "strip": {
-        "value": "{bg.additional}",
+        "value": "#113E5F",
         "type": "color",
         "description": "use for bg under girls"
       },
@@ -2239,7 +2239,7 @@
         "description": "use as overlay on footer"
       },
       "strip": {
-        "value": "linear-gradient(180deg, rgba(26, 26, 28, 0.00) 0%, #1A1A1C 100%)",
+        "value": "linear-gradient(180deg, rgba(11, 44, 77, 0.00) 0%, #0B2C4D 100%)",
         "type": "color",
         "description": "strip bg card\n\n[based on primary bg]"
       }
@@ -5301,7 +5301,7 @@
       "description": "use for icons border on gamepage widget"
     },
     "bg-progress": {
-      "value": "rgba(46, 46, 46, 0.80)",
+      "value": "#0F4062",
       "type": "color",
       "description": "bg in brogress bar "
     },
