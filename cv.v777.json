@@ -1841,7 +1841,7 @@
         "description": "Global background for strip banners"
       },
       "sidebar-game": {
-        "value": "rgba(0, 0, 0, 0.40)",
+        "value": "#041B2C",
         "type": "color",
         "description": "Bg for sidebar on gamepage (desktop)"
       },
