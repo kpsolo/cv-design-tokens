@@ -1941,7 +1941,7 @@
         "description": "use for active bonus bg in registration popup"
       },
       "6": {
-        "value": "linear-gradient(180deg, rgba(39, 39, 39, 0.00) 0%, rgba(39, 39, 39, 0.60) 44.84%, #272727 100%)",
+        "value": "linear-gradient(180deg, rgba(20, 67, 108, 0.00) 0%, rgba(20, 67, 108, 0.60) 44.84%, #14436C 100%)",
         "type": "color",
         "description": "use for bg under tournament/lottery tabs"
       },
