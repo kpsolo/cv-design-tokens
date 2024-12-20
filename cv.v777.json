@@ -4529,11 +4529,11 @@
         "description": "use for bg under balance amount"
       },
       "main": {
-        "value": "linear-gradient(180deg, #043467 0%, rgba(4, 52, 103, 0.80) 39.95%, rgba(4, 52, 103, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #0C2E52 0%, rgba(12, 46, 82, 0.80) 39.95%, rgba(12, 46, 82, 0.00) 100%)",
         "type": "color"
       },
       "sticky": {
-        "value": "linear-gradient(180deg, #043467 0%, rgba(4, 52, 103, 0.80) 39.95%, rgba(4, 52, 103, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #0C2E52 0%, rgba(12, 46, 82, 0.80) 39.95%, rgba(12, 46, 82, 0.00) 100%)",
         "type": "color"
       },
       "top-desktop": {
