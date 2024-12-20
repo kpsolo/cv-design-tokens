@@ -1638,7 +1638,7 @@
       "description": "for set by admin.. (card of collection,deals, tournament, lottery,news)"
     },
     "additional": {
-      "value": "#124A73",
+      "value": "#0C3A5C",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
