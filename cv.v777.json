@@ -5344,7 +5344,7 @@
     },
     "bg": {
       "additional": {
-        "value": "{bg.additional}",
+        "value": "#0B2C4C",
         "type": "color",
         "description": "use as bg in gamepage widget"
       }
