@@ -3929,7 +3929,7 @@
       "description": "Color of text and icons for custom dropdown"
     },
     "jackpot-border": {
-      "value": "linear-gradient(180deg, rgba(229, 169, 117, 0.60) 0%, rgba(255, 209, 170, 0.10) 100%)",
+      "value": "linear-gradient(180deg, rgba(0, 160, 255, 0.60) 0%, rgba(0, 160, 255, 0.10) 100%)",
       "type": "color",
       "description": "Border-color for jackpot widgets"
     },
