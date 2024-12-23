@@ -2156,7 +2156,7 @@
           "description": "winning now border"
         },
         "4": {
-          "value": "linear-gradient(180deg, #FFC16F 0%, rgba(199, 148, 74, 0.00) 100%)",
+          "value": "linear-gradient(180deg, #F82424 0%, #F82424 100%)",
           "type": "color",
           "description": "popup loyalty status widget border"
         },
