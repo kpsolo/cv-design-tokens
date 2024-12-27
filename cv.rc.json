@@ -13,7 +13,7 @@
     },
     "caption-extrasmall-strong": {
       "value": {
-        "fontFamily": "{font-family.additional}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.sm}",
         "fontSize": "{font-size.2}"
@@ -2383,9 +2383,9 @@
       "description": "Darkest (black)"
     },
     "success": {
-      "value": "#1E7810",
+      "value": "#32BD0F",
       "type": "color",
-      "description": "Indication of success transactions"
+      "description": "Indication of success transactions  (old 1E7810)"
     },
     "surface": {
       "value": "#19191B",
