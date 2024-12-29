@@ -1043,7 +1043,7 @@
           "y": "0",
           "blur": "4",
           "spread": "0",
-          "color": "#29E95A",
+          "color": "#4BACCA",
           "type": "dropShadow"
         }
       ],
@@ -1057,7 +1057,7 @@
           "y": "0",
           "blur": "4",
           "spread": "",
-          "color": "#DBAD24",
+          "color": "#4BACCA",
           "type": "dropShadow"
         }
       ],
@@ -1411,7 +1411,7 @@
       "type": "color"
     },
     "popup-additional": {
-      "value": "rgba(242, 182, 100, 0.40)",
+      "value": "linear-gradient(180deg, rgba(0, 160, 255, 0.30) 0%, rgba(24, 169, 255, 0.18) 100%)",
       "type": "color",
       "description": "for ptofile popup desktop (without gradient!)"
     },
@@ -5042,7 +5042,7 @@
       "description": "bg all tabs"
     },
     "bg all": {
-      "value": "#1F1F21",
+      "value": "#0A233F",
       "type": "color"
     }
   },
@@ -5404,7 +5404,7 @@
         "description": "bg for top bg in ingame"
       },
       "thumb": {
-        "value": "#202020",
+        "value": "#103157",
         "type": "color",
         "description": "bg for show more thumb/zagluska fo game thumb"
       },
