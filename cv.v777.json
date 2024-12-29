@@ -1801,7 +1801,7 @@
         "description": "Background color for outside 1click zone "
       },
       "accent-on-light": {
-        "value": "#E38501",
+        "value": "#39B3D8",
         "type": "color",
         "description": "use as accent on light bg - filter in cashdesk"
       },
@@ -1821,12 +1821,12 @@
         "description": "use for hover state in calendar, cashbox filter"
       },
       "cashbox": {
-        "value": "#2D2D2D",
+        "value": "#103C6A",
         "type": "color",
         "description": "use for transaction with bg"
       },
       "cashbox-additional": {
-        "value": "#232323",
+        "value": "#0C2F55",
         "type": "color",
         "description": "use for transaction with bg (detailed)"
       },
