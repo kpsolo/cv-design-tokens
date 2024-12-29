@@ -2112,7 +2112,7 @@
           "description": "bg for winnig now"
         },
         "5": {
-          "value": "linear-gradient(180deg, #0D0D0D 0%, #1E1D1F 100%)",
+          "value": "linear-gradient(180deg, #113D68 0%, #0A355F 100%)",
           "type": "color",
           "description": "bg for bonus balance card"
         },
