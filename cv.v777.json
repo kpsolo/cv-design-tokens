@@ -2342,7 +2342,7 @@
       "description": "Darkest (black)"
     },
     "success": {
-      "value": "#1E7810",
+      "value": "#218C10",
       "type": "color",
       "description": "Indication of success transactions"
     },
