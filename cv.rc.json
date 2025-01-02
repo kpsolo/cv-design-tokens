@@ -5656,17 +5656,8 @@
         "description": "bg for event calendar widget"
       },
       "main-additional": {
-        "value": "#8DADFF",
+        "value": "#000000",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.3",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "bg for calendar button"
       },
       "primary": {
