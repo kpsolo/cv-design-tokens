@@ -1912,7 +1912,7 @@
         "description": "for static table headet"
       },
       "2": {
-        "value": "{bg.social-icons}",
+        "value": "#366190",
         "type": "color",
         "description": "social icons bg in desktop header/ mob registration/gamepage left sidebar"
       },
