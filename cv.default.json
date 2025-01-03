@@ -5852,7 +5852,7 @@
   },
   "tech": {
     "bg": {
-      "value": "#1F1F20",
+      "value": "#030B1D",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     }
