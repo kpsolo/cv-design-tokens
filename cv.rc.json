@@ -4890,7 +4890,7 @@
       "description": "Color for status and %"
     },
     "separator": {
-      "value": "rgba(255, 255, 255, 0.08)",
+      "value": "#000000",
       "type": "color",
       "description": "bg color for separator line"
     }
