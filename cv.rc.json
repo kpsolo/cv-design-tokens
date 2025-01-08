@@ -3229,7 +3229,7 @@
         "description": "Color of counter for desktop tournament widget"
       },
       "tournament-counter-bg": {
-        "value": "#111112",
+        "value": "linear-gradient(180deg, #111112 0%, #171719 100%)",
         "type": "color",
         "description": "bg for tournament counter on desktop widget"
       }
