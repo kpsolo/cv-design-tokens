@@ -730,7 +730,7 @@
           "y": "0",
           "blur": "8",
           "spread": "0",
-          "color": "rgba(255, 206, 33, 0.40)",
+          "color": "#B37A2D",
           "type": "dropShadow"
         },
         {
@@ -738,7 +738,7 @@
           "y": "0",
           "blur": "4",
           "spread": "0",
-          "color": "rgba(255, 206, 33, 0.80)",
+          "color": "#B9781F",
           "type": "dropShadow"
         }
       ],
