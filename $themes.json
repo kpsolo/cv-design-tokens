@@ -3005,7 +3005,6 @@
     "$figmaCollectionId": "VariableCollectionId:50279:3247341",
     "$figmaModeId": "50279:0",
     "$figmaVariableReferences": {
-      "border.popup-additional": "f76a0c46b994c75aa86d0c25a5036e5d30a9cfde",
       "border.nav": "7308bc784eca06a48f317ac1c0eb887946a1738b",
       "border.nav-additional": "d442e35fe7b4b0b1558bbb22aa7b7199d04fbc27",
       "base spacing.smallest": "b806cad1835718e3b1431da0fc17a1d02e6ffb4a",
@@ -3549,6 +3548,7 @@
       "calendar.bg.tertiary": "2172392fd8fafbfaf506c8a203955aec98b8f03a",
       "calendar.bg.additional": "37599321d70e541ab08c39b6c53c84fb41f577aa",
       "calendar.bg.extra": "0a2a7115b5b0a4becca5d386882a0f420d0ceaf4",
+      "calendar.border.main": "0ea6a39329d099d47e660d0a0405fb20d37d08c0",
       "calendar.border.tertiaty": "9299d7a2701058e0162cca315c8edd6ce02f54aa",
       "calendar.border.additional": "a8ec56cbfa71e30c2d01c4d3da95dcdbd3cbbc54",
       "calendar.content.primary": "ec03f6454f7d4046303341d246cb22e36d9a86f0",
