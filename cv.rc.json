@@ -5647,7 +5647,7 @@
         "description": "bg for event calendar widget"
       },
       "main-additional": {
-        "value": "#000000",
+        "value": "rgba(252, 221, 179, 0.10)",
         "type": "color",
         "description": "bg for calendar button"
       },
