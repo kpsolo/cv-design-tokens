@@ -5766,7 +5766,7 @@
         "description": "date/chips default"
       },
       "additional": {
-        "value": "#fff",
+        "value": "#000",
         "type": "color",
         "description": "date selected"
       },
