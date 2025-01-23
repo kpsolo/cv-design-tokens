@@ -2053,7 +2053,7 @@
         "description": "Use for game page background on right filter sidebar (under icons)"
       },
       "light-1": {
-        "value": "#272729",
+        "value": "#202022",
         "type": "color",
         "description": "bg in tournament/lottery under players"
       },
