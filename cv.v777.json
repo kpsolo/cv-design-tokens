@@ -5550,17 +5550,17 @@
         "description": "use for bullets bg"
       },
       "additioinal": {
-        "value": "#222222",
+        "value": "#10538A",
         "type": "color",
         "description": "use for dropdown"
       },
       "overlay-additional": {
-        "value": "linear-gradient(270deg, #1E1E1E 0%, rgba(30, 30, 30, 0.34) 48.5%, rgba(30, 30, 30, 0.00) 100%)",
+        "value": "linear-gradient(270deg, #0B3453 0%, rgba(12, 58, 92, 0.34) 48.5%, rgba(12, 58, 92, 0.00) 100%)",
         "type": "color",
         "description": "use for bg under prizes"
       },
       "overlay-gradient": {
-        "value": "linear-gradient(180deg, rgba(29, 29, 30, 0.00) 0%, rgba(29, 29, 30, 0.00) 67%, #1D1D1E 100%)",
+        "value": "linear-gradient(180deg, rgba(12, 49, 87, 0.00) 0%, rgba(12, 49, 87, 0.00) 67%, #0C3157 100%)",
         "type": "color",
         "description": "use as overlay under tabs"
       }
