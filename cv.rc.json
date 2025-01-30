@@ -4502,7 +4502,7 @@
         "description": "use for games navigation in mob "
       },
       "additional": {
-        "value": "{bg.other.categories-nav}",
+        "value": "#1C1C1E",
         "type": "color",
         "description": "use for search bg in categories"
       },
