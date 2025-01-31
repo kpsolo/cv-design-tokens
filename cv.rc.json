@@ -4433,6 +4433,14 @@
         "value": "linear-gradient(180deg, rgba(58, 71, 138, 0.20) 0%, rgba(3, 17, 45, 0.20) 100%)",
         "type": "color",
         "description": " main bg in 1st screen"
+      },
+      "popup-2": {
+        "value": "linear-gradient(180deg, #3B135B 0%, #3B135B 100%)",
+        "type": "color"
+      },
+      "popup-1": {
+        "value": "linear-gradient(180deg, #132464 0%, #121B52 100%)",
+        "type": "color"
       }
     },
     "welcome-bonus": {
@@ -4461,6 +4469,13 @@
         "value": "linear-gradient(90deg, rgba(255, 193, 111, 0.30) 3.28%, rgba(199, 148, 74, 0.20) 91.21%)",
         "type": "color",
         "description": "use for bg for bonus widget in desktop header"
+      }
+    },
+    "achivements": {
+      "popup-1": {
+        "value": "linear-gradient(180deg, #3B135B 0%, #3B135B 100%)",
+        "type": "color",
+        "description": "poopup bg"
       }
     }
   },
