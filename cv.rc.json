@@ -5414,7 +5414,7 @@
         "type": "color"
       },
       "additional": {
-        "value": "{bg.overlay.light-1}",
+        "value": "#202022",
         "type": "color",
         "description": "bg for progressbar"
       },
