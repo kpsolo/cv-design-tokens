@@ -5099,7 +5099,7 @@
         "description": "use as bg for popups and notification"
       },
       "2": {
-        "value": "rgba(50, 50, 50, 0.20)",
+        "value": "#124168",
         "type": "color",
         "description": "use for denomination widget bg"
       },
@@ -5214,26 +5214,17 @@
     },
     "tip": {
       "hover": {
-        "value": "#ffffff",
+        "value": "#146C97",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use as bg for denominations bet item hover state"
       },
       "active": {
-        "value": "#282828",
+        "value": "#10597D",
         "type": "color",
         "description": "use as bg for denominations bet item active state"
       },
       "border": {
-        "value": "linear-gradient(180deg, rgba(76, 76, 76, 0.30) 0%, #000 100%)",
+        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0.06) 100%)",
         "type": "color",
         "description": "use as bborder for denominations bet item active state"
       },
