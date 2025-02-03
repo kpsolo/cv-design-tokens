@@ -1912,7 +1912,7 @@
         "description": "for static table headet"
       },
       "2": {
-        "value": "#366190",
+        "value": "rgba(198, 210, 223, 0.30)",
         "type": "color",
         "description": "social icons bg in desktop header/ mob registration/gamepage left sidebar"
       },
@@ -2270,7 +2270,7 @@
       "description": "use for bg blur in pagination"
     },
     "blur-elements": {
-      "value": "12px",
+      "value": "24px",
       "type": "dimension",
       "description": "use as blur for calendar bg "
     },
