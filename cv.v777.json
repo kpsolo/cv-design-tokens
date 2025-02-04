@@ -4296,12 +4296,12 @@
           "description": "use as stroke in first deposit widget"
         },
         "main-last": {
-          "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
+          "value": "linear-gradient(158deg, #4B9BBC 40.81%, rgba(75, 155, 188, 0.30) 49.6%, #4B9BBC 56.51%)",
           "type": "color",
           "description": "use as stroke in last achievements cards "
         },
         "main-progress": {
-          "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
+          "value": "linear-gradient(158deg, #90316D 26.45%, rgba(144, 49, 109, 0.53) 48.99%, #90316D 66.69%)",
           "type": "color",
           "description": "use as stroke in progress achievements cards "
         }
@@ -4405,19 +4405,19 @@
           "description": "for empty last card"
         },
         "4": {
-          "value": "linear-gradient(90deg, rgba(23, 33, 87, 0.70) 0.31%, rgba(23, 33, 87, 0.00) 98.6%)",
+          "value": "linear-gradient(90deg, rgba(144, 49, 109, 0.70) 0.31%, rgba(144, 49, 109, 0.00) 98.6%)",
           "type": "color",
           "description": "for empty progress cards"
         }
       },
       "card": {
         "1": {
-          "value": "linear-gradient(148deg, rgba(117, 44, 194, 0.54) 20.63%, rgba(117, 44, 194, 0.20) 40.38%, rgba(117, 44, 194, 0.10) 54.49%)",
+          "value": "linear-gradient(132deg, rgba(144, 49, 109, 0.64) 15.12%, rgba(144, 49, 109, 0.36) 39.2%, rgba(144, 49, 109, 0.20) 57.37%)",
           "type": "color",
           "description": "in progress cards bg in main screen"
         },
         "2": {
-          "value": "linear-gradient(148deg, rgba(18, 70, 172, 0.50) 15.68%, rgba(18, 70, 172, 0.20) 38.76%, rgba(12, 46, 114, 0.10) 92.79%)",
+          "value": "linear-gradient(133deg, rgba(101, 222, 203, 0.50) 19.99%, rgba(101, 222, 203, 0.26) 42.91%, rgba(101, 222, 203, 0.10) 95.27%)",
           "type": "color",
           "description": "last cards bg in main screen"
         },
