@@ -2067,7 +2067,7 @@
         "description": "use as additional ui overlay gradient"
       },
       "additional": {
-        "value": "linear-gradient(124deg, rgba(0, 221, 255, 0.70) 47.58%, rgba(255, 255, 255, 0.00) 84.85%)",
+        "value": "linear-gradient(124deg, rgba(255, 34, 164, 0.80) 47.9%, rgba(255, 34, 164, 0.00) 80.28%)",
         "type": "color",
         "description": "use as additional ui overlay gradient"
       },
@@ -4457,7 +4457,7 @@
         "description": " main bg in 1st screen"
       },
       "popup-2": {
-        "value": "linear-gradient(180deg, #3B135B 0%, #3B135B 100%)",
+        "value": "linear-gradient(180deg, #5B1336 0%, #0A2849 118.63%)",
         "type": "color"
       },
       "popup-1": {
