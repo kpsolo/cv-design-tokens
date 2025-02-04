@@ -4400,8 +4400,17 @@
           "description": "for bg under 1st desposit in second state"
         },
         "3": {
-          "value": "#09245A",
+          "value": "#286475",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.6",
+                "space": "srgb"
+              }
+            }
+          },
           "description": "for empty last card"
         },
         "4": {
