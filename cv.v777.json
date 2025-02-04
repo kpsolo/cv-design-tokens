@@ -1912,7 +1912,7 @@
         "description": "for static table headet"
       },
       "2": {
-        "value": "rgba(198, 210, 223, 0.30)",
+        "value": "rgba(198, 210, 223, 0.10)",
         "type": "color",
         "description": "social icons bg in desktop header/ mob registration/gamepage left sidebar"
       },
@@ -4286,7 +4286,7 @@
           "description": "separatoe in achievements card (for progress)"
         },
         "main": {
-          "value": "linear-gradient(180deg, rgba(41, 147, 192, 0.80) 0%, rgba(41, 147, 192, 0.30) 100%)",
+          "value": "linear-gradient(180deg, rgba(41, 147, 192, 0.80) 0%, rgba(41, 147, 192, 0.00) 100%)",
           "type": "color",
           "description": "use as stroke in last/progress achievements cards and info card"
         },
@@ -4372,18 +4372,27 @@
       },
       "overlay": {
         "1": {
-          "value": "rgba(111, 111, 111, 0.10)",
-          "type": "color",
-          "description": "for bg under icons in achievement info block"
-        },
-        "2": {
-          "value": "#38437C",
+          "value": "#2581A9",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
                 "value": "0.2",
+                "space": "srgb"
+              }
+            }
+          },
+          "description": "for bg under icons in achievement info block"
+        },
+        "2": {
+          "value": "#1572A4",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.3",
                 "space": "srgb"
               }
             }
@@ -4443,17 +4452,8 @@
         }
       },
       "main": {
-        "value": "#3C80A2",
+        "value": "linear-gradient(180deg, rgba(60, 128, 162, 0.30) 0%, rgba(10, 40, 73, 0.30) 100%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.3",
-              "space": "srgb"
-            }
-          }
-        },
         "description": " main bg in 1st screen"
       },
       "popup-2": {
@@ -4495,7 +4495,7 @@
     },
     "achivements": {
       "popup-1": {
-        "value": "linear-gradient(180deg, #3B135B 0%, #3B135B 100%)",
+        "value": "linear-gradient(180deg, #318185 0%, #0A2849 87.78%)",
         "type": "color",
         "description": "poopup bg"
       }
