@@ -5144,8 +5144,17 @@
         "description": "use as bg for popups and notification"
       },
       "2": {
-        "value": "#124168",
+        "value": "#062538",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use for denomination widget bg"
       },
       "3": {
