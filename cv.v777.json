@@ -4436,7 +4436,7 @@
           "description": "card first deposit bg in main screen"
         },
         "4": {
-          "value": "linear-gradient(133deg, rgba(75, 188, 171, 0.50) 17.94%, rgba(75, 188, 171, 0.26) 42.42%, rgba(75, 188, 171, 0.00) 98.37%)",
+          "value": "linear-gradient(133deg, rgba(75, 140, 130, 0.50) 18.98%, rgba(75, 188, 171, 0.26) 42.67%, rgba(75, 188, 171, 0.00) 96.79%)",
           "type": "color",
           "description": "bg for achievements cards"
         },
