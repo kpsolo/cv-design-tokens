@@ -2342,7 +2342,7 @@
       "description": "Darkest (black)"
     },
     "success": {
-      "value": "#218C10",
+      "value": "#25B00E",
       "type": "color",
       "description": "Indication of success transactions"
     },
@@ -4257,28 +4257,28 @@
     "achievements": {
       "border": {
         "activity": {
-          "value": "linear-gradient(158deg, #144DC0 26.45%, rgba(20, 77, 192, 0.30) 48.99%, #144DC0 66.69%)",
+          "value": "linear-gradient(158deg, #4B9BBC 38.91%, rgba(75, 155, 188, 0.30) 49.52%, #4B9BBC 57.86%)",
           "type": "color",
           "description": "border for activity card"
         },
         "win": {
-          "value": "linear-gradient(158deg, #8514E8 15.68%, rgba(122, 20, 213, 0.43) 48.53%, #6C12BC 74.32%)",
+          "value": "linear-gradient(158deg, #90316D 21.57%, rgba(144, 49, 109, 0.53) 48.78%, #90316D 70.15%)",
           "type": "color",
           "description": "border for win card"
         },
         "achievements": {
-          "value": "linear-gradient(148deg, rgba(32, 109, 174, 0.40) 15.68%, rgba(32, 109, 174, 0.20) 38.76%, rgba(32, 109, 174, 0.00) 55.25%)",
+          "value": "linear-gradient(148deg, #4BBCAB 24.87%, rgba(75, 188, 171, 0.60) 41.77%, rgba(75, 188, 171, 0.20) 53.84%)",
           "type": "color",
           "description": "border for win card"
         },
         "achievements-additional": {
-          "value": "#1E619A",
+          "value": "#4BBCAB",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.4",
+                "value": "0.6",
                 "space": "srgb"
               }
             }
@@ -4308,13 +4308,31 @@
       },
       "gradient": {
         "activity": {
-          "value": "rgba(21, 78, 192, 0.30)",
+          "value": "#418AAF",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.5",
+                "space": "lch"
+              }
+            }
+          },
           "description": "radial for activity cards zone"
         },
         "win": {
-          "value": "rgba(235, 13, 255, 0.16)",
+          "value": "#702F67",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.6",
+                "space": "lch"
+              }
+            }
+          },
           "description": "gradient for win cards zone"
         },
         "achievements": {
@@ -4400,17 +4418,17 @@
           "description": "card first deposit bg in main screen"
         },
         "4": {
-          "value": "linear-gradient(158deg, #1E619A 21.57%, rgba(30, 97, 154, 0.43) 48.78%, #1B5484 70.15%)",
+          "value": "linear-gradient(133deg, rgba(75, 188, 171, 0.50) 17.94%, rgba(75, 188, 171, 0.26) 42.42%, rgba(75, 188, 171, 0.00) 98.37%)",
           "type": "color",
           "description": "bg for achievements cards"
         },
         "5": {
-          "value": "linear-gradient(133deg, rgba(21, 78, 192, 0.40) 12.17%, rgba(21, 78, 192, 0.16) 41.06%, rgba(21, 78, 192, 0.00) 63.64%)",
+          "value": "linear-gradient(133deg, rgba(75, 155, 188, 0.60) 16.86%, rgba(75, 155, 188, 0.26) 42.16%, rgba(75, 155, 188, 0.00) 61.95%)",
           "type": "color",
           "description": "bg for activity cards"
         },
         "6": {
-          "value": "linear-gradient(132deg, rgba(140, 49, 144, 0.54) 11.58%, rgba(122, 42, 126, 0.16) 38.1%, rgba(138, 52, 143, 0.00) 58.12%)",
+          "value": "linear-gradient(132deg, rgba(144, 49, 109, 0.54) 13.39%, rgba(144, 49, 109, 0.16) 38.66%, rgba(144, 49, 109, 0.00) 57.74%)",
           "type": "color",
           "description": "bg for win cards"
         }
