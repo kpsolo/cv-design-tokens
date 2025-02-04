@@ -3302,7 +3302,7 @@
         "description": "pagination element in mainpage desktop - icon"
       },
       "border": {
-        "value": "rgba(94, 94, 94, 0.60)",
+        "value": "#94ACBF",
         "type": "color",
         "description": "pagination element in mainpage desktop - border"
       }
