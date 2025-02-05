@@ -5178,7 +5178,7 @@
         "description": "use for sectors bg (type3) - win sector - start"
       },
       "sector-1": {
-        "value": "radial-gradient(50% 50% at 50% 50%, #242424 0%, #252424 18.5%, #292929 29.66%, #2B2A2A 43.71%, #343434 100%)",
+        "value": "radial-gradient(50% 50% at 50% 50%, #E1DFDF 0%, #E7E5E5 100%)",
         "type": "color",
         "description": "use for sectors (not white)"
       },
