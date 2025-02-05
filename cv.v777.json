@@ -1870,7 +1870,7 @@
         "description": "bg.other.lootboxes-cof-selected"
       },
       "categories-nav": {
-        "value": "rgba(104, 146, 238, 0.08",
+        "value": "#123056",
         "type": "color",
         "description": "Background foe categories on desktop"
       },
