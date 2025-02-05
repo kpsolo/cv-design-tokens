@@ -5135,13 +5135,13 @@
         "description": "use as bg for popups and notification"
       },
       "2": {
-        "value": "#062538",
+        "value": "#124168",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.4",
+              "value": "0.6",
               "space": "srgb"
             }
           }
