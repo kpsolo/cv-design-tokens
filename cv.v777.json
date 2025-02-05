@@ -4534,12 +4534,12 @@
   "categories": {
     "bg": {
       "main": {
-        "value": "{bg.other.categories-nav}",
+        "value": "#13365A",
         "type": "color",
         "description": "use for games navigation in mob "
       },
       "additional": {
-        "value": "{bg.other.categories-nav}",
+        "value": "#13365A",
         "type": "color",
         "description": "use for search bg in categories"
       },
