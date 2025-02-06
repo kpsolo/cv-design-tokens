@@ -1974,12 +1974,21 @@
         "description": "bg under prize places in tournament/lottery"
       },
       "ghost-1": {
-        "value": "rgba(91, 91, 91, 0.10)",
+        "value": "#256EB1",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use for results inner tournament card"
       },
       "ghost-2": {
-        "value": "#00000000",
+        "value": "#03111D",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
