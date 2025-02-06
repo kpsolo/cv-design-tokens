@@ -3349,7 +3349,7 @@
       "description": "use for categories"
     },
     "tertiary": {
-      "value": "{base.light}",
+      "value": "{base.dark}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
