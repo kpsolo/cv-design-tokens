@@ -2067,7 +2067,7 @@
         "description": "use as additional ui overlay gradient"
       },
       "additional": {
-        "value": "transparent",
+        "value": "linear-gradient(124deg, rgba(0, 221, 255, 0.70) 46.88%, rgba(255, 255, 255, 0.00) 94.89%)",
         "type": "color",
         "description": "use as additional ui overlay gradient"
       },
