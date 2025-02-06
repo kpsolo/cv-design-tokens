@@ -1912,7 +1912,7 @@
         "description": "for static table headet"
       },
       "2": {
-        "value": "rgba(198, 210, 223, 0.10)",
+        "value": "rgba(198, 210, 223, 0.20)",
         "type": "color",
         "description": "social icons bg in desktop header/ mob registration/gamepage left sidebar"
       },
@@ -2404,7 +2404,7 @@
       "description": "text for live icon"
     },
     "timer-bg": {
-      "value": "linear-gradient(180deg, rgba(108, 164, 216, 0.81) 0%, rgba(92, 141, 187, 0.78) 31.25%, rgba(68, 123, 174, 0.85) 63.54%, rgba(82, 122, 160, 0.63) 100%)",
+      "value": "linear-gradient(180deg, #E82426 0%, #0988FF 100%)",
       "type": "color",
       "description": "bg for timer"
     },
