@@ -2997,7 +2997,10 @@
       "shadow.accent-extra": "S:5ac988fa0f572802dd72c071d143a55fbba224a6,",
       "shadow.button-secondary": "S:76741895efea898b108a3e2dd19021e5ce7c71a6,",
       "shadow.button-tertiary": "S:ca17997fe93d597d121cfb82132a128495289669,",
-      "shadow.nav-desktop": "S:a5661c0e300c9f75aa156b24bec3018a14724833,"
+      "shadow.nav-desktop": "S:a5661c0e300c9f75aa156b24bec3018a14724833,",
+      "special-blocks.achievements.popup-2": "S:2e209dbc5d37b448a8b7df520521d11a786927bb,",
+      "special-blocks.achievements.popup-1": "S:c39c106f8267dd3eb6c79ddb80c1c01b4edd0c31,",
+      "special-blocks.achivements.popup-1": "S:35b446232b07a236c0c0d8b88ff3d5760e41dda9,"
     },
     "selectedTokenSets": {
       "cv.v777": "enabled"
