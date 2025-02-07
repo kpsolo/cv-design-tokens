@@ -2148,7 +2148,7 @@
           "description": "select provider item"
         },
         "3": {
-          "value": "linear-gradient(180deg, rgba(23, 23, 25, 0.00) 0%, rgba(23, 23, 25, 0.80) 21.5%, #171719 100%)",
+          "value": "linear-gradient(180deg, rgba(15, 60, 94, 0.00) 0%, rgba(15, 60, 94, 0.80) 21.5%, #0F3C5E 100%)",
           "type": "color",
           "description": "main banner bottom overlay"
         }
