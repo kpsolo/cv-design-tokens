@@ -4400,13 +4400,13 @@
           "description": "last cards bg in main screen"
         },
         "3": {
-          "value": "#3A478A",
+          "value": "#DDA558",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.20",
+                "value": "0.15",
                 "space": "srgb"
               }
             }
