@@ -4462,11 +4462,11 @@
         "description": " main bg in 1st screen"
       },
       "popup-2": {
-        "value": "linear-gradient(180deg, #3B135B 0%, #3B135B 100%)",
+        "value": "linear-gradient(180deg, #5A524A 0%, #171005 92.74%)",
         "type": "color"
       },
       "popup-1": {
-        "value": "linear-gradient(180deg, #132464 0%, #121B52 100%)",
+        "value": "linear-gradient(180deg, #D0C9C8 0%, #1D1B1A 73.74%)",
         "type": "color"
       }
     },
@@ -4496,13 +4496,6 @@
         "value": "linear-gradient(90deg, rgba(255, 193, 111, 0.30) 3.28%, rgba(199, 148, 74, 0.20) 91.21%)",
         "type": "color",
         "description": "use for bg for bonus widget in desktop header"
-      }
-    },
-    "achivements": {
-      "popup-1": {
-        "value": "linear-gradient(180deg, #3B135B 0%, #3B135B 100%)",
-        "type": "color",
-        "description": "poopup bg"
       }
     }
   },
