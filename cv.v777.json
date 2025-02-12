@@ -13,7 +13,7 @@
     },
     "caption-extrasmall-strong": {
       "value": {
-        "fontFamily": "{font-family.additional}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.sm}",
         "fontSize": "{font-size.2}"
