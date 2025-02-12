@@ -650,7 +650,7 @@
           "y": "0",
           "blur": "4",
           "spread": "",
-          "color": "#2A8249",
+          "color": "#70DDFE",
           "type": "dropShadow"
         },
         {
@@ -658,7 +658,7 @@
           "y": "0",
           "blur": "8",
           "spread": "",
-          "color": "#2A8249",
+          "color": "#70DDFE",
           "type": "dropShadow"
         }
       ],
