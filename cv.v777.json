@@ -5120,7 +5120,7 @@
         "description": "use for text in denomination active buttons"
       },
       "sector-1": {
-        "value": "#ffff",
+        "value": "#030F1C",
         "type": "color"
       },
       "sector-2": {
