@@ -5692,6 +5692,20 @@
         "type": "color",
         "description": "bg for default dates calendar widget"
       },
+      "additional": {
+        "value": "#fff",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.32",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "bg for hover badge dates calendar widget"
+      },
       "secondary": {
         "value": "#fff",
         "type": "color",
@@ -5710,20 +5724,6 @@
           }
         },
         "description": "bg for hover dates calendar widget"
-      },
-      "additional": {
-        "value": "#fff",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.32",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "bg for hover badge dates calendar widget"
       },
       "extra": {
         "value": "#10588C",
