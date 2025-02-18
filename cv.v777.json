@@ -482,6 +482,26 @@
       },
       "type": "typography",
       "description": "Link text in strip widget on gamepage (under title)"
+    },
+    "body-1-additional": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography",
+      "description": "for bonus reg widget"
+    },
+    "body-1-stronger-additional": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography",
+      "description": "for bonus reg widget"
     }
   },
   "shadow": {

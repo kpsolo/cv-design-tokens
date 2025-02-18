@@ -90,6 +90,16 @@
       "type": "typography",
       "description": "Body"
     },
+    "body-1-additional": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography",
+      "description": "for bonus reg widget"
+    },
     "body-1-cross": {
       "value": {
         "fontFamily": "{font-family.main}",
@@ -109,6 +119,16 @@
         "fontSize": "{font-size.4}"
       },
       "type": "typography"
+    },
+    "body-1-stronger-additional": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography",
+      "description": "for bonus reg widget"
     },
     "body-1-strong": {
       "value": {
