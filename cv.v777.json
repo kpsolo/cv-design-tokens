@@ -1927,7 +1927,7 @@
     },
     "overlay": {
       "1": {
-        "value": "rgba(14, 83, 143, 0.40)",
+        "value": "#043C5D",
         "type": "color",
         "description": "for static table headet"
       },
@@ -1956,7 +1956,7 @@
         "description": "use for bg in cashbox transaction"
       },
       "5": {
-        "value": "{bg.tertiary}",
+        "value": "#0D5879",
         "type": "color",
         "description": "use for active bonus bg in registration popup"
       },
