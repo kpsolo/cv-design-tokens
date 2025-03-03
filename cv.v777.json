@@ -2485,7 +2485,7 @@
         "description": "Background for primary buttons"
       },
       "primary-hover": {
-        "value": "linear-gradient(180deg, #AA0E0E 0%, #F82424 100%)",
+        "value": "linear-gradient(180deg, #FF5151 0%, #BB1212 100%)",
         "type": "color",
         "description": "Background for primary buttons hover"
       },
@@ -2515,7 +2515,7 @@
         "description": "Background for secondary buttons"
       },
       "secondary-hover": {
-        "value": "linear-gradient(180deg, #236288 0%, #2281BA 100%)",
+        "value": "linear-gradient(180deg, #2281BA 0%, #236288 100%)",
         "type": "color",
         "description": "Background for secondary buttons hover"
       },
