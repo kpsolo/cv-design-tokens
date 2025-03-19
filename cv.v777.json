@@ -4481,7 +4481,7 @@
         "type": "color"
       },
       "popup-1": {
-        "value": "linear-gradient(180deg, #132464 0%, #121B52 100%)",
+        "value": "linear-gradient(180deg, #318185 0%, #0A2849 87.78%)",
         "type": "color"
       }
     },
@@ -4511,13 +4511,6 @@
         "value": "linear-gradient(90deg, #106893 3.28%, #173C6A 91.21%)",
         "type": "color",
         "description": "use for bg for bonus widget in desktop header"
-      }
-    },
-    "achivements": {
-      "popup-1": {
-        "value": "linear-gradient(180deg, #318185 0%, #0A2849 87.78%)",
-        "type": "color",
-        "description": "poopup bg"
       }
     }
   },
