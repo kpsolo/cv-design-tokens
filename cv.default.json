@@ -5688,7 +5688,7 @@
   "Padding": {
     "button": {
       "large-horizontal": {
-        "value": "16px",
+        "value": "12px",
         "type": "dimension",
         "description": "use for circle elements on primary bg"
       },
@@ -5703,7 +5703,7 @@
         "description": "use for x-small button horizontal padding"
       },
       "large-horizontal-additional": {
-        "value": "12px",
+        "value": "16px",
         "type": "dimension",
         "description": "use for large button horizontal padding - for buttons with icon"
       },
