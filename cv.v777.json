@@ -4354,7 +4354,7 @@
               "modify": {
                 "type": "alpha",
                 "value": "0.5",
-                "space": "lch"
+                "space": "srgb"
               }
             }
           },
