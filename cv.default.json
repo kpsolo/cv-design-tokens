@@ -482,6 +482,16 @@
       "type": "typography",
       "description": "Notification counter"
     },
+    "notification-bubble-extra": {
+      "value": {
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.xs}",
+        "fontSize": "{font-size.2}",
+        "fontFamily": "{font-family.additional}"
+      },
+      "type": "typography",
+      "description": "Notification counter bigger size"
+    },
     "title-extrasmall": {
       "value": {
         "fontFamily": "{font-family.accent}",
