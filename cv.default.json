@@ -1633,8 +1633,9 @@
       "type": "opacity"
     },
     "06": {
-      "value": "60%",
-      "type": "opacity"
+      "value": "70%",
+      "type": "opacity",
+      "description": "loyalty disabled state "
     },
     "00": {
       "value": "0",
