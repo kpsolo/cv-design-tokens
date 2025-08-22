@@ -1324,11 +1324,7 @@
         "description": "Border for card 1,2,3 in referral conditions"
       },
       "referral-card-line": {
-        "value": {
-          "color": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 255, 255, 0.30) 50.78%, rgba(255, 255, 255, 0.00) 100%)",
-          "width": "1px",
-          "style": "solid"
-        },
+        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 255, 255, 0.30) 50.78%, rgba(255, 255, 255, 0.00) 100%)",
         "type": "border",
         "description": "lines inside referral link card "
       }
