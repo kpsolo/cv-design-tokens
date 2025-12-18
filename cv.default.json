@@ -3612,23 +3612,32 @@
         "description": "use for text in error field hint"
       },
       "disabled-value": {
-        "value": "rgba(142,142,142,0.9)",
+        "value": "rgba(255,255,255,0.9)",
         "type": "color",
-        "description": "use for text in disabled field "
-      },
-      "disabled-label": {
-        "value": "rgba(186, 188, 194, 0.40)",
-        "type": "color",
-        "description": "use for text in confirmed field hint",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.6",
+              "value": "0.7",
               "space": "srgb"
             }
           }
-        }
+        },
+        "description": "use for text in disabled field "
+      },
+      "disabled-label": {
+        "value": "rgba(255,255,255,0.4)",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.7",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "use for text in confirmed field hint"
       }
     }
   },
