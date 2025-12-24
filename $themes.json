@@ -1814,7 +1814,9 @@
       "shadow.button-tertiary": "S:243e3da1876973b996586c50af527e409a9cd237,",
       "menu.bg.notification-border": "S:bc9f7f88dfebcfd3f315d9dd493349f1e1a2dd78,"
     },
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "cv.rc": "enabled"
+    },
     "$figmaCollectionId": "VariableCollectionId:48246:202805",
     "$figmaModeId": "48246:1",
     "$figmaVariableReferences": {
