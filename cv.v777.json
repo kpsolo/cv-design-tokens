@@ -2508,15 +2508,30 @@
         "type": "color",
         "description": "Background for primary buttons"
       },
+      "additioinal": {
+        "value": "{button.bg.primary}",
+        "type": "color",
+        "description": "Background for additioinal buttons ( cash button in header )"
+      },
       "primary-hover": {
         "value": "linear-gradient(180deg, #FF5151 0%, #BB1212 100%)",
         "type": "color",
         "description": "Background for primary buttons hover"
       },
+      "additional-hover": {
+        "value": "{button.bg.primary-hover}",
+        "type": "color",
+        "description": "Background for additional buttons ( cash buttons in header )"
+      },
       "primary-pressed": {
         "value": "linear-gradient(180deg, #AA0E0E 0%, #F82424 100%)",
         "type": "color",
         "description": "Background for primary pressed"
+      },
+      "additional-pressed": {
+        "value": "{button.bg.primary-pressed}",
+        "type": "color",
+        "description": "Background for additional buttons ( cash button in header )"
       },
       "primary-disabled-additional": {
         "value": "#F09595",
@@ -2527,6 +2542,11 @@
         "value": "#643B3B",
         "type": "color",
         "description": "Background for primary buttons disabled"
+      },
+      "additional-disabled": {
+        "value": "{button.bg.primary-disabled}",
+        "type": "color",
+        "description": "Background for additioinal buttons ( cash button in header )"
       },
       "tertiary-disabled": {
         "value": "{button.bg.secondary-disabled}",
