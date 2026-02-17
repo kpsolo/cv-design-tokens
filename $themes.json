@@ -3563,5 +3563,13 @@
       "calendar.content.main": "462ef3dc0368a4a4ff37c620141a4e936f542756",
       "tech.bg": "6dc2b719ab4e9e4d27e140b09edfef345e3f85bd"
     }
+  },
+  {
+    "id": "76678930afb49161d80c8241c50296ee8a80baa8",
+    "name": "vtars",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "vstars": "enabled"
+    }
   }
 ]
