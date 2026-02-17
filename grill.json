@@ -1442,8 +1442,17 @@
       "type": "color"
     },
     "popup-additional": {
-      "value": "{border.popup}",
+      "value": "#95ABF5",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.4",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "for ptofile popup desktop (without gradient!)"
     },
     "nav": {
