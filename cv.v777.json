@@ -2508,7 +2508,7 @@
         "type": "color",
         "description": "Background for primary buttons"
       },
-      "additioinal": {
+      "additional": {
         "value": "{button.bg.primary}",
         "type": "color",
         "description": "Background for additioinal buttons ( cash button in header )"
