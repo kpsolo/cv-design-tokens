@@ -5578,7 +5578,7 @@
         "description": "use for lines in right sidebar"
       },
       "accent-additional": {
-        "value": "{text.title.additional}",
+        "value": "{text.title.accent}",
         "type": "color"
       },
       "hover": {
