@@ -4341,7 +4341,7 @@
           "description": "separatoe in achievements card (for progress)"
         },
         "main": {
-          "value": "linear-gradient(180deg, rgba(41, 147, 192, 0.80) 0%, rgba(41, 147, 192, 0.00) 100%)",
+          "value": "linear-gradient(180deg, rgba(41, 147, 192, 0.80) 0%, rgba(41, 147, 192, 0.40) 100%)",
           "type": "color",
           "description": "use as stroke in last/progress achievements cards and info card"
         },
