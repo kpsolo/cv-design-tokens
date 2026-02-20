@@ -4521,7 +4521,7 @@
         "description": " main bg in 1st screen"
       },
       "popup-2": {
-        "value": "linear-gradient(180deg, #5B1336 0%, #0A2849 118.63%)",
+        "value": "linear-gradient(180deg, #5B1336 0%, #0A2849 100%)",
         "type": "color"
       },
       "popup-1": {
