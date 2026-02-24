@@ -1674,7 +1674,7 @@
       "description": "bg for menu, bottom sheets,dropdown"
     },
     "social-icons": {
-      "value": "#292F53",
+      "value": "transparent",
       "type": "color",
       "description": "use for bg under social icons in mob menu"
     },
@@ -2287,17 +2287,8 @@
       "description": "use for bottom block in profile "
     },
     "social-icons-additional": {
-      "value": "{bg.social-icons}",
+      "value": "#292F53",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "lighten",
-            "value": "0.1",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "use for bg under social icons in mob menu - hover state"
     }
   },
