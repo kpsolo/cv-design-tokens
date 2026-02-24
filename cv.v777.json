@@ -2136,7 +2136,7 @@
           "description": "use as hightlights for small ui elements"
         },
         "extra": {
-          "value": "radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0.07) 0%, rgba(255, 255, 255, 0.00) 100%)",
+          "value": "{bg.gradients.additional}",
           "type": "color",
           "description": "use as hightlights for small ui elements"
         }
