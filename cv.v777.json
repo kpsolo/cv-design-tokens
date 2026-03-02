@@ -3974,7 +3974,7 @@
       "type": "color"
     },
     "amount-jackpot": {
-      "value": "#FFFFFF",
+      "value": "linear-gradient(180deg, #238CEC 0%, #FFF 73.25%)",
       "type": "color"
     },
     "secret-mirror-title": {
