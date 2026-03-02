@@ -3977,7 +3977,7 @@
       "description": "Border-color for jaclpot amount"
     },
     "jackpot-widget-bg": {
-      "value": "rgba(12, 45, 69, 0.40)",
+      "value": "{bg.other.sidebar-desktop}",
       "type": "color",
       "description": "Background for jackpot widget"
     },
