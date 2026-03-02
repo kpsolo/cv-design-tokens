@@ -5355,8 +5355,9 @@
     },
     "border": {
       "main": {
-        "value": "linear-gradient(180deg, #B1B5BB 0%, #686E77 100%)",
-        "type": "color"
+        "value": "#24242C",
+        "type": "color",
+        "description": "lines for sectors"
       },
       "main-additional": {
         "value": "#000000",
