@@ -4132,9 +4132,9 @@
       "description": "Amount of prize on jackpot page"
     },
     "jackpot-line": {
-      "value": "transparent",
+      "value": "{bg.gradients.extra}",
       "type": "color",
-      "description": "Color for jackpot widget separate line"
+      "description": "Color for jackpot widget highlight"
     },
     "jackpot-amount-desktop": {
       "value": {
