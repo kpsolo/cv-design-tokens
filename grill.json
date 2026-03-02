@@ -4002,7 +4002,7 @@
       "description": "Border-color for jaclpot amount"
     },
     "jackpot-widget-bg": {
-      "value": "linear-gradient(168deg, rgba(36, 36, 44, 0.40) 14.02%, rgba(36, 36, 44, 0.40) 38.4%, rgba(36, 36, 44, 0.40) 87.15%)",
+      "value": "{bg.other.sidebar-desktop}",
       "type": "color",
       "description": "Background for jackpot widget"
     },
