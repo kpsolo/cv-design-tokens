@@ -4131,9 +4131,9 @@
       "description": "Amount of prize on jackpot page"
     },
     "jackpot-line": {
-      "value": "radial-gradient(50% 50% at 50% 50%, #27FFA4 0%, rgba(45, 216, 144, 0.39) 100%)",
+      "value": "linear-gradient(124deg, #678CCA 58.33%, rgba(144, 182, 246, 0.00) 83.89%)",
       "type": "color",
-      "description": "Color for jackpot widget separate line"
+      "description": "Color for jackpot widget highlight"
     },
     "jackpot-amount-desktop": {
       "value": {
