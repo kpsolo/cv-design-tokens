@@ -5376,7 +5376,7 @@
     },
     "border": {
       "main": {
-        "value": "linear-gradient(92deg, #CE994F 1.93%, #F0B565 25.93%, #EDB464 47.54%, #F0B565 70.35%, #CE994F 93.15%)",
+        "value": "transparent",
         "type": "color"
       },
       "main-additional": {
