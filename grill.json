@@ -3983,17 +3983,8 @@
       "description": "Color of text and icons for custom dropdown"
     },
     "jackpot-border": {
-      "value": "{base.accent-primary}",
+      "value": "linear-gradient(100deg, rgba(149, 171, 245, 0.40) 24.48%, rgba(180, 91, 238, 0.40) 86.76%)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.3",
-            "space": "lch"
-          }
-        }
-      },
       "description": "Border-color for jackpot widgets"
     },
     "jackpot-border-2": {
