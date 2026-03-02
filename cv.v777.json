@@ -4197,7 +4197,7 @@
       "description": "For bg on filter dropdown and language dropdown for desktop hover state"
     },
     "jackpot-sum": {
-      "value": "{text.accent-additional}",
+      "value": "#fff",
       "type": "color",
       "description": "for jackpot sun in jackpot page"
     },
