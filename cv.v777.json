@@ -1791,7 +1791,7 @@
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
       "cashbox-bonus": {
-        "value": "{bg.technical}",
+        "value": "#03223E",
         "type": "color",
         "description": "for cashbox bonus popup"
       },
