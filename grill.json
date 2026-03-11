@@ -3650,7 +3650,7 @@
       "description": "Border width for provider and category navigation"
     },
     "button": {
-      "value": "2px",
+      "value": "1px",
       "type": "borderWidth",
       "description": "Border width for buttons"
     },
