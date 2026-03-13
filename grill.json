@@ -2943,7 +2943,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.06",
+              "value": "0.08",
               "space": "srgb"
             }
           }
