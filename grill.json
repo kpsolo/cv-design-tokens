@@ -1670,6 +1670,10 @@
     "02": {
       "value": "20%",
       "type": "opacity"
+    },
+    "loyalty": {
+      "value": "100%",
+      "type": "opacity"
     }
   },
   "bg": {
