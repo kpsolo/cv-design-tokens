@@ -3389,17 +3389,8 @@
       "description": "use for categories"
     },
     "tertiary": {
-      "value": "{base.accent-light}",
+      "value": "rgba(177, 192, 220, 0.80)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.8",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "icons in inputs (registration, profile)"
     },
     "accent": {
