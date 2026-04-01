@@ -4327,7 +4327,7 @@
           "description": "separatoe in achievements card (for progress)"
         },
         "main": {
-          "value": "#1A1E39",
+          "value": "#3A4486",
           "type": "color",
           "description": "use as stroke in last/progress achievements cards and info card"
         },
