@@ -1927,7 +1927,7 @@
     },
     "overlay": {
       "1": {
-        "value": "#212648",
+        "value": "#2F3662",
         "type": "color",
         "description": "for static table headet"
       },
