@@ -1952,13 +1952,13 @@
     },
     "overlay": {
       "1": {
-        "value": "{text.content}",
+        "value": "#D9E3FF",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.05",
+              "value": "0.08",
               "space": "srgb"
             }
           }
