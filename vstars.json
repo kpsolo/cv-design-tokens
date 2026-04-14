@@ -1900,7 +1900,7 @@
         "description": "Bg for background popup on strip desktop"
       },
       "footer-app": {
-        "value": "{bg.social-icons}",
+        "value": "#292F53",
         "type": "color",
         "description": "bg for app button in footer"
       },
