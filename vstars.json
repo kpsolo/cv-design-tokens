@@ -3192,17 +3192,8 @@
         "description": "Background for payment dropdown element"
       },
       "bg-social-additional": {
-        "value": "{small-elements.footer.bg-social}",
+        "value": "#292F53",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for social icons bg hover State "
       }
     },
