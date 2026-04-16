@@ -3709,7 +3709,7 @@
       "description": "use for bottom tapbar main button"
     },
     "nav": {
-      "value": "48",
+      "value": "56",
       "type": "sizing",
       "description": "use for top navbar items"
     },
