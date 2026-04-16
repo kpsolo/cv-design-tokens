@@ -2281,7 +2281,7 @@
         "description": "use on message page under bottom link "
       },
       "7-additional": {
-        "value": "linear-gradient(270deg, rgba(16, 44, 79, 0.00) 0%, #102C4F 100%)",
+        "value": "linear-gradient(270deg, #102C4F 0%, rgba(16, 44, 79, 0.00) 100%)",
         "type": "color",
         "description": "fade on search game dropdown\n"
       },
