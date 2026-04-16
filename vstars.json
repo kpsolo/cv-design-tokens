@@ -5249,17 +5249,8 @@
         "description": "use as bg for denominations bet item hover state"
       },
       "active": {
-        "value": "#6892EE",
+        "value": "rgba(104, 146, 238, 0.20)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use as bg for denominations bet item active state"
       },
       "inactive": {
