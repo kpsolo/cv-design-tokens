@@ -2499,7 +2499,7 @@
         "description": "Background for primary pressed"
       },
       "primary-disabled-additional": {
-        "value": "#009FE6",
+        "value": "{button.bg.primary-disabled}",
         "type": "color",
         "description": "Background for primary disabled button for lighgt bg"
       },
