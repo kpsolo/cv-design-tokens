@@ -2504,7 +2504,7 @@
         "description": "Background for primary disabled button for lighgt bg"
       },
       "primary-disabled": {
-        "value": "#009FE6",
+        "value": "rgba(37, 102, 131, 0.60)",
         "type": "color",
         "description": "Background for primary buttons disabled"
       },
@@ -2801,7 +2801,7 @@
         "description": "color on ghost buttons"
       },
       "primary-disabled": {
-        "value": "#ffffff80",
+        "value": "rgba(255, 255, 255, 0.40)",
         "type": "color",
         "description": "Text color on primary disabled button"
       },
