@@ -3028,7 +3028,7 @@
       "description": "border for progressbar in profile/menu mobile"
     },
     "progressbar": {
-      "value": "#1281B8",
+      "value": "{base.accent-primary}",
       "type": "color"
     },
     "progressbar-bg": {
