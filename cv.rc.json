@@ -3023,7 +3023,7 @@
       }
     },
     "progressbar-large": {
-      "value": "linear-gradient(180deg, #FFC16F 0%, #C7944A 100%)",
+      "value": "#F2B664",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
