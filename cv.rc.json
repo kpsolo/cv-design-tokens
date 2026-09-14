@@ -3023,7 +3023,7 @@
       }
     },
     "progressbar-large": {
-      "value": "#F2B664",
+      "value": "#D89437",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
