@@ -1683,9 +1683,9 @@
       "description": "use for bg under social icons in mob menu"
     },
     "widget-default": {
-      "value": "linear-gradient(131deg, #FFF 34.94%, #97BBFF 70.61%)",
+      "value": "#171B33",
       "type": "color",
-      "description": "quick deposite widget in cashbox page"
+      "description": "quick deposite widget in cashbox page / bg-progress bonus"
     },
     "top-surface-additional": {
       "value": "{base.light}",
