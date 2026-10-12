@@ -3417,7 +3417,7 @@
       "description": "use for categories"
     },
     "tertiary": {
-      "value": "#7A93A5",
+      "value": "#0D2D45",
       "type": "color",
       "description": "icons in inputs (registration, profile)"
     },
