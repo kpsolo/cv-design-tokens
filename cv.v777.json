@@ -2033,7 +2033,7 @@
             }
           }
         },
-        "description": "overlay for desktop poppups"
+        "description": "overlay for popups/ modal windows"
       },
       "slider": {
         "value": "#00000000",
