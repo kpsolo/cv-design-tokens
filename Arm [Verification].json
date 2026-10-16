@@ -84,7 +84,7 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.1}",
+        "lineHeight": "{line-height.2}",
         "fontSize": "{font-size.4}"
       },
       "type": "typography",
@@ -3784,11 +3784,11 @@
   },
   "font-family": {
     "main": {
-      "value": "Mulish",
+      "value": "Roboto",
       "type": "fontFamilies"
     },
     "accent": {
-      "value": "Mulish",
+      "value": "Roboto",
       "type": "fontFamilies"
     },
     "additional": {
@@ -4732,7 +4732,7 @@
       "description": "(delete?)"
     },
     "content": {
-      "value": "#D8D8D8",
+      "value": "#ADB2C1",
       "type": "color",
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
@@ -4861,7 +4861,7 @@
     },
     "title": {
       "main": {
-        "value": "#F4F4F4",
+        "value": "#FFFFFF",
         "type": "color",
         "description": "for main headers"
       },
