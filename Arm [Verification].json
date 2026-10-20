@@ -2399,7 +2399,7 @@
       "description": "Darkest (black)"
     },
     "success": {
-      "value": "#25B00E",
+      "value": "#008E00",
       "type": "color",
       "description": "Indication of success transactions"
     },
@@ -2409,7 +2409,7 @@
       "description": "main color for brand bgs"
     },
     "error": {
-      "value": "#D60715",
+      "value": "#DB0101",
       "type": "color",
       "description": "Indication of unsuccess transactions"
     },
@@ -2434,7 +2434,7 @@
       "description": "Color for winners"
     },
     "primary": {
-      "value": "#F6F6F6",
+      "value": "#FFFFFF",
       "type": "color",
       "description": "for text,icons"
     },
