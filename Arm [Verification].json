@@ -1500,7 +1500,7 @@
   },
   "radius": {
     "card": {
-      "value": "10px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
     },
@@ -1584,7 +1584,7 @@
       "description": "Radius for select (0)"
     },
     "small-tips": {
-      "value": "16px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for small elements -  notification in menu item"
     },
@@ -1672,7 +1672,7 @@
       "description": "for set by admin.. (card of collection,deals, tournament, lottery,news)"
     },
     "additional": {
-      "value": "#0C3A5C",
+      "value": "#1C283E",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
@@ -2223,7 +2223,7 @@
           "description": "DEV - 1st deposit card stroke, welcomeback popup border "
         },
         "main": {
-          "value": "linear-gradient(180deg, rgba(0, 160, 255, 0.30) 0%, rgba(24, 169, 255, 0.18) 100%)",
+          "value": "rgba( {base.accent-primary}, 0.1)",
           "type": "color",
           "description": "border for all cards - sidebar/main banner"
         },
@@ -2998,13 +2998,13 @@
         "description": "border color for info inside transaction/ separator for items in tables in static page"
       },
       "extra": {
-        "value": "{base.light}",
+        "value": "#B2E3FF",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.08",
+              "value": "1",
               "space": "srgb"
             }
           }
