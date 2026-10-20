@@ -1779,7 +1779,7 @@
       "description": "Gradient for bg"
     },
     "tertiary": {
-      "value": "#0D3158",
+      "value": "#001631",
       "type": "color",
       "description": "bg for element above primary/secondary bg (game empty thumb, player status)"
     },
@@ -1941,7 +1941,7 @@
     },
     "overlay": {
       "1": {
-        "value": "#054B74",
+        "value": "rgba( {base.primary}, 0.10)",
         "type": "color",
         "description": "for static table headet"
       },
@@ -2379,7 +2379,7 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#70DDFE",
+      "value": "#55BEF9",
       "type": "color",
       "description": "Background for accent elements"
     },
@@ -2404,7 +2404,7 @@
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#0A2849",
+      "value": "#000D26",
       "type": "color",
       "description": "main color for brand bgs"
     },
