@@ -1994,13 +1994,13 @@
         "description": "for stable in first deposite page"
       },
       "8": {
-        "value": "#fff",
+        "value": "#262e39",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.06",
+              "value": "0.8",
               "space": "srgb"
             }
           }
