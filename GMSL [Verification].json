@@ -2379,7 +2379,7 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#55BEF9",
+      "value": "#48D0FA",
       "type": "color",
       "description": "Background for accent elements"
     },
@@ -2399,12 +2399,12 @@
       "description": "Darkest (black)"
     },
     "success": {
-      "value": "#008E00",
+      "value": "#03B248",
       "type": "color",
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#000D26",
+      "value": "#000F1B",
       "type": "color",
       "description": "main color for brand bgs"
     },
@@ -2414,7 +2414,7 @@
       "description": "Indication of unsuccess transactions"
     },
     "warning": {
-      "value": "#ffc000",
+      "value": "#FDBB2C",
       "type": "color",
       "description": "Indication of warning"
     },
@@ -4732,7 +4732,7 @@
       "description": "(delete?)"
     },
     "content": {
-      "value": "#8DA1BD",
+      "value": "#8688A0",
       "type": "color",
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
