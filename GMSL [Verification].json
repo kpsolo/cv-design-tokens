@@ -1672,7 +1672,7 @@
       "description": "for set by admin.. (card of collection,deals, tournament, lottery,news)"
     },
     "additional": {
-      "value": "#1C283E",
+      "value": "#1D2C48",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
@@ -2409,12 +2409,12 @@
       "description": "main color for brand bgs"
     },
     "error": {
-      "value": "#DB0101",
+      "value": "#DA0203",
       "type": "color",
       "description": "Indication of unsuccess transactions"
     },
     "warning": {
-      "value": "#FDBB2C",
+      "value": "#FFC000",
       "type": "color",
       "description": "Indication of warning"
     },
@@ -4732,7 +4732,7 @@
       "description": "(delete?)"
     },
     "content": {
-      "value": "#8688A0",
+      "value": "#A2ADC1",
       "type": "color",
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
