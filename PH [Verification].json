@@ -4708,7 +4708,7 @@
       "description": "use for accent text in welcome popup"
     },
     "primary": {
-      "value": "{base.primary}",
+      "value": "#FFF7DA",
       "type": "color",
       "description": "for titles on images and cards (tournament,lottery,news)"
     },
