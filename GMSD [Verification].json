@@ -2409,12 +2409,12 @@
       "description": "main color for brand bgs"
     },
     "error": {
-      "value": "#DA0203",
+      "value": "#D0021B",
       "type": "color",
       "description": "Indication of unsuccess transactions"
     },
     "warning": {
-      "value": "#FFC000",
+      "value": "#F5C142",
       "type": "color",
       "description": "Indication of warning"
     },
@@ -4732,7 +4732,7 @@
       "description": "(delete?)"
     },
     "content": {
-      "value": "#A2ADC1",
+      "value": "#D1D1D1",
       "type": "color",
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
