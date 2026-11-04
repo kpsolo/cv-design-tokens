@@ -2399,7 +2399,7 @@
       "description": "Darkest (black)"
     },
     "success": {
-      "value": "#03B248",
+      "value": "#00B20B",
       "type": "color",
       "description": "Indication of success transactions"
     },
