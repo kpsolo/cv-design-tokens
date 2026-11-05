@@ -1672,7 +1672,7 @@
       "description": "for set by admin.. (card of collection,deals, tournament, lottery,news)"
     },
     "additional": {
-      "value": "#1D2C48",
+      "value": "#1B202A",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
