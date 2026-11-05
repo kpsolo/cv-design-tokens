@@ -4742,7 +4742,7 @@
       "description": "use for hover state for messages desktop"
     },
     "link": {
-      "value": "{base.accent-primary}",
+      "value": "#3C8AF7",
       "type": "color",
       "description": "also use for win tickets in lottery results"
     },
