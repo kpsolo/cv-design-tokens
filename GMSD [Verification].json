@@ -2223,8 +2223,17 @@
           "description": "DEV - 1st deposit card stroke, welcomeback popup border "
         },
         "main": {
-          "value": "rgba( {base.accent-primary}, 0.1)",
+          "value": "#FFFFFF",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "srgb"
+              }
+            }
+          },
           "description": "border for all cards - sidebar/main banner"
         },
         "main-additional": {
