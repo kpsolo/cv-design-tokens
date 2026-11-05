@@ -2998,13 +2998,13 @@
         "description": "border color for info inside transaction/ separator for items in tables in static page"
       },
       "extra": {
-        "value": "{base.accent-primary}",
+        "value": "#FFFFFF",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.1",
+              "value": "0.2",
               "space": "srgb"
             }
           }
