@@ -3037,7 +3037,7 @@
       "description": "bg for progressbar in loyalty"
     },
     "bullet": {
-      "value": "{base.primary}",
+      "value": "#FFF7DA",
       "type": "color"
     },
     "fade-tertiary": {
