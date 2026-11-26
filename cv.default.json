@@ -5516,13 +5516,13 @@
         "type": "color"
       },
       "extra": {
-        "value": "#000",
+        "value": "#fff",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.6",
+              "value": "0.2",
               "space": "srgb"
             }
           }
